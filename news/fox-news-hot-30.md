@@ -1,488 +1,488 @@
 # Fox News Hot 30
 
-> Fetched: 2026-11-16 05:32 UTC · Source: Fox News RSS (English original) · Count: 30
+> Fetched: 2026-11-17 02:14 UTC · Source: Fox News RSS (English original) · Count: 30
 
 ## Index
 
-1. [Aaron Rodgers, Steelers totally tank in primetime as Cincinnati Bengals roll to 38-18 Scorigami win](#1-aaron-rodgers-steelers-totally-tank-in-primetime-as-cincinna)
-2. [49ers fans involved in second consecutive week of fighting after Cowboys game at AT&T Stadium](#2-49ers-fans-involved-in-second-consecutive-week-of-fighting-a)
-3. [49ers offense puts up over 580 yards against a bad Cowboys defense behind a Christian McCaffrey masterclass](#3-49ers-offense-puts-up-over-580-yards-against-a-bad-cowboys-d)
-4. [Mike Vrabel doesn't want Patriots to 'b---h and complain' but he b----es and complains about his players a lot](#4-mike-vrabel-doesn-t-want-patriots-to-b-h-and-complain-but-he)
-5. [Young paraglider dies after reported emergency sends him crashing into field during Illinois flight](#5-young-paraglider-dies-after-reported-emergency-sends-him-cra)
-6. [Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue](#6-pete-buttigieg-breaks-with-democrats-on-student-loan-handout)
-7. [Raiders fans stayed seated when Fernando Mendoza scored so his wheelchair bound mom could see him celebrate](#7-raiders-fans-stayed-seated-when-fernando-mendoza-scored-so-h)
-8. [Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80](#8-mexico-s-cartel-godfather-convicted-in-american-dea-agent-s)
-9. [Lane Kiffin blames LSU's $40+ million roster after loss to Texas: 'we'll have better rosters’](#9-lane-kiffin-blames-lsu-s-40-million-roster-after-loss-to-tex)
-10. [Massive fire erupts outside MetLife Stadium after Bills defeat Jets in Week 10](#10-massive-fire-erupts-outside-metlife-stadium-after-bills-defe)
-11. [NFL legend's son makes incredible one-handed catch to help high school win championship in Pennsylvania](#11-nfl-legend-s-son-makes-incredible-one-handed-catch-to-help-h)
-12. [Russell Brand’s wife opens up after comedian’s rape conviction, shares message from imprisoned husband](#12-russell-brand-s-wife-opens-up-after-comedian-s-rape-convicti)
-13. [Seahawks receiver Tory Horton made one of the smartest plays you'll ever see in Seattle's win over Las Vegas](#13-seahawks-receiver-tory-horton-made-one-of-the-smartest-plays)
-14. [MiLaysia Fulwiley denies police account after Baton Rouge arrest, says 'the cop is literally lying'](#14-milaysia-fulwiley-denies-police-account-after-baton-rouge-ar)
-15. ['Marshals' star Luke Grimes admits he was 'worried' about doing 'Yellowstone' spinoff without on-screen wife](#15-marshals-star-luke-grimes-admits-he-was-worried-about-doing)
-16. [Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks](#16-blinken-warns-us-ground-invasion-of-iran-would-be-absolute-d)
-17. [TikToker arrested after big cat mauls teen to death during video shoot at private farm](#17-tiktoker-arrested-after-big-cat-mauls-teen-to-death-during-v)
-18. [NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat](#18-ntsb-details-warning-whistles-and-emergency-orders-before-ta)
-19. [Ashley Judd claims mom Naomi threatened to pull tuition over what she was learning and her lesbian professor](#19-ashley-judd-claims-mom-naomi-threatened-to-pull-tuition-over)
-20. [Kirk Cousins and the Minnesota Vikings are reunited and it feels so good after win over Green Bay Packers](#20-kirk-cousins-and-the-minnesota-vikings-are-reunited-and-it-f)
-21. [TNA's Trey Miguel working his way to Canada for Destination X title match despite travel chaos](#21-tna-s-trey-miguel-working-his-way-to-canada-for-destination)
-22. [USC great Keyshawn Johnson calls for Lincoln Riley's job: 'Time to find somebody else'](#22-usc-great-keyshawn-johnson-calls-for-lincoln-riley-s-job-tim)
-23. [Joe Biden calls Zelenskyy 'moody and stubborn,' questions his gratitude in new memoir](#23-joe-biden-calls-zelenskyy-moody-and-stubborn-questions-his-g)
-24. [White House calls DC policies 'insanity' after 19-year-old gunman gets probation in shooting](#24-white-house-calls-dc-policies-insanity-after-19-year-old-gun)
-25. [Common blood pressure drug helps more stroke survivors reach critical health target](#25-common-blood-pressure-drug-helps-more-stroke-survivors-reach)
-26. [FAA ground stop timeline: Weekend chaos grounds planes and postpones games](#26-faa-ground-stop-timeline-weekend-chaos-grounds-planes-and-po)
-27. [Buttigieg takes swipe at Trump administration amid FAA flight chaos](#27-buttigieg-takes-swipe-at-trump-administration-amid-faa-fligh)
-28. [NYC DSA urges AOC to run for president while planning to take over City Council](#28-nyc-dsa-urges-aoc-to-run-for-president-while-planning-to-tak)
-29. [Congress' incoming wealthiest member vows to crack down on politicians getting rich in office](#29-congress-incoming-wealthiest-member-vows-to-crack-down-on-po)
-30. [Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats](#30-trump-s-top-officials-retreat-behind-military-gates-as-ex-fb)
+1. [Former USMNT coach says 'American sports reward losers' as he leaves for Manchester United](#1-former-usmnt-coach-says-american-sports-reward-losers-as-he)
+2. [Curt Cignetti fires back at Indiana 'easy' schedule critics: 'I really don't give a s---'](#2-curt-cignetti-fires-back-at-indiana-easy-schedule-critics-i)
+3. [Hillary Clinton picks a foreign politician she believes is now the ‘leader of the free world’](#3-hillary-clinton-picks-a-foreign-politician-she-believes-is-n)
+4. [Fight reportedly breaks out between passengers aboard Chicago-bound flight, FBI responds](#4-fight-reportedly-breaks-out-between-passengers-aboard-chicag)
+5. [Ecuador's president denies US operates military base despite reports of troop buildup](#5-ecuador-s-president-denies-us-operates-military-base-despite)
+6. [Trump admin opens civil rights probes into 15 colleges over DEI grants](#6-trump-admin-opens-civil-rights-probes-into-15-colleges-over)
+7. [Netflix's 'Untold' series tackles the New York Giants' miracle Super Bowl XLII upset of the Patriots next](#7-netflix-s-untold-series-tackles-the-new-york-giants-miracle)
+8. [Democratic judge under fire for releasing violent offenders calls bail law a ‘direct assault’ on rights](#8-democratic-judge-under-fire-for-releasing-violent-offenders)
+9. [James Comer launches bid for Kentucky governor](#9-james-comer-launches-bid-for-kentucky-governor)
+10. [Illegal alien accused of attempted murder at large after Rikers release despite ICE detainer: DHS](#10-illegal-alien-accused-of-attempted-murder-at-large-after-rik)
+11. [Buster Posey headlines 27 names on the 2027 Major League Baseball Hall of Fame ballot](#11-buster-posey-headlines-27-names-on-the-2027-major-league-bas)
+12. [Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](#12-trump-s-asia-trip-takes-alaska-detour-as-weather-forces-refu)
+13. [Follow the Leader: Democrats face party battle as divisions deepen](#13-follow-the-leader-democrats-face-party-battle-as-divisions-d)
+14. [Influencer responds to critics of her apparent 'inappropriate' courtside tribute to the Clippers](#14-influencer-responds-to-critics-of-her-apparent-inappropriate)
+15. [Ring of Honor star Deonna Purrazzo talks possibility of taking part in AEW Blood and Guts match](#15-ring-of-honor-star-deonna-purrazzo-talks-possibility-of-taki)
+16. ['Bridgerton' star boycotts upcoming 'Harry Potter' TV show over author JK Rowling's transgender views](#16-bridgerton-star-boycotts-upcoming-harry-potter-tv-show-over)
+17. [Add this $47 portable jump starter to your winter car emergency kit](#17-add-this-47-portable-jump-starter-to-your-winter-car-emergen)
+18. [French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'](#18-french-troops-secretly-deployed-inside-ukraine-as-ex-nato-ch)
+19. [T-Mobile Black Friday deals: Get an iPhone 18 Pro for $0 upfront and $500 off Google Pixel Watch 5](#19-t-mobile-black-friday-deals-get-an-iphone-18-pro-for-0-upfro)
+20. [Boston Globe compares Dianna Russini to Bob Woodward amid Vrabel-sourcing scandal](#20-boston-globe-compares-dianna-russini-to-bob-woodward-amid-vr)
+21. [NFL promoting that Raiders coaches and players spoke to Francisco Mendoza in Spanish is a virtue signal stunt](#21-nfl-promoting-that-raiders-coaches-and-players-spoke-to-fran)
+22. [As a hot sleeper, I live in these Cozy Earth pajamas every winter — now 15% off for Black Friday](#22-as-a-hot-sleeper-i-live-in-these-cozy-earth-pajamas-every-wi)
+23. [United Airlines says technology issue resolved after ‘widespread system outage’](#23-united-airlines-says-technology-issue-resolved-after-widespr)
+24. [JD Vance says he and Trump still 'don't know' whether Alice Huang was a Chinese spy](#24-jd-vance-says-he-and-trump-still-don-t-know-whether-alice-hu)
+25. [Devin Hester says chasing rabbits through Florida sugarcane fields helped build NFL speed](#25-devin-hester-says-chasing-rabbits-through-florida-sugarcane)
+26. [Clarence Thomas calls foul on California ruling he says could turn citizens into government mouthpieces](#26-clarence-thomas-calls-foul-on-california-ruling-he-says-coul)
+27. [Dem governor rips College Republicans for hosting ex-Trump Border chief, provokes fiery response](#27-dem-governor-rips-college-republicans-for-hosting-ex-trump-b)
+28. [Police groups condemn Mamdani over axing elite NYPD unit](#28-police-groups-condemn-mamdani-over-axing-elite-nypd-unit)
+29. [Senate Dem challenging Sen Chuck Schumer for leadership post backs Hakeem Jeffries for House speaker](#29-senate-dem-challenging-sen-chuck-schumer-for-leadership-post)
+30. [Trump brings two divided Cabinet heavyweights to China as controversy hangs over high-stakes talks](#30-trump-brings-two-divided-cabinet-heavyweights-to-china-as-co)
 
 ---
 
-<a id="1-aaron-rodgers-steelers-totally-tank-in-primetime-as-cincinna"></a>
-## 1. Aaron Rodgers, Steelers totally tank in primetime as Cincinnati Bengals roll to 38-18 Scorigami win
+<a id="1-former-usmnt-coach-says-american-sports-reward-losers-as-he"></a>
+## 1. Former USMNT coach says 'American sports reward losers' as he leaves for Manchester United
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Mon, 16 Nov 2026 00:08:40 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/aaron-rodgers-steelers-tank-primetime-cincinnati-bengals-roll-38-18-scorigami-win
+- **Published:** Mon, 16 Nov 2026 20:52:13 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/former-usmnt-coach-says-american-sports-reward-losers-leaves-manchester-united
 - **Image:**
 
-![Aaron Rodgers, Steelers totally tank in primetime as Cincinnati Bengals roll to 38-18 Scorigami win](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aaron-rodgers-steelers-bengals-snf.jpg?ve=1&tl=1)
+![Former USMNT coach says 'American sports reward losers' as he leaves for Manchester United](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/pochettino-usmnt-featured.jpg?ve=1&tl=1)
 
 
-Joe Burrow threw for 409 yards and four touchdowns while Ja'Marr Chase hauled in 231 yards as the Bengals demolished the Steelers 38-18.
+Mauricio Pochettino says American sports reward losers, blasting Major League Soccer's lack of promotion and relegation as he departs the USMNT.
 
 ---
 
-<a id="2-49ers-fans-involved-in-second-consecutive-week-of-fighting-a"></a>
-## 2. 49ers fans involved in second consecutive week of fighting after Cowboys game at AT&T Stadium
+<a id="2-curt-cignetti-fires-back-at-indiana-easy-schedule-critics-i"></a>
+## 2. Curt Cignetti fires back at Indiana 'easy' schedule critics: 'I really don't give a s---'
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 22:33:50 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/49ers-fans-involved-second-consecutive-week-fighting-after-cowboys-game-att-stadium
+- **Published:** Mon, 16 Nov 2026 20:34:10 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/curt-cignetti-fires-back-indiana-easy-schedule-critics-really-dont-give
 - **Image:**
 
-![49ers fans involved in second consecutive week of fighting after Cowboys game at AT&T Stadium](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/49ers-fans.jpg?ve=1&tl=1)
+![Curt Cignetti fires back at Indiana 'easy' schedule critics: 'I really don't give a s---'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/curt-cignetti-indiana-hoosiers-football.jpg?ve=1&tl=1)
 
 
-Video captures a massive brawl between San Francisco 49ers and Dallas Cowboys fans at Texas Live, where police scrambled to break up the chaos.
+Indiana coach Curt Cignetti slammed critics of the Hoosiers' soft schedule, saying the narrative fuels the 9-1 team's chip with CFP rankings looming.
 
 ---
 
-<a id="3-49ers-offense-puts-up-over-580-yards-against-a-bad-cowboys-d"></a>
-## 3. 49ers offense puts up over 580 yards against a bad Cowboys defense behind a Christian McCaffrey masterclass
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 21:44:53 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/49ers-offense-580-yards-bad-cowboys-defense-christian-mccaffrey-masterclass
-- **Image:**
-
-![49ers offense puts up over 580 yards against a bad Cowboys defense behind a Christian McCaffrey masterclass](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/deebo-samuel-touchdown-cowboys-49ers.jpg?ve=1&tl=1)
-
-
-Kaelon Black's bulldozing TD and Deebo Samuel's 70-yard reverse blew open a tight game as the San Francisco 49ers torched Dallas for 584 yards.
-
----
-
-<a id="4-mike-vrabel-doesn-t-want-patriots-to-b-h-and-complain-but-he"></a>
-## 4. Mike Vrabel doesn't want Patriots to 'b---h and complain' but he b----es and complains about his players a lot
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 21:33:59 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/mike-vrabel-doesnt-want-patriots-bitch-complain-bitches-complains-players
-- **Image:**
-
-![Mike Vrabel doesn't want Patriots to 'b---h and complain' but he b----es and complains about his players a lot](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/nfl-patriots-mike-vrabel-012626-1.jpg?ve=1&tl=1)
-
-
-Mike Vrabel says winners don't complain, but his post-loss press conference in Munich told a very different story after the Patriots' 35-10 defeat.
-
----
-
-<a id="5-young-paraglider-dies-after-reported-emergency-sends-him-cra"></a>
-## 5. Young paraglider dies after reported emergency sends him crashing into field during Illinois flight
-
-- **Section:** fox-news/us
-- **Published:** Sun, 15 Nov 2026 21:33:45 -0500
-- **Link:** https://www.foxnews.com/us/young-paraglider-dies-after-reported-emergency-sends-him-crashing-field-during-illinois-flight
-- **Image:**
-
-![Young paraglider dies after reported emergency sends him crashing into field during Illinois flight](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paraglider-1.jpg?ve=1&tl=1)
-
-
-Officials are investigating a fatal paragliding incident involving a 21-year-old man from a Chicago suburb who shared his aerial adventures and daring stunts online.
-
----
-
-<a id="6-pete-buttigieg-breaks-with-democrats-on-student-loan-handout"></a>
-## 6. Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue
+<a id="3-hillary-clinton-picks-a-foreign-politician-she-believes-is-n"></a>
+## 3. Hillary Clinton picks a foreign politician she believes is now the ‘leader of the free world’
 
 - **Section:** fox-news/media
-- **Published:** Sun, 15 Nov 2026 21:07:33 -0500
-- **Link:** https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue
+- **Published:** Mon, 16 Nov 2026 20:11:15 -0500
+- **Link:** https://www.foxnews.com/media/hillary-clinton-picks-foreign-politician-believes-leader-free-world
 - **Image:**
 
-![Pete Buttigieg breaks with Democrats on student loan handouts, admits party ‘overtorqued’ on issue](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pete-buttigeg-american-flag-rally.png?ve=1&tl=1)
+![Hillary Clinton picks a foreign politician she believes is now the ‘leader of the free world’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/hillary-clinton-september-2026-scaled.jpg?ve=1&tl=1)
 
 
-Pete Buttigieg said the Democratic Party "overtorqued" on student loans, admitting that he struggles to justify loan forgiveness to non-college relatives.
+Former Secretary of State Hillary Clinton argued Canadian Prime Minister Mark Carney may be the current "leader of the free world" instead of President Donald Trump.
 
 ---
 
-<a id="7-raiders-fans-stayed-seated-when-fernando-mendoza-scored-so-h"></a>
-## 7. Raiders fans stayed seated when Fernando Mendoza scored so his wheelchair bound mom could see him celebrate
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 21:02:11 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/raiders-fans-stayed-seated-fernando-mendoza-scored-wheelchair-bound-mom-could-see-him-celebrate
-- **Image:**
-
-![Raiders fans stayed seated when Fernando Mendoza scored so his wheelchair bound mom could see him celebrate](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/fernando-mendoza-throws-raiders-seahawks.jpg?ve=1&tl=1)
-
-
-Las Vegas Raiders fans stayed seated after Fernando Mendoza's first NFL touchdown so his mother, who battles multiple sclerosis, could watch.
-
----
-
-<a id="8-mexico-s-cartel-godfather-convicted-in-american-dea-agent-s"></a>
-## 8. Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80
-
-- **Section:** fox-news/world
-- **Published:** Sun, 15 Nov 2026 20:54:06 -0500
-- **Link:** https://www.foxnews.com/world/mexicos-cartel-godfather-convicted-american-dea-agents-murder-dies-age-80
-- **Image:**
-
-![Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/miguel-angel-felix-gallardo-mugshot-mexican-soldiers.jpg?ve=1&tl=1)
-
-
-The Guadalajara cartel boss convicted in DEA agent Enrique "Kiki" Camarena's murder died at 80, decades after the killing triggered Operation Leyenda.
-
----
-
-<a id="9-lane-kiffin-blames-lsu-s-40-million-roster-after-loss-to-tex"></a>
-## 9. Lane Kiffin blames LSU's $40+ million roster after loss to Texas: 'we'll have better rosters’
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 20:39:03 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/lane-kiffin-blames-lsu-40-million-roster-loss-texas-better-rosters
-- **Image:**
-
-![Lane Kiffin blames LSU's $40+ million roster after loss to Texas: 'we'll have better rosters’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lane-kiffin-lsu-tigers-football-baton-rouge.jpg?ve=1&tl=1)
-
-
-Lane Kiffin blamed LSU's roster after losing to the Texas Longhorns despite forcing three Arch Manning interceptions and dominating key stats.
-
----
-
-<a id="10-massive-fire-erupts-outside-metlife-stadium-after-bills-defe"></a>
-## 10. Massive fire erupts outside MetLife Stadium after Bills defeat Jets in Week 10
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 20:32:42 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/massive-fire-erupts-outside-metlife-stadium-bills-defeat-jets-week-10
-- **Image:**
-
-![Massive fire erupts outside MetLife Stadium after Bills defeat Jets in Week 10](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/new-york-jets-metlife-stadium.jpg?ve=1&tl=1)
-
-
-Video shows flames and thick black smoke billowing over MetLife Stadium near the adjacent train station after the Bills' 31-12 win over the Jets.
-
----
-
-<a id="11-nfl-legend-s-son-makes-incredible-one-handed-catch-to-help-h"></a>
-## 11. NFL legend's son makes incredible one-handed catch to help high school win championship in Pennsylvania
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 20:18:12 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/nfl-legends-son-makes-incredible-one-handed-catch-help-high-school-win-championship-pennsylvania
-- **Image:**
-
-![NFL legend's son makes incredible one-handed catch to help high school win championship in Pennsylvania](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/xxavier-thomas-jett-harrison-piaa-championship.jpg?ve=1&tl=1)
-
-
-Jett Harrison's stunning one-handed catch helped St. Joseph's Prep win the Philadelphia Catholic League title against the school his father attended.
-
----
-
-<a id="12-russell-brand-s-wife-opens-up-after-comedian-s-rape-convicti"></a>
-## 12. Russell Brand’s wife opens up after comedian’s rape conviction, shares message from imprisoned husband
-
-- **Section:** fox-news/entertainment
-- **Published:** Sun, 15 Nov 2026 20:08:25 -0500
-- **Link:** https://www.foxnews.com/entertainment/russell-brands-wife-opens-up-after-comedians-rape-conviction-shares-message-from-imprisoned-husband
-- **Image:**
-
-![Russell Brand’s wife opens up after comedian’s rape conviction, shares message from imprisoned husband](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/russell-brand-laura.jpg?ve=1&tl=1)
-
-
-Laura Brand appeared alone on the couple's weekly Sunday Service YouTube vlog, sharing a message Russell Brand asked her to read from prison.
-
----
-
-<a id="13-seahawks-receiver-tory-horton-made-one-of-the-smartest-plays"></a>
-## 13. Seahawks receiver Tory Horton made one of the smartest plays you'll ever see in Seattle's win over Las Vegas
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 20:05:53 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/seahawks-receiver-tory-horton-made-one-smartest-plays-youll-ever-see-seattles-win-las-vegas
-- **Image:**
-
-![Seahawks receiver Tory Horton made one of the smartest plays you'll ever see in Seattle's win over Las Vegas](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/tory-horton-touchdown-seahawks-saints.jpg?ve=1&tl=1)
-
-
-Tory Horton's brilliant kickoff swat burned critical seconds off the clock and triggered the two-minute warning in the Seattle Seahawks' win.
-
----
-
-<a id="14-milaysia-fulwiley-denies-police-account-after-baton-rouge-ar"></a>
-## 14. MiLaysia Fulwiley denies police account after Baton Rouge arrest, says 'the cop is literally lying'
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 20:05:48 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/milaysia-fulwiley-denies-police-account-baton-rouge-arrest-cop-literally-lying
-- **Image:**
-
-![MiLaysia Fulwiley denies police account after Baton Rouge arrest, says 'the cop is literally lying'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lsu-milaysia-fulwiley-3.jpg?ve=1&tl=1)
-
-
-MiLaysia Fulwiley faces five charges including aggravated battery after allegedly striking a Baton Rouge officer with her car during a traffic stop.
-
----
-
-<a id="15-marshals-star-luke-grimes-admits-he-was-worried-about-doing"></a>
-## 15. 'Marshals' star Luke Grimes admits he was 'worried' about doing 'Yellowstone' spinoff without on-screen wife
-
-- **Section:** fox-news/entertainment
-- **Published:** Sun, 15 Nov 2026 20:00:10 -0500
-- **Link:** https://www.foxnews.com/entertainment/marshals-star-luke-grimes-admits-he-worried-about-doing-yellowstone-spinoff-without-on-screen-wife
-- **Image:**
-
-!['Marshals' star Luke Grimes admits he was 'worried' about doing 'Yellowstone' spinoff without on-screen wife](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/luke-and-kelsey.jpg?ve=1&tl=1)
-
-
-Luke Grimes says doing "Marshals" without Kelsey Asbille was his biggest worry, admitting he couldn't picture Kayce Dutton without Monica.
-
----
-
-<a id="16-blinken-warns-us-ground-invasion-of-iran-would-be-absolute-d"></a>
-## 16. Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks
-
-- **Section:** fox-news/world
-- **Published:** Sun, 15 Nov 2026 19:17:38 -0500
-- **Link:** https://www.foxnews.com/world/blinken-warns-us-ground-invasion-iran-would-be-disaster-tehran-escalates-attacks
-- **Image:**
-
-![Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/blinken-iran.jpg?ve=1&tl=1)
-
-
-Former Secretary of State Antony Blinken warned a U.S. ground invasion of Iran would be an "absolute disaster" as Tehran launched drones at Bahrain.
-
----
-
-<a id="17-tiktoker-arrested-after-big-cat-mauls-teen-to-death-during-v"></a>
-## 17. TikToker arrested after big cat mauls teen to death during video shoot at private farm
-
-- **Section:** fox-news/world
-- **Published:** Sun, 15 Nov 2026 19:14:22 -0500
-- **Link:** https://www.foxnews.com/world/tiktoker-arrested-big-cat-mauls-teen-death-video-shoot-private-farm
-- **Image:**
-
-![TikToker arrested after big cat mauls teen to death during video shoot at private farm](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pakistan-tiger-attack.jpg?ve=1&tl=1)
-
-
-A TikToker and farm owner were arrested after a big cat fatally mauled a teenage worker during a video shoot in Pakistan, Lahore officials said.
-
----
-
-<a id="18-ntsb-details-warning-whistles-and-emergency-orders-before-ta"></a>
-## 18. NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat
+<a id="4-fight-reportedly-breaks-out-between-passengers-aboard-chicag"></a>
+## 4. Fight reportedly breaks out between passengers aboard Chicago-bound flight, FBI responds
 
 - **Section:** fox-news/us
-- **Published:** Sun, 15 Nov 2026 18:26:19 -0500
-- **Link:** https://www.foxnews.com/us/ntsb-details-warning-whistles-emergency-orders-before-tanker-collision-capsized-new-orleans-riverboat
+- **Published:** Mon, 16 Nov 2026 19:50:29 -0500
+- **Link:** https://www.foxnews.com/us/fight-reportedly-breaks-passengers-chicago-bound-flight-fbi-responds
 - **Image:**
 
-![NTSB details warning whistles and emergency orders before tanker collision capsized New Orleans riverboat](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riverboat-american-heritage-capsized-mississippi-river.jpg?ve=1&tl=1)
+![Fight reportedly breaks out between passengers aboard Chicago-bound flight, FBI responds](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/931/523/qatar-airways.jpg?ve=1&tl=1)
 
 
-NTSB investigators detail warning whistles and emergency orders captured on the tanker's voyage recorder before the New Orleans riverboat collision.
+A passenger reportedly assaulted another traveler aboard Qatar Airways flight QR725 from Doha to Chicago, prompting an FBI and police response.
 
 ---
 
-<a id="19-ashley-judd-claims-mom-naomi-threatened-to-pull-tuition-over"></a>
-## 19. Ashley Judd claims mom Naomi threatened to pull tuition over what she was learning and her lesbian professor
+<a id="5-ecuador-s-president-denies-us-operates-military-base-despite"></a>
+## 5. Ecuador's president denies US operates military base despite reports of troop buildup
 
-- **Section:** fox-news/entertainment
-- **Published:** Sun, 15 Nov 2026 18:00:13 -0500
-- **Link:** https://www.foxnews.com/entertainment/ashley-judd-claims-mom-naomi-threatened-pull-tuition-over-what-she-learning-her-lesbian-professor
+- **Section:** fox-news/world
+- **Published:** Mon, 16 Nov 2026 19:23:50 -0500
+- **Link:** https://www.foxnews.com/world/ecuador-president-denies-us-operates-military-base-reports-troop-buildup
 - **Image:**
 
-![Ashley Judd claims mom Naomi threatened to pull tuition over what she was learning and her lesbian professor](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/judds.jpg?ve=1&tl=1)
+![Ecuador's president denies US operates military base despite reports of troop buildup](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/us-ecuador.jpg?ve=1&tl=1)
 
 
-Ashley Judd reveals Naomi Judd threatened to stop paying her tuition over a lesbian theologian professor on her new podcast "A Table Prepared."
+Ecuadorian President Daniel Noboa denies the U.S. operates a military base at Taura Air Base, describing American personnel's activities as temporary.
 
 ---
 
-<a id="20-kirk-cousins-and-the-minnesota-vikings-are-reunited-and-it-f"></a>
-## 20. Kirk Cousins and the Minnesota Vikings are reunited and it feels so good after win over Green Bay Packers
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 17:56:14 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/kirk-cousins-minnesota-vikings-reunited-feels-good-win-green-bay-packers
-- **Image:**
-
-![Kirk Cousins and the Minnesota Vikings are reunited and it feels so good after win over Green Bay Packers](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirk-cousins-minnesota-vikings-lambeau-field.jpg?ve=1&tl=1)
-
-
-Kirk Cousins led the Minnesota Vikings to a dominant win at Lambeau Field, and his emotional reunion with Kevin O'Connell raises a big question.
-
----
-
-<a id="21-tna-s-trey-miguel-working-his-way-to-canada-for-destination"></a>
-## 21. TNA's Trey Miguel working his way to Canada for Destination X title match despite travel chaos
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 17:46:15 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/tna-trey-miguel-working-way-canada-destination-x-title-match-despite-travel-chaos
-- **Image:**
-
-![TNA's Trey Miguel working his way to Canada for Destination X title match despite travel chaos](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trey-miguel-jason-hotch-wrestling-ottawa.jpg?ve=1&tl=1)
-
-
-Trey Miguel's TNA World Championship match against Leon Slater was in jeopardy after Friday's nationwide ground stop stranded him in transit.
-
----
-
-<a id="22-usc-great-keyshawn-johnson-calls-for-lincoln-riley-s-job-tim"></a>
-## 22. USC great Keyshawn Johnson calls for Lincoln Riley's job: 'Time to find somebody else'
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Sun, 15 Nov 2026 17:43:33 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/usc-great-keyshawn-johnson-calls-lincoln-riley-job-time-find-somebody-else
-- **Image:**
-
-![USC great Keyshawn Johnson calls for Lincoln Riley's job: 'Time to find somebody else'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/keyshawn-johnson-usc-notre-dame-fox-news_.jpg?ve=1&tl=1)
-
-
-Keyshawn Johnson posted a frustrated video calling for USC to fire Lincoln Riley after the Trojans' 27-13 loss to Indiana knocked them from CFP contention.
-
----
-
-<a id="23-joe-biden-calls-zelenskyy-moody-and-stubborn-questions-his-g"></a>
-## 23. Joe Biden calls Zelenskyy 'moody and stubborn,' questions his gratitude in new memoir
+<a id="6-trump-admin-opens-civil-rights-probes-into-15-colleges-over"></a>
+## 6. Trump admin opens civil rights probes into 15 colleges over DEI grants
 
 - **Section:** fox-news/media
-- **Published:** Sun, 15 Nov 2026 17:31:24 -0500
-- **Link:** https://www.foxnews.com/media/joe-biden-calls-zelenskyy-moody-stubborn-questions-gratitude-new-memoir
+- **Published:** Mon, 16 Nov 2026 19:23:40 -0500
+- **Link:** https://www.foxnews.com/media/trump-admin-opens-civil-rights-probes-15-colleges-over-dei-grants
 - **Image:**
 
-![Joe Biden calls Zelenskyy 'moody and stubborn,' questions his gratitude in new memoir](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/biden-and-zelenskyy.png?ve=1&tl=1)
+![Trump admin opens civil rights probes into 15 colleges over DEI grants](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/931/524/TrumpAP031720.jpg?ve=1&tl=1)
 
 
-Joe Biden calls Volodymyr Zelenskyy "moody" and "not as grateful as I would have expected" in his forthcoming memoir, "Promise Me, America."
+The Education Department's Office for Civil Rights opened probes into CUNY's NYC Men Teach program over alleged race- and sex-based discrimination.
 
 ---
 
-<a id="24-white-house-calls-dc-policies-insanity-after-19-year-old-gun"></a>
-## 24. White House calls DC policies 'insanity' after 19-year-old gunman gets probation in shooting
+<a id="7-netflix-s-untold-series-tackles-the-new-york-giants-miracle"></a>
+## 7. Netflix's 'Untold' series tackles the New York Giants' miracle Super Bowl XLII upset of the Patriots next
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Mon, 16 Nov 2026 19:17:12 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/netflix-untold-series-tackles-new-york-giants-miracle-super-bowl-xlii-upset-patriots
+- **Image:**
+
+![Netflix's 'Untold' series tackles the New York Giants' miracle Super Bowl XLII upset of the Patriots next](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/eli-manning-lombardi-12126.jpg?ve=1&tl=1)
+
+
+Netflix's "Untold: One Giant Upset" lands Dec. 21, featuring Eli Manning, Michael Strahan, and Tom Brady on the Giants' shocking Super Bowl XLII win.
+
+---
+
+<a id="8-democratic-judge-under-fire-for-releasing-violent-offenders"></a>
+## 8. Democratic judge under fire for releasing violent offenders calls bail law a ‘direct assault’ on rights
+
+- **Section:** fox-news/us
+- **Published:** Mon, 16 Nov 2026 19:15:12 -0500
+- **Link:** https://www.foxnews.com/us/democratic-judge-fire-releasing-violent-offenders-calls-bail-law-direct-assault-rights
+- **Image:**
+
+![Democratic judge under fire for releasing violent offenders calls bail law a ‘direct assault’ on rights](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/11/931/523/copy-of-right-inset-56.png?ve=1&tl=1)
+
+
+Judge David Carpenter called Alabama’s Aniah’s Law a ‘direct assault’ on constitutional rights, citing defendants’ presumption of innocence.
+
+---
+
+<a id="9-james-comer-launches-bid-for-kentucky-governor"></a>
+## 9. James Comer launches bid for Kentucky governor
 
 - **Section:** fox-news/politics
-- **Published:** Sun, 15 Nov 2026 17:31:11 -0500
-- **Link:** https://www.foxnews.com/politics/white-house-calls-dc-policies-insanity-after-19-year-old-gunman-gets-probation-shooting
+- **Published:** Mon, 16 Nov 2026 19:14:04 -0500
+- **Link:** https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor
 - **Image:**
 
-![White House calls DC policies 'insanity' after 19-year-old gunman gets probation in shooting](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/washington-dc-police-crime_01.jpg?ve=1&tl=1)
+![James Comer launches bid for Kentucky governor](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/james-comer-01.jpg?ve=1&tl=1)
 
 
-A 19-year-old who prosecutors said fired more than 20 rounds into a D.C. neighborhood got probation, prompting the White House to slam the city's crime policies.
+House Oversight Committee Chairman James Comer, R-Ky., is launching a campaign for Kentucky governor Monday night, a source familiar with the plan says.
 
 ---
 
-<a id="25-common-blood-pressure-drug-helps-more-stroke-survivors-reach"></a>
-## 25. Common blood pressure drug helps more stroke survivors reach critical health target
+<a id="10-illegal-alien-accused-of-attempted-murder-at-large-after-rik"></a>
+## 10. Illegal alien accused of attempted murder at large after Rikers release despite ICE detainer: DHS
 
-- **Section:** fox-news/health
-- **Published:** Sun, 15 Nov 2026 17:20:45 -0500
-- **Link:** https://www.foxnews.com/health/common-blood-pressure-drug-helps-stroke-survivors-reach-critical-health-target
+- **Section:** fox-news/us
+- **Published:** Mon, 16 Nov 2026 19:10:23 -0500
+- **Link:** https://www.foxnews.com/us/illegal-alien-accused-attempted-murder-large-after-rikers-release-despite-ice-detainer-dhs
 - **Image:**
 
-![Common blood pressure drug helps more stroke survivors reach critical health target](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/woman-taking-blood-pressure.jpg?ve=1&tl=1)
+![Illegal alien accused of attempted murder at large after Rikers release despite ICE detainer: DHS](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Delon-Jaundoo.jpg?ve=1&tl=1)
 
 
-The REDUCE trial found spironolactone lowered blood pressure by nearly eight points in stroke survivors, but key questions about prevention remain.
+Delon Raymond Jaundoo, a Guyanese citizen in the United States illegally, was freed from Rikers Island despite an ICE detainer, according to DHS.
 
 ---
 
-<a id="26-faa-ground-stop-timeline-weekend-chaos-grounds-planes-and-po"></a>
-## 26. FAA ground stop timeline: Weekend chaos grounds planes and postpones games
+<a id="11-buster-posey-headlines-27-names-on-the-2027-major-league-bas"></a>
+## 11. Buster Posey headlines 27 names on the 2027 Major League Baseball Hall of Fame ballot
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Mon, 16 Nov 2026 18:56:36 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/buster-posey-headlines-27-names-2027-major-league-baseball-hall-fame-ballot
+- **Image:**
+
+![Buster Posey headlines 27 names on the 2027 Major League Baseball Hall of Fame ballot](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/buster-posey-giants-oracle-park.jpg?ve=1&tl=1)
+
+
+Buster Posey headlined the 14 first-timers on Major League Baseball's 2027 Hall of Fame ballot, eyeing first-ballot status after three World Series titles.
+
+---
+
+<a id="12-trump-s-asia-trip-takes-alaska-detour-as-weather-forces-refu"></a>
+## 12. Trump’s Asia trip takes Alaska detour as weather forces refueling stop change
 
 - **Section:** fox-news/politics
-- **Published:** Sun, 15 Nov 2026 15:51:02 -0500
-- **Link:** https://www.foxnews.com/politics/faa-ground-stop-timeline-weekend-chaos-grounds-planes-postpones-games
+- **Published:** Mon, 16 Nov 2026 18:48:44 -0500
+- **Link:** https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change
 - **Image:**
 
-![FAA ground stop timeline: Weekend chaos grounds planes and postpones games](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/faa-groundstop-fox-news-010.jpg?ve=1&tl=1)
+![Trump’s Asia trip takes Alaska detour as weather forces refueling stop change](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/donald-trump-marine-one-salute-asia-trip.jpg?ve=1&tl=1)
 
 
-Transportation Secretary Sean Duffy said overloaded routers tied to contractor L3Harris maintenance work triggered the longest nationwide FAA ground stop in 25 years.
+Air Force One diverted its Alaska refueling stop from Anchorage to Fairbanks due to extreme weather as President Donald Trump's Asia trip heads to Manila.
 
 ---
 
-<a id="27-buttigieg-takes-swipe-at-trump-administration-amid-faa-fligh"></a>
-## 27. Buttigieg takes swipe at Trump administration amid FAA flight chaos
+<a id="13-follow-the-leader-democrats-face-party-battle-as-divisions-d"></a>
+## 13. Follow the Leader: Democrats face party battle as divisions deepen
 
 - **Section:** fox-news/politics
-- **Published:** Sun, 15 Nov 2026 11:28:15 -0500
-- **Link:** https://www.foxnews.com/politics/buttigieg-takes-swipe-trump-administration-amid-faa-flight-chaos
+- **Published:** Mon, 16 Nov 2026 18:30:58 -0500
+- **Link:** https://www.foxnews.com/politics/follow-leader-democrats-face-party-battle-divisions-deepen
 - **Image:**
 
-![Buttigieg takes swipe at Trump administration amid FAA flight chaos](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/pete-buttigieg-politics-democrats-fox-news.jpg?ve=1&tl=1)
+![Follow the Leader: Democrats face party battle as divisions deepen](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/hakeem-jeffries-conference.jpg?ve=1&tl=1)
 
 
-Former Transportation Secretary Pete Buttigieg joked he'd help travelers rebook flights at a hotel bar after the FAA's nationwide ground stop Friday.
+Democrats face internal divisions as Hakeem Jeffries and Chuck Schumer encounter resistance from members questioning their leadership and the party's direction.
 
 ---
 
-<a id="28-nyc-dsa-urges-aoc-to-run-for-president-while-planning-to-tak"></a>
-## 28. NYC DSA urges AOC to run for president while planning to take over City Council
+<a id="14-influencer-responds-to-critics-of-her-apparent-inappropriate"></a>
+## 14. Influencer responds to critics of her apparent 'inappropriate' courtside tribute to the Clippers
 
-- **Section:** fox-news/politics
-- **Published:** Sun, 15 Nov 2026 10:55:47 -0500
-- **Link:** https://www.foxnews.com/politics/nyc-dsa-urges-aoc-run-president-planning-take-over-city-council
+- **Section:** fox-news/outkick-sports
+- **Published:** Mon, 16 Nov 2026 18:21:45 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/influencer-responds-critics-apparent-inappropriate-courtside-tribute-clippers
 - **Image:**
 
-![NYC DSA urges AOC to run for president while planning to take over City Council](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/socialists-democratic-party-zohran-mamdani.jpg?ve=1&tl=1)
+![Influencer responds to critics of her apparent 'inappropriate' courtside tribute to the Clippers](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/la-clippers-fans-cheer-intuit-dome.jpg?ve=1&tl=1)
 
 
-NYC's Democratic Socialists of America voted to urge AOC to run for president in 2028, but some resolutions sparked an AI-generated controversy.
+Brittany Renner and Celina Powell went viral courtside at a Los Angeles Clippers game, with a stunned Sour Patch Kids fan stealing the show in a photo.
 
 ---
 
-<a id="29-congress-incoming-wealthiest-member-vows-to-crack-down-on-po"></a>
-## 29. Congress' incoming wealthiest member vows to crack down on politicians getting rich in office
+<a id="15-ring-of-honor-star-deonna-purrazzo-talks-possibility-of-taki"></a>
+## 15. Ring of Honor star Deonna Purrazzo talks possibility of taking part in AEW Blood and Guts match
 
-- **Section:** fox-news/politics
-- **Published:** Sun, 15 Nov 2026 10:00:17 -0500
-- **Link:** https://www.foxnews.com/politics/congress-incoming-wealthiest-member-vows-crack-down-politicians-getting-rich-office
+- **Section:** fox-news/outkick-sports
+- **Published:** Mon, 16 Nov 2026 18:12:37 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/ring-honor-star-deonna-purrazzo-talks-possibility-taking-part-aew-blood-guts-match
 - **Image:**
 
-![Congress' incoming wealthiest member vows to crack down on politicians getting rich in office](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/us-capitol-building-2026.jpg?ve=1&tl=1)
+![Ring of Honor star Deonna Purrazzo talks possibility of taking part in AEW Blood and Guts match](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/deonna-purrazzo-aew-collision-youngstown.jpg?ve=1&tl=1)
 
 
-Joe Strada said he plans to crack down on congressional insider trading and politicians enriching themselves, drawing on his rise from bowling alley mechanic.
+Deonna Purrazzo says an AEW Blood and Guts match would take the right story, recalling her Texas Bull Rope feud with Thunder Rosa on "Collision".
 
 ---
 
-<a id="30-trump-s-top-officials-retreat-behind-military-gates-as-ex-fb"></a>
-## 30. Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats
+<a id="16-bridgerton-star-boycotts-upcoming-harry-potter-tv-show-over"></a>
+## 16. 'Bridgerton' star boycotts upcoming 'Harry Potter' TV show over author JK Rowling's transgender views
 
-- **Section:** fox-news/politics
-- **Published:** Sun, 15 Nov 2026 08:00:14 -0500
-- **Link:** https://www.foxnews.com/politics/trumps-top-officials-retreat-behind-military-gates-ex-fbi-deputy-points-whats-fueling-threats
+- **Section:** fox-news/media
+- **Published:** Mon, 16 Nov 2026 18:01:47 -0500
+- **Link:** https://www.foxnews.com/media/bridgerton-star-boycotts-upcoming-harry-potter-tv-show-over-author-jk-rowlings-transgender-views
 - **Image:**
 
-![Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/scott-bessent-mamdani.jpg?ve=1&tl=1)
+!['Bridgerton' star boycotts upcoming 'Harry Potter' TV show over author JK Rowling's transgender views](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/nicola-coughlan-jk-rowling.jpg?ve=1&tl=1)
 
 
-Scott Bessent joins Todd Blanche, Marco Rubio and Pete Hegseth at Washington D.C. military bases amid Iranian assassination threats.
+Actress Nicola Coughlan, a vocal supporter of transgender rights, said she'd never join HBO Max's "Harry Potter" series despite loving the original books.
+
+---
+
+<a id="17-add-this-47-portable-jump-starter-to-your-winter-car-emergen"></a>
+## 17. Add this $47 portable jump starter to your winter car emergency kit
+
+- **Section:** fox-news/deals
+- **Published:** Mon, 16 Nov 2026 17:56:34 -0500
+- **Link:** https://www.foxnews.com/deals/dbpower-jump-starter-deal
+- **Image:**
+
+![Add this $47 portable jump starter to your winter car emergency kit](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/jumpstarter.jpg?ve=1&tl=1)
+
+
+The DBPower portable jump starter delivers 3,000 peak amps and fits in your glove box, now 41% off at just $47 on Amazon with smart clamps included.
+
+---
+
+<a id="18-french-troops-secretly-deployed-inside-ukraine-as-ex-nato-ch"></a>
+## 18. French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'
+
+- **Section:** fox-news/world
+- **Published:** Mon, 16 Nov 2026 17:44:05 -0500
+- **Link:** https://www.foxnews.com/world/french-troops-secretly-deployed-ukraine-ex-nato-chief-praises-macrons-guts
+- **Image:**
+
+![French troops secretly deployed inside Ukraine as ex-NATO chief praises Macron's 'guts'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/11/931/523/france-emmanuel-macron-ukraine-volodymyr-zelenskyy-fox-news.jpg?ve=1&tl=1)
+
+
+President Emmanuel Macron's France reportedly runs covert "Volia" mission training Ukrainian troops as Zelenskyy holds fresh peace talks with the US.
+
+---
+
+<a id="19-t-mobile-black-friday-deals-get-an-iphone-18-pro-for-0-upfro"></a>
+## 19. T-Mobile Black Friday deals: Get an iPhone 18 Pro for $0 upfront and $500 off Google Pixel Watch 5
+
+- **Section:** fox-news/deals
+- **Published:** Mon, 16 Nov 2026 17:37:23 -0500
+- **Link:** https://www.foxnews.com/deals/t-mobile-black-friday-deals
+- **Image:**
+
+![T-Mobile Black Friday deals: Get an iPhone 18 Pro for $0 upfront and $500 off Google Pixel Watch 5](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/524/upgrade-your-phone-for-less-with-these-t-mobile-iphone-and-samsung-deals.jpg?ve=1&tl=1)
+
+
+T-Mobile's Black Friday deals slash up to $500 off the Google Pixel Watch 5, dropping it to as low as $30 with a new line, plus perks like DoorDash.
+
+---
+
+<a id="20-boston-globe-compares-dianna-russini-to-bob-woodward-amid-vr"></a>
+## 20. Boston Globe compares Dianna Russini to Bob Woodward amid Vrabel-sourcing scandal
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Mon, 16 Nov 2026 17:36:31 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/boston-globe-compares-dianna-russini-bob-woodward-amid-vrabel-sourcing-scandal
+- **Image:**
+
+![Boston Globe compares Dianna Russini to Bob Woodward amid Vrabel-sourcing scandal](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dianna-russini-201-magazine-old-tappan-nj.jpg?ve=1&tl=1)
+
+
+The Boston Globe compares NFL reporter Dianna Russini to Bob Woodward over her closeness to Patriots coach Mike Vrabel, but the paper sees a difference.
+
+---
+
+<a id="21-nfl-promoting-that-raiders-coaches-and-players-spoke-to-fran"></a>
+## 21. NFL promoting that Raiders coaches and players spoke to Francisco Mendoza in Spanish is a virtue signal stunt
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Mon, 16 Nov 2026 17:26:31 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/nfl-promoting-raiders-coaches-players-spoke-francisco-mendoza-spanish-virtue-signal-stunt
+- **Image:**
+
+![NFL promoting that Raiders coaches and players spoke to Francisco Mendoza in Spanish is a virtue signal stunt](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/fernando-mendoza-raiders-nfl-draft-fox-news-001.jpeg?ve=1&tl=1)
+
+
+Las Vegas Raiders' Spanish-language communication with quarterback Fernando Mendoza felt forced, scripted and not organic.
+
+---
+
+<a id="22-as-a-hot-sleeper-i-live-in-these-cozy-earth-pajamas-every-wi"></a>
+## 22. As a hot sleeper, I live in these Cozy Earth pajamas every winter — now 15% off for Black Friday
+
+- **Section:** fox-news/deals
+- **Published:** Mon, 16 Nov 2026 17:23:48 -0500
+- **Link:** https://www.foxnews.com/deals/cozy-earth-bamboo-pajamas-review
+- **Image:**
+
+![As a hot sleeper, I live in these Cozy Earth pajamas every winter — now 15% off for Black Friday](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/cozy.png?ve=1&tl=1)
+
+
+Cozy Earth bamboo pajamas are breathable and perfect for hot sleepers and they're 15% off for Black Friday.
+
+---
+
+<a id="23-united-airlines-says-technology-issue-resolved-after-widespr"></a>
+## 23. United Airlines says technology issue resolved after ‘widespread system outage’
+
+- **Section:** fox-news/us
+- **Published:** Mon, 16 Nov 2026 17:15:42 -0500
+- **Link:** https://www.foxnews.com/us/united-airlines-says-technology-issue-resolved-after-widespread-system-outage
+- **Image:**
+
+![United Airlines says technology issue resolved after ‘widespread system outage’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/931/523/ertert5465421313.jpg?ve=1&tl=1)
+
+
+United Airlines flights were stuck on tarmacs as pilots reported a companywide IT issue preventing takeoff data, days after the nationwide FAA ground stop.
+
+---
+
+<a id="24-jd-vance-says-he-and-trump-still-don-t-know-whether-alice-hu"></a>
+## 24. JD Vance says he and Trump still 'don't know' whether Alice Huang was a Chinese spy
+
+- **Section:** fox-news/media
+- **Published:** Mon, 16 Nov 2026 17:01:09 -0500
+- **Link:** https://www.foxnews.com/media/jd-vance-trump-dont-know-alice-huang-chinese-spy
+- **Image:**
+
+![JD Vance says he and Trump still 'don't know' whether Alice Huang was a Chinese spy](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/0b2078b7-vance-huang.png?ve=1&tl=1)
+
+
+JD Vance says intelligence on whether Alice Huang spied for China points in different directions, as Nvidia faces national security scrutiny over chips.
+
+---
+
+<a id="25-devin-hester-says-chasing-rabbits-through-florida-sugarcane"></a>
+## 25. Devin Hester says chasing rabbits through Florida sugarcane fields helped build NFL speed
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Mon, 16 Nov 2026 16:41:11 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/devin-hester-chasing-rabbits-florida-sugarcane-fields-helped-build-nfl-speed
+- **Image:**
+
+![Devin Hester says chasing rabbits through Florida sugarcane fields helped build NFL speed](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/devin-hester-bears-1.jpg?ve=1&tl=1)
+
+
+Devin Hester says chasing rabbits through sugarcane fields in the Glades helped shape his legendary speed, with catches earning up to $60 on weekends.
+
+---
+
+<a id="26-clarence-thomas-calls-foul-on-california-ruling-he-says-coul"></a>
+## 26. Clarence Thomas calls foul on California ruling he says could turn citizens into government mouthpieces
+
+- **Section:** fox-news/politics
+- **Published:** Mon, 16 Nov 2026 15:37:19 -0500
+- **Link:** https://www.foxnews.com/politics/clarence-thomas-calls-foul-california-ruling-he-says-could-turn-citizens-government-mouthpieces
+- **Image:**
+
+![Clarence Thomas calls foul on California ruling he says could turn citizens into government mouthpieces](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/06/931/523/supreme-court-justice-clarence-thomas.jpg?ve=1&tl=1)
+
+
+Clarence Thomas warns the Supreme Court's refusal to hear a California implicit bias case leaves states free to compel speech from private citizens.
+
+---
+
+<a id="27-dem-governor-rips-college-republicans-for-hosting-ex-trump-b"></a>
+## 27. Dem governor rips College Republicans for hosting ex-Trump Border chief, provokes fiery response
+
+- **Section:** fox-news/politics
+- **Published:** Mon, 16 Nov 2026 15:09:22 -0500
+- **Link:** https://www.foxnews.com/politics/dem-governor-rips-college-republicans-hosting-ex-trump-border-chief-provokes-fiery-response
+- **Image:**
+
+![Dem governor rips College Republicans for hosting ex-Trump Border chief, provokes fiery response](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/mikie-sherill-2.png?ve=1&tl=1)
+
+
+NJ Dem Gov. Mikie Sherrill says the state will work with Rutgers to 'protect' students as the college's student Republicans chapter invites former Trump immigration official to speak on campus.
+
+---
+
+<a id="28-police-groups-condemn-mamdani-over-axing-elite-nypd-unit"></a>
+## 28. Police groups condemn Mamdani over axing elite NYPD unit
+
+- **Section:** fox-news/politics
+- **Published:** Mon, 16 Nov 2026 14:36:53 -0500
+- **Link:** https://www.foxnews.com/politics/police-groups-condemn-mamdani-axing-elite-nypd-unit
+- **Image:**
+
+![Police groups condemn Mamdani over axing elite NYPD unit](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/new-york-city-mayor-zohran-mamdani-january-6-2026.jpg?ve=1&tl=1)
+
+
+Police union leaders slam NYC Mayor Zohran Mamdani's disbanding of the NYPD's Strategic Response Group, claiming the move puts public safety at risk.
+
+---
+
+<a id="29-senate-dem-challenging-sen-chuck-schumer-for-leadership-post"></a>
+## 29. Senate Dem challenging Sen Chuck Schumer for leadership post backs Hakeem Jeffries for House speaker
+
+- **Section:** fox-news/politics
+- **Published:** Mon, 16 Nov 2026 13:41:41 -0500
+- **Link:** https://www.foxnews.com/politics/senate-dem-challenging-sen-chuck-schumer-leadership-post-backs-hakeem-jeffries-house-speaker
+- **Image:**
+
+![Senate Dem challenging Sen Chuck Schumer for leadership post backs Hakeem Jeffries for House speaker](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/59aa893f-chris-van-hollen-2.jpg?ve=1&tl=1)
+
+
+Sen. Chris Van Hollen, who is currently challenging Sen. Chuck Schumer for a leadership role, backed Rep. Hakeem Jeffries for the House speakership.
+
+---
+
+<a id="30-trump-brings-two-divided-cabinet-heavyweights-to-china-as-co"></a>
+## 30. Trump brings two divided Cabinet heavyweights to China as controversy hangs over high-stakes talks
+
+- **Section:** fox-news/politics
+- **Published:** Mon, 16 Nov 2026 12:55:23 -0500
+- **Link:** https://www.foxnews.com/politics/trump-brings-two-divided-cabinet-heavyweights-china-controversy-hangs-over-high-stakes-talks
+- **Image:**
+
+![Trump brings two divided Cabinet heavyweights to China as controversy hangs over high-stakes talks](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/bessent-lutnick-001.jpg?ve=1&tl=1)
+
+
+President Donald Trump said Scott Bessent and Howard Lutnick hold opposing views on China as both join his high-stakes Asia trip to meet Xi Jinping.
 
 ---
