@@ -1,364 +1,364 @@
 # Hollywood News Top 30
 
-> Fetched: 2026-11-17 02:20 UTC · Source: publisher RSS · Count: 30
+> Fetched: 2026-11-18 06:22 UTC · Source: publisher RSS · Count: 30
 
 ## Index
 
-1. [Deadline Launches Its Contenders Film Los Angeles Streaming Site](https://deadline.com/2026/11/deadline-ontenders-film-los-angeles-streaming-site-launch-1237225279/) — deadline.com
-2. [‘NAZA’ Filmmakers Grateful for ‘Light Being Shone’ on Their Film Through Awards Conversation but Prioritize Impact: It’s a ‘Small Cog in a Machine of Resistance’](https://variety.com/2026/film/global/naza-yuval-abraham-james-wilson-awards-impact-idfa-1236949104/) — variety.com
-3. [Two-Time Palme D’Or Winner Cristian Mungiu On The Love From Cannes, Dealing With Controversy And Why ‘Fjord’ Might Be His Oscar Breakthrough – Behind The Lens](https://deadline.com/video/cristian-mungiu-video-interview-fjord/) — deadline.com
-4. [James Bond Movies In Order: Filmography, Bond Women & Iconic Villains](https://deadline.com/gallery/james-bond-movies-in-order-bond-girls-villains-posters/) — deadline.com
-5. [Brit List 2026: Crime Series & Coming-Of-Age Movie Lead List Of Best Unproduced Screenplays](https://deadline.com/2026/11/brit-list-2026-crime-series-coming-of-age-movie-top-scripts-1237225076/) — deadline.com
-6. [Ray Tintori, Music Video Director and Filmmaker, Dies at 43](https://variety.com/2026/film/news/ray-tintori-dead-filmmaker-beasts-southern-wild-1236949816/) — variety.com
-7. [The Next Bond Girl: From Zendaya to Florence Pugh, 19 Actresses Who Could Join Robert Pattinson](https://variety.com/lists/bond-girl-predictions-robert-pattinson-007/) — variety.com
-8. [Robert Pattinson As Bond Or Bond Villain: What Did The Actor Say Years Ago?](https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683/) — deadline.com
-9. [‘The Hunger Games: Sunrise On The Reaping’ NYC Premiere Red Carpet Photos: Jennifer Lawrence, Mckenna Grace, Rachel Zegler & More](https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-nyc-premiere-red-carpet-photos-lionsgate/) — deadline.com
-10. [Sony’s ‘Grandgear’ Rounds Out Cast With Corey Hawkins, Aidan Laprete & Gayle Rankin](https://deadline.com/2026/11/grandgear-movie-takashi-yamazaki-adds-three-cast-1237225295/) — deadline.com
-11. [Glenn Close Wipes Away Tears as She Gets Her Long Overdue Oscar While the Governors Awards Celebrate Indie Films](https://www.indiewire.com/awards/consider-this/governors-awards-glenn-close-ridley-scott-honorary-oscars-1235228139/) — indiewire.com
-12. [Sam Rockwell’s New Spy Movie Nearly Doubles Its Theater Count](https://collider.com/wild-horse-nine-box-office-28-million/) — collider.com
-13. [Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere](https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/) — variety.com
-14. [Variety’s 10 Comics to Watch Bring Stand-Up, Sketch and Songs to Hilarious New York Comedy Festival Showcase](https://variety.com/2026/tv/news/variety-10-comics-to-watch-new-york-comedy-festival-showcase-1236947445/) — variety.com
-15. [The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts](https://variety.com/2026/film/global/the-brit-list-2026-lineup-best-unproduced-film-tv-scripts-1236949412/) — variety.com
-16. [Robert Pattinson Said in 2012 That He’d ‘Definitely’ Want to Be James Bond in ‘Like 20 Years’ When He’s Not So ‘Fresh-Faced’](https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282/) — variety.com
-17. [‘The ‘Burbs’ Actor Kapil Talwalkar Signs With Innovative Artists Entertainment](https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741/) — deadline.com
-18. [The James Bond Search Shows How Daunting The Process Is In An Age When Everyone On Social Media Is An Expert](https://deadline.com/2026/11/james-bond-search-robert-pattinson-social-media-1237225227/) — deadline.com
-19. [Higher Ground’s ‘The Eyes Of Ghana’ Sets Global Release On IShowSpeed’s YouTube Channel](https://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326/) — deadline.com
-20. [Fall Festival Movies Sold: ‘Edward Said: Between Worlds’ About Palestinian-American Author Lands at Kino Lorber](https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/) — indiewire.com
-21. [Scarlett Johansson's New 119-Minute Netflix Sci-Fi Action Movie Will Rewrite the Rules of Netflix](https://movieweb.com/ray-gunn-upcoming-tease/) — movieweb.com
-22. [Broadway Star Ryan McCartan to Star in Crime Drama ‘Only Good Feelings’ (EXCLUSIVE)](https://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307/) — variety.com
-23. [‘Percy Jackson And The Olympians’ Season 3 Release Schedule: When Do New Episodes Come Out?](https://deadline.com/2026/11/percy-jackson-and-the-olympians-season-3-release-schedule-1237226036/) — deadline.com
-24. [Chris Long To Direct First Episode Of Fox Legal Drama ‘Katie Greaves’ Starring Edie Falco](https://deadline.com/2026/11/chris-long-direct-first-episode-katie-greaves-edie-falco-1237225773/) — deadline.com
-25. [‘Spider-Man: Brand New Day’ Re-Release With New Rosario Dawson Night Nurse Footage Sets Release](https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-re-release-date-1237225762/) — deadline.com
-26. [Robert Pattinson As James Bond? Baz Bamigboye Has Some Thoughts](https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666/) — deadline.com
-27. [OpenAI Slapped By California AG For “Unfair & Unsafe Practices”; Sam Altman-Run Tech Firm Accuses State Of Improperly Singling Out Company](https://deadline.com/2026/11/openai-sued-by-california-1237225599/) — deadline.com
-28. [‘Spider-Man: Brand New Day’ Returning to Theaters with a New Rosario Dawson Cameo — and Box Office Records and Oscar Noms in Mind](https://www.indiewire.com/news/breaking-news/spider-man-brand-new-day-returning-theaters-extended-cut-1235228526/) — indiewire.com
-29. [Robert Pattinson Is the Next James Bond: Denis Villeneuve Finds Star for His 007 Movie](https://www.indiewire.com/news/breaking-news/robert-pattinson-next-james-bond-denis-villeneuve-007-movie-1235223210/) — indiewire.com
-30. [7 Forgotten Netflix Miniseries That Are Perfect From Start to Finish](https://collider.com/forgotten-netflix-miniseries-perfect-start-to-finish/) — collider.com
+1. [Netflix Eyes Return to Cannes After 10 Years as Festival Lobbies for Joel Coen’s ‘Jack of Spades,’ Starring Josh O’Connor](https://variety.com/2026/film/global/netflix-return-to-cannes-joel-coen-jack-of-spades-1236948245/) — variety.com
+2. [Palm Springs Film Awards Honorees: ‘The Odyssey’ Cast Set For Ensemble Performance Award](https://deadline.com/2026/11/palm-springs-film-awards-2027-list-1237206429/) — deadline.com
+3. [Past Meets Present In Panem: Francis Lawrence Hails Three Generations Of ‘Hunger Games’ Actors At ‘Sunrise On The Reaping’ Premiere](https://deadline.com/2026/11/francis-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1237226905/) — deadline.com
+4. [Ron Howard Says a Jim Carrey ‘Grinch’ Sequel Won’t Get Made Unless ‘It Has a Chance to Be Great’: We’re Moving ‘Cautiously’](https://variety.com/2026/film/news/ron-howard-jim-carrey-grinch-sequel-1236951121/) — variety.com
+5. [Marvel Started Planning for Robert Downey Jr.’s Doctor Doom Before Jonathan Majors Was Fired and ‘Avengers: The Kang Dynasty’ Fell Apart, Says Kevin Feige](https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563/) — variety.com
+6. [Diane Keaton’s ‘Memory Is Honored in Everything‘ in ‘Family Stone’ Sequel, Says Star Dermot Mulroney](https://variety.com/2026/film/news/dermot-mulroney-diane-keaton-family-stone-sequel-1236950731/) — variety.com
+7. [YouTube Hits Back At Rivals With New Slate Featuring Rising Creators, Established Stars & Hot New Directors](https://deadline.com/2026/11/youtube-new-slate-emma-chamberlain-phil-rosenthal-1237226843/) — deadline.com
+8. [Charlie Heaton & Al Pacino Romantic Fantasy Drama ‘Billy Knight’ Acquired By Magenta Edge Films](https://deadline.com/2026/11/charlie-heaton-al-pacino-billy-knight-1237227001/) — deadline.com
+9. [Festival In Focus: Qatar Ramps Up International Film & TV Ambitions As Local Talent Shines](https://deadline.com/2026/11/festival-in-focus-qatar-industry-days-doha-1237226931/) — deadline.com
+10. [‘The Further Mis-Adventures of Cliff Booth’ Throws Netflix’s Oscar Campaign a Curveball](https://www.indiewire.com/awards/predictions/further-mis-adventures-cliff-booth-netflix-oscar-chances-1235228865/) — indiewire.com
+11. [Emma Chamberlain, Wesley Wang, Aryna Sabalenka and More Unveil New Projects for YouTube](https://variety.com/2026/digital/news/emma-chamberlain-wesley-wang-aryna-sabalenka-youtube-1236950705/) — variety.com
+12. [Indian Mythology Meets Mumbai Noir in Animated Feature ‘Bombay Eternal’ From ‘Rana Naidu’ Producer Locomotive Global, AI Outfit Studio Blo (EXCLUSIVE)](https://variety.com/2026/film/news/indian-mythology-mumbai-noir-animated-film-bombay-eternal-1236950223/) — variety.com
+13. [The 10 Worst Summer Blockbuster Movies in Film History, Ranked](https://collider.com/worst-summer-blockbuster-movies-film-history/) — collider.com
+14. [Amitabh Bachchan, Amish Tripathi-Backed AAA Game ‘The Age of Bhaarat’ Taps India’s Annapurna Studios for Motion Capture (EXCLUSIVE)](https://variety.com/2026/gaming/news/amitabh-bachchan-backed-game-the-age-of-bhaarat-annapurna-studios-1236950323/) — variety.com
+15. [Thom Velde, Former AMC Theatres Executive, Dies at 83](https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046/) — variety.com
+16. [The Next Bond Villain: From Idris Elba to Kristen Stewart, 22 Actors Who Should Face Off Against Robert Pattinson](https://variety.com/lists/robert-pattinson-james-bond-villains-actors-picks/) — variety.com
+17. [‘Concrete Land’ Leads IDA Documentary Award Nominations With Six; ‘To Hold a Mountain,’ ‘You Can See Everything’ Also Score](https://variety.com/2026/film/awards/ida-documentary-awards-2026-nominations-full-list-1236950889/) — variety.com
+18. [Ron Howard Cautions ‘Grinch’ Sequel With Jim Carrey Will Only Move Forward If “One Thing” Happens](https://www.hollywoodreporter.com/movies/movie-news/ron-howard-grinch-sequel-only-move-forward-perfect-script-1236758080/) — hollywoodreporter.com
+19. [IDA Awards Nominations: ‘Concrete Land’ Lands 6, With ‘To Hold A Mountain’ Close Behind; Elizabeth Holmes Doc In The Mix](https://deadline.com/2026/11/ida-documentary-awards-2026-nominations-1237227351/) — deadline.com
+20. [Darian Lanzetta Out At Mattel Studios](https://deadline.com/2026/11/darian-lanzetta-exits-mattel-studios-1237227411/) — deadline.com
+21. [Denis Villeneuve Says ‘Dune: Part Three’ Is “Something Even Better” Than The First Two Films](https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247/) — deadline.com
+22. [‘Grand Theft Auto VI’ Speeds Away With Eight Game Awards Nominations For 2026](https://deadline.com/2026/11/grand-theft-auto-vi-game-awards-nominations-1237227159/) — deadline.com
+23. [Thom Velde Dies: Longtime Head Film Buyer For AMC Theatres Was 83](https://deadline.com/2026/11/thom-velde-dead-amc-theatres-head-film-buyer-1237227193/) — deadline.com
+24. [Jeff Daniels Set For Ramy Youssef’s ‘Martha & Muhammad’ At A24](https://deadline.com/2026/11/jeff-daniels-ramy-youssef-martha-muhammad-1237227139/) — deadline.com
+25. [Matt Shakman Launches Foolscap Production Banner, Unveils Exec Team](https://deadline.com/2026/11/matt-shakman-launches-foolscap-production-banner-1237227137/) — deadline.com
+26. [Movie Theaters Are Back, but the Rest of Hollywood Seems to Be Crumbling](https://www.indiewire.com/news/analysis/movie-theaters-comeback-hollywood-crumbling-1235228595/) — indiewire.com
+27. [33 Years Later, One of the Greatest Westerns of All Time Is Officially Taking Over Streaming](https://collider.com/tombstone-western-kurt-russell-streaming-hit-vudu-november-2026/) — collider.com
+28. [5 Must-See Cheesy Christmas Movies Coming Out in 2026](https://collider.com/cheesy-christmas-movies-2026/) — collider.com
+29. [Home Alone Director Recalls Firing ‘Horrible’ Actor From Macaulay Culkin Christmas Movie](https://www.comingsoon.net/movies/news/2225629-home-alone-director-recalls-firing-horrible-actor) — feeds.feedburner.com
+30. [Former Bond Villain Rami Malek Says Robert Pattinson Will Be an ‘Extraordinary’ 007: ‘I Could Not Be More Proud’](https://variety.com/2026/film/news/rami-malek-robert-pattinson-james-bond-1236951518/) — variety.com
 
 ---
 
-## 1. Deadline Launches Its Contenders Film Los Angeles Streaming Site
-
-- **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 18:15:00 +0000
-- **Link:** https://deadline.com/2026/11/deadline-ontenders-film-los-angeles-streaming-site-launch-1237225279/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/Contenders-Film-Los-Angeles-2026-Logo.jpg
-
-Deadline on Monday launched the streaming site for Contenders Film Los Angeles, its showcase of movies making noise this awards season. The live event Saturday at the DGA Theater spotlighted 15 films from eight studios and streamers. Click here for the streaming site. This year’s lineup included everything from box office blockbusters like Project Hail […]
-
----
-
-## 2. ‘NAZA’ Filmmakers Grateful for ‘Light Being Shone’ on Their Film Through Awards Conversation but Prioritize Impact: It’s a ‘Small Cog in a Machine of Resistance’
+## 1. Netflix Eyes Return to Cannes After 10 Years as Festival Lobbies for Joel Coen’s ‘Jack of Spades,’ Starring Josh O’Connor
 
 - **Source:** variety.com
-- **Published:** Mon, 16 Nov 2026 22:32:38 +0000
-- **Link:** https://variety.com/2026/film/global/naza-yuval-abraham-james-wilson-awards-impact-idfa-1236949104/
-- **Image:** https://variety.com/wp-content/uploads/2026/11/VARIETY-SIZING-91.png
+- **Published:** Tue, 17 Nov 2026 23:15:57 +0000
+- **Link:** https://variety.com/2026/film/global/netflix-return-to-cannes-joel-coen-jack-of-spades-1236948245/
+- **Image:** https://variety.com/wp-content/uploads/2024/11/Josh-Oconnor.jpg
 
-Over the last few years, leading documentary festival IDFA has become a crucial stop on the awards season trail, with major streamers and key studios courting voters in Amsterdam’s imposing 17th-century canalside houses and theaters. One of the key titles in this year’s best documentary race, however, has foregone glitzy cocktails and receptions in favor […]
+The ice appears to be thawing between Netflix and Cannes. The streamer, which hasn’t debuted a film at the festival in almost a decade due to France’s strict rules around theatrical releases, is eyeing a return to the south of France in 2027, Variety has learned. Ted Sarandos suggested as much earlier this year, when […]
 
 ---
 
-## 3. Two-Time Palme D’Or Winner Cristian Mungiu On The Love From Cannes, Dealing With Controversy And Why ‘Fjord’ Might Be His Oscar Breakthrough – Behind The Lens
+## 2. Palm Springs Film Awards Honorees: ‘The Odyssey’ Cast Set For Ensemble Performance Award
 
 - **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 19:15:00 +0000
-- **Link:** https://deadline.com/video/cristian-mungiu-video-interview-fjord/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/Cristian-Mungiu-Behind-The-Lens.jpg
+- **Published:** Tue, 17 Nov 2026 21:08:00 +0000
+- **Link:** https://deadline.com/2026/11/palm-springs-film-awards-2027-list-1237206429/
+- **Image:** https://deadline.com/wp-content/uploads/2016/05/palm-springs-international-film-festival-logo.jpg
 
-Romanian filmmaker Cristian Mungiu is a card-carrying member of a very rare club as a two-time Cannes Film Festival Palme d’Or winner. Not only that, but he has won prizes at Cannes just about with every other film he chose to debut there. Those include his latest Fjord, which is not only Romania’s entry into […]
+UPDATED, 1:05 PM: The cast of Christopher Nolan’s epic The Odyssey will receive the Palm Springs Film Festival’s 2027 Ensemble Performance Award, the fest revealed Tuesday. Actors Matt Damon, John Leguizamo and Samantha Morton and casting director John Papsidera are expected to attend, with additional attendees to be announced. The ancient Greek epic, which has […]
 
 ---
 
-## 4. James Bond Movies In Order: Filmography, Bond Women & Iconic Villains
+## 3. Past Meets Present In Panem: Francis Lawrence Hails Three Generations Of ‘Hunger Games’ Actors At ‘Sunrise On The Reaping’ Premiere
 
 - **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 18:00:21 +0000
-- **Link:** https://deadline.com/gallery/james-bond-movies-in-order-bond-girls-villains-posters/
-- **Image:** https://deadline.com/wp-content/uploads/2022/09/james-bond.jpg
+- **Published:** Tue, 17 Nov 2026 21:44:22 +0000
+- **Link:** https://deadline.com/2026/11/francis-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1237226905/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/GettyImages-2305449140.jpg
 
-60 years later, 25 films, six James Bond actors, and one martini “shaken, not stirred.” It also wouldn’t be a Bond film without its iconic Bond women, incredible stunts, gadgets, gizmos, and villains who have all graced the silver screen since 1962 with Sean Connery’s portrayal of Bond in the classic film Dr. No. British author […]
-
----
-
-## 5. Brit List 2026: Crime Series & Coming-Of-Age Movie Lead List Of Best Unproduced Screenplays
-
-- **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 20:00:00 +0000
-- **Link:** https://deadline.com/2026/11/brit-list-2026-crime-series-coming-of-age-movie-top-scripts-1237225076/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/The-Brit-List-2026.jpg
-
-The 2026 Brit List, the selection of promising and so far unproduced British film and TV screenplays, is led jointly by a crime series and a coming-of-age movie. Scroll down for list in full. Compiled from recommendations by the British industry, 13 writers made it onto the list this year with a minimum of ten […]
+Director Francis Lawrence called the night “historic” as the world premiere of The Hunger Games: Sunrise On The Reaping turned into an epic cast reunion for the film franchise launched in 2012. “Three generations of actors from The Hunger Games are here with us. Everybody came. I’ve loved working with all of you. Thank you […]
 
 ---
 
-## 6. Ray Tintori, Music Video Director and Filmmaker, Dies at 43
+## 4. Ron Howard Says a Jim Carrey ‘Grinch’ Sequel Won’t Get Made Unless ‘It Has a Chance to Be Great’: We’re Moving ‘Cautiously’
 
 - **Source:** variety.com
-- **Published:** Tue, 17 Nov 2026 01:27:22 +0000
-- **Link:** https://variety.com/2026/film/news/ray-tintori-dead-filmmaker-beasts-southern-wild-1236949816/
-- **Image:** https://variety.com/wp-content/uploads/2026/11/GettyImages-111617327.jpg
+- **Published:** Wed, 18 Nov 2026 00:47:42 +0000
+- **Link:** https://variety.com/2026/film/news/ron-howard-jim-carrey-grinch-sequel-1236951121/
+- **Image:** https://variety.com/wp-content/uploads/2026/11/M8DDRSU_EC003.jpg
 
-Ray Tintori, who directed music videos for bands including Arcade Fire and MGMT and worked on the film “Beasts of the Southern Wild,” has died in New York. The New York City Office of Chief Medical Examiner said the death is under investigation and the cause is unknown. Tintori was one of the founders of […]
+Months after a “How the Grinch Stole Christmas” sequel was announced, director Ron Howard is setting the record straight on what it would take for the follow-up film to actually come to fruition. “I just have to caution everybody that Jim [Carrey] and I aren’t gonna go forward unless we think we have a great […]
 
 ---
 
-## 7. The Next Bond Girl: From Zendaya to Florence Pugh, 19 Actresses Who Could Join Robert Pattinson
+## 5. Marvel Started Planning for Robert Downey Jr.’s Doctor Doom Before Jonathan Majors Was Fired and ‘Avengers: The Kang Dynasty’ Fell Apart, Says Kevin Feige
 
 - **Source:** variety.com
-- **Published:** Mon, 16 Nov 2026 21:31:29 +0000
-- **Link:** https://variety.com/lists/bond-girl-predictions-robert-pattinson-007/
-- **Image:** https://variety.com/wp-content/uploads/2026/11/split-image-1000_eb50dc.jpg
+- **Published:** Tue, 17 Nov 2026 22:20:09 +0000
+- **Link:** https://variety.com/2026/film/news/doctor-doom-avengers-kang-dynasty-jonathan-majors-fired-1236950563/
+- **Image:** https://variety.com/wp-content/uploads/2026/11/MCDAVDO-WD017-MCDANMA-WD029-1000.jpg
 
-The name is Pattinson, Robert Pattinson, but who will be his first Bond Girl? Amazon MGM Studios has made it official, naming the 40-year-old Brit the next James Bond in the exclusive franchise, with Denis Villeneuve helming the next film from a script by Steven Knight and Amy Pascal and David Heyman producing. But 007 […]
+Before “Avengers: Doomsday,” there was “Avengers: The Kang Dynasty.” Marvel Studios boss Kevin Feige announced the latter title at Comic-Con in July 2022, with Jonathan Majors’ Kang the Conqueror poised to become the Marvel Cinematic Universe’s next Thanos-sized villain starting with 2023’s “Ant-Man and the Wasp: Quantumania.” Those plans, however, were upended a few weeks […]
 
 ---
 
-## 8. Robert Pattinson As Bond Or Bond Villain: What Did The Actor Say Years Ago?
+## 6. Diane Keaton’s ‘Memory Is Honored in Everything‘ in ‘Family Stone’ Sequel, Says Star Dermot Mulroney
+
+- **Source:** variety.com
+- **Published:** Tue, 17 Nov 2026 20:48:43 +0000
+- **Link:** https://variety.com/2026/film/news/dermot-mulroney-diane-keaton-family-stone-sequel-1236950731/
+- **Image:** https://variety.com/wp-content/uploads/2026/11/THE-FAMILY-STONE-Sarah-Jessica-Parker-Dermot-Mulroney-Diane-Keaton-2005-TM-Copyright-c-20th-1000.jpg
+
+The Stone family is reuniting more than two decades later to honor Diane Keaton in the sequel to “The Family Stone.” Dermot Mulroney, who starred as Everett Stone in the 2005 holiday film, returns alongside original stars Sarah Jessica Parker and Rachel McAdams. Despite their increasingly busy schedules, Mulroney tells Variety that the actors agreed […]
+
+---
+
+## 7. YouTube Hits Back At Rivals With New Slate Featuring Rising Creators, Established Stars & Hot New Directors
 
 - **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 21:23:15 +0000
-- **Link:** https://deadline.com/2026/11/robert-pattinson-as-james-bond-or-villain-what-did-he-say-1237225683/
-- **Image:** https://deadline.com/wp-content/uploads/2024/07/GettyImages-2158581935-e1733371910417.jpg
+- **Published:** Wed, 18 Nov 2026 04:00:00 +0000
+- **Link:** https://deadline.com/2026/11/youtube-new-slate-emma-chamberlain-phil-rosenthal-1237226843/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/L1012576.jpg
 
-Robert Pattinson today described being cast as James Bond as a “dream come true”. The actor enthused: “James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honour of a lifetime. I’m deeply grateful to Denis, Amy, David, Tanya, and everyone at Amazon MGM Studios for […]
+As rivals such as Netflix and Disney start encroaching on their world of creators, YouTube has returned fire with a new slate of programming from a slew of burgeoning creators such as Nick DiGiovanni and Emma Chamberlain, established stars including Phil Rosenthal and Aryna Sabalenka and one director that insiders have dubbed the “next Kane […]
 
 ---
 
-## 9. ‘The Hunger Games: Sunrise On The Reaping’ NYC Premiere Red Carpet Photos: Jennifer Lawrence, Mckenna Grace, Rachel Zegler & More
+## 8. Charlie Heaton & Al Pacino Romantic Fantasy Drama ‘Billy Knight’ Acquired By Magenta Edge Films
 
 - **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 23:29:51 +0000
-- **Link:** https://deadline.com/gallery/the-hunger-games-sunrise-on-the-reaping-nyc-premiere-red-carpet-photos-lionsgate/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/the-hunger-games-sunrise-on-the-reaping-red-carpet-photos-fashion.jpg
+- **Published:** Tue, 17 Nov 2026 21:26:25 +0000
+- **Link:** https://deadline.com/2026/11/charlie-heaton-al-pacino-billy-knight-1237227001/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/image1.png
 
-New York City welcomed the stars of The Hunger Games: Sunrise on the Reaping for the film’s premiere. The stars of the Francis Lawrence-directed film have been on a world tour promoting the prequel, stopping in Sydney (Australia), Paris (France), London (England), Berlin (Germany), Madrid (Spain), Mexico City (Mexico), and Los Angeles (USA). Written by Billy […]
+EXCLUSIVE: Magenta Edge Films has scooped up the North American rights to the romantic fantasy drama Billy Knight starring Charlie Heaton, Al Pacino, Diana Silvers, and Patrick Schwarzenegger. The pic reps the feature directorial debut of Alec Griffen Roth, who also wrote the screenplay. A Jan. 8, 2027 nationwide theatrical release is planned. In the […]
 
 ---
 
-## 10. Sony’s ‘Grandgear’ Rounds Out Cast With Corey Hawkins, Aidan Laprete & Gayle Rankin
+## 9. Festival In Focus: Qatar Ramps Up International Film & TV Ambitions As Local Talent Shines
 
 - **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 18:00:00 +0000
-- **Link:** https://deadline.com/2026/11/grandgear-movie-takashi-yamazaki-adds-three-cast-1237225295/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/2023-Tribeca-Festival-Portraits-1000.jpg
+- **Published:** Tue, 17 Nov 2026 20:21:47 +0000
+- **Link:** https://deadline.com/2026/11/festival-in-focus-qatar-industry-days-doha-1237226931/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/Hassan-Al-Thawadi-Joe-Russo-Omar-Sy-.jpg
 
-EXCLUSIVE: Corey Hawkins (The Odyssey), Aidan Laprete (The Social Reckoning) and Gayle Rankin (House of the Dragon) will round out the cast of Grandgear, Sony Pictures’ new film from Godzilla Minus One Oscar winner Takashi Yamazaki and J.J. Abrams’ Bad Robot. The actors join Sam Nivola and Nico Parker. This comes as Paul Giamatti, who […]
+Qatar will be re-signaling its ambitions to become a major international film and TV player this week with the second edition of its revamped Doha Film Festival and accompanying Industry Days, with Joe Russo and Omar Sy among the guests at the latter. The Doha Film Institute, which launched the festival under the Ajyal banner […]
 
 ---
 
-## 11. Glenn Close Wipes Away Tears as She Gets Her Long Overdue Oscar While the Governors Awards Celebrate Indie Films
+## 10. ‘The Further Mis-Adventures of Cliff Booth’ Throws Netflix’s Oscar Campaign a Curveball
 
 - **Source:** indiewire.com
-- **Published:** Mon, 16 Nov 2026 11:36:33 +0000
-- **Link:** https://www.indiewire.com/awards/consider-this/governors-awards-glenn-close-ridley-scott-honorary-oscars-1235228139/
+- **Published:** Tue, 17 Nov 2026 20:53:37 +0000
+- **Link:** https://www.indiewire.com/awards/predictions/further-mis-adventures-cliff-booth-netflix-oscar-chances-1235228865/
 
-Floyd Norman, Ridley Scott, Christine Vachon, and Pamela Koffler also collected Honorary Oscars at the Academy's untelevised annual event that always draws a starry set of Oscar contenders.
+Of course Netflix has to campaign a film with this much built-in Oscars pedigree, but is that distracting the studio from supporting the viable awards contenders it already has?
 
 ---
 
-## 12. Sam Rockwell’s New Spy Movie Nearly Doubles Its Theater Count
+## 11. Emma Chamberlain, Wesley Wang, Aryna Sabalenka and More Unveil New Projects for YouTube
+
+- **Source:** variety.com
+- **Published:** Wed, 18 Nov 2026 04:12:22 +0000
+- **Link:** https://variety.com/2026/digital/news/emma-chamberlain-wesley-wang-aryna-sabalenka-youtube-1236950705/
+- **Image:** https://variety.com/wp-content/uploads/2026/11/2305641422.jpg
+
+Sean Downey of Google sounded a lot like a network TV executive on Tuesday evening as he opened the second annual YouTube Creator Premieres content showcase in Hollywood. The event, held at the Hollywood Roosevelt hotel, showed off upcoming titles from such disparate stars as influencer Emma Chamberlain, director Wesley Wang, tennis superstar Aryna Sabalenka, […]
+
+---
+
+## 12. Indian Mythology Meets Mumbai Noir in Animated Feature ‘Bombay Eternal’ From ‘Rana Naidu’ Producer Locomotive Global, AI Outfit Studio Blo (EXCLUSIVE)
+
+- **Source:** variety.com
+- **Published:** Wed, 18 Nov 2026 02:30:00 +0000
+- **Link:** https://variety.com/2026/film/news/indian-mythology-mumbai-noir-animated-film-bombay-eternal-1236950223/
+- **Image:** https://variety.com/wp-content/uploads/2026/11/Bombay-Eternal.jpg
+
+Figures drawn from Indian mythology are headed for the streets of a stylized modern-day Mumbai in “Bombay Eternal,” an animated neo-noir crime fantasy from “Rana Naidu” producer Locomotive Global and AI-native film company Studio Blo, which have released a first teaser. The project is planned as a feature film for eventual theatrical release in international […]
+
+---
+
+## 13. The 10 Worst Summer Blockbuster Movies in Film History, Ranked
 
 - **Source:** collider.com
-- **Published:** Mon, 16 Nov 2026 23:45:12 GMT
-- **Link:** https://collider.com/wild-horse-nine-box-office-28-million/
-- **Image:** https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/10/wild-horse-nine.jpg
+- **Published:** Wed, 18 Nov 2026 04:48:12 GMT
+- **Link:** https://collider.com/worst-summer-blockbuster-movies-film-history/
+- **Image:** https://static0.colliderimages.com/wordpress/wp-content/uploads/2023/09/lebron-james-in-space-jam-2.jpg
 
-Wild Horse Nine adds 1,075 theaters as John Malkovich’s Oscar contender reaches $28 million worldwide after a strong box office hold.
+From Speed 2 to The Lone Ranger, these summer blockbusters were flops.
 
 ---
 
-## 13. Jennifer Lawrence Reunites With ‘Hunger Games’ Co-Star Josh Hutcherson at ‘Sunrise on the Reaping’ World Premiere
+## 14. Amitabh Bachchan, Amish Tripathi-Backed AAA Game ‘The Age of Bhaarat’ Taps India’s Annapurna Studios for Motion Capture (EXCLUSIVE)
 
 - **Source:** variety.com
-- **Published:** Tue, 17 Nov 2026 00:32:42 +0000
-- **Link:** https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-sunrise-on-the-reaping-premiere-1236949116/
-- **Image:** https://variety.com/wp-content/uploads/2026/11/GettyImages-2305445522.jpg
+- **Published:** Wed, 18 Nov 2026 04:30:00 +0000
+- **Link:** https://variety.com/2026/gaming/news/amitabh-bachchan-backed-game-the-age-of-bhaarat-annapurna-studios-1236950323/
+- **Image:** https://variety.com/wp-content/uploads/2026/11/The-Age-of-Bhaarat.jpg
 
-Jennifer Lawrence staged a “Hunger Games” reunion with co-star Josh Hutcherson at the world premiere of “Sunrise on the Reaping” in New York City. The two original stars of “The Hunger Games” franchise walked the red carpet and posed for photos more than a decade after the press tour for “The Hunger Games: Mockingjay – […]
+“The Age of Bhaarat,” the AAA video game from Tara Gaming, has signed on with A&M MoCap Lab in Hyderabad for its motion capture production. The facility was jointly set up by Annapurna Studios and Mihira Visual Labs. Tara Gaming was co-founded by Amitabh Bachchan, author Amish Tripathi and veteran game producer Nouredine Abboud, with […]
 
 ---
 
-## 14. Variety’s 10 Comics to Watch Bring Stand-Up, Sketch and Songs to Hilarious New York Comedy Festival Showcase
+## 15. Thom Velde, Former AMC Theatres Executive, Dies at 83
 
 - **Source:** variety.com
-- **Published:** Mon, 16 Nov 2026 21:27:07 +0000
-- **Link:** https://variety.com/2026/tv/news/variety-10-comics-to-watch-new-york-comedy-festival-showcase-1236947445/
-- **Image:** https://variety.com/wp-content/uploads/2026/11/Facetune_16-11-2026-16-18-20.jpg
+- **Published:** Tue, 17 Nov 2026 23:41:15 +0000
+- **Link:** https://variety.com/2026/film/people-news/thom-velde-dead-amc-theatres-1236951046/
+- **Image:** https://variety.com/wp-content/uploads/2026/11/thom-color.jpg
 
-Variety’s 10 Comics to Watch for 2026 brought laughter, cheers and ’90s rock parodies to the New York Comedy Festival on Thursday. The comedians, who represent the funniest and most exciting rising voices in comedy, each performed a seven-minute set for a lively audience at the Venue on Music Row at the Hard Rock Hotel […]
+Thomas Velde, who served as head film buyer at AMC Theatres during his 27 years at the exhibitor, died Oct. 31. He was 83. Velde died of cancer at his home in Rancho Mirage, Calif.. For 27 years, he worked at AMC Theatres, where he negotiated film agreements with domestic and international studios while also […]
 
 ---
 
-## 15. The Brit List: Coming-of-Age Drama and Cornwall Crime Series Top 2026 Lineup of Best Unproduced Scripts
+## 16. The Next Bond Villain: From Idris Elba to Kristen Stewart, 22 Actors Who Should Face Off Against Robert Pattinson
 
 - **Source:** variety.com
-- **Published:** Mon, 16 Nov 2026 20:47:17 +0000
-- **Link:** https://variety.com/2026/film/global/the-brit-list-2026-lineup-best-unproduced-film-tv-scripts-1236949412/
-- **Image:** https://variety.com/wp-content/uploads/2026/11/The-Brit-List_Social_2026_V13.jpg
+- **Published:** Tue, 17 Nov 2026 22:15:00 +0000
+- **Link:** https://variety.com/lists/robert-pattinson-james-bond-villains-actors-picks/
+- **Image:** https://variety.com/wp-content/uploads/2026/11/Bond-Villains.jpg
 
-The Brit List, the annual list of unproduced British film and TV screenplays, has revealed its 2026 lineup. Compiled from recommendations by the British industry, 13 projects — each requiring a minimum of 10 recommendations — made it onto this year’s list. Leading the pack were Gemma Addy’s coming-of-age drama feature “Dig for Victory” and Archie Thomson’s […]
+Every James Bond is only as good as the person who’s trying to kill him. Throughout the franchise’s history, we’ve seen Sean Connery take on Gert Fröbe’s Goldfinger, Roger Moore tackle Christopher Walken’s Max Zorin and, in the Daniel Craig era, Mads Mikkelsen’s Le Chiffre in “Casino Royale” and Javier Bardem’s notorious Raoul Silva in […]
 
 ---
 
-## 16. Robert Pattinson Said in 2012 That He’d ‘Definitely’ Want to Be James Bond in ‘Like 20 Years’ When He’s Not So ‘Fresh-Faced’
+## 17. ‘Concrete Land’ Leads IDA Documentary Award Nominations With Six; ‘To Hold a Mountain,’ ‘You Can See Everything’ Also Score
 
 - **Source:** variety.com
-- **Published:** Mon, 16 Nov 2026 20:23:47 +0000
-- **Link:** https://variety.com/2026/film/news/robert-pattinson-james-bond-interview-2012-1236949282/
-- **Image:** https://variety.com/wp-content/uploads/2026/11/Robert-Pattinson-Headshot-Photo-Credit_-Stefanie-Keenan.png
+- **Published:** Tue, 17 Nov 2026 22:00:06 +0000
+- **Link:** https://variety.com/2026/film/awards/ida-documentary-awards-2026-nominations-full-list-1236950889/
+- **Image:** https://variety.com/wp-content/uploads/2026/08/Concrete-Land.jpg
 
-Fourteen years before his official casting as James Bond, Robert Pattinson expressed interest in playing cinema’s most famous secret agent. The actor was speaking to the U.K. online publication Shortlist (via People) in the summer of 2012, a few months ahead of both his swan song as Edward Cullen in “The Twilight Saga: Breaking Dawn […]
+This year’s International Documentary Association Documentary Awards nominations have been announced. Asmahan Bkerat’s “Concrete Land” leads the field with six nominations, followed by Biljana Tutorov and Petar Glomazić’s “To Hold a Mountain” with five. Mehrdad Oskouei and Soraya Akhlaghi’s “A Fox Under a Pink Moon” and Pegah Ahangarani’s “Rehearsals for a Revolution” also scored strong […]
 
 ---
 
-## 17. ‘The ‘Burbs’ Actor Kapil Talwalkar Signs With Innovative Artists Entertainment
+## 18. Ron Howard Cautions ‘Grinch’ Sequel With Jim Carrey Will Only Move Forward If “One Thing” Happens
+
+- **Source:** hollywoodreporter.com
+- **Published:** Wed, 18 Nov 2026 01:21:19 +0000
+- **Link:** https://www.hollywoodreporter.com/movies/movie-news/ron-howard-grinch-sequel-only-move-forward-perfect-script-1236758080/
+
+The actor is open to reprising his titular role in the follow-up to the beloved 2000 Christmas film.
+
+---
+
+## 19. IDA Awards Nominations: ‘Concrete Land’ Lands 6, With ‘To Hold A Mountain’ Close Behind; Elizabeth Holmes Doc In The Mix
 
 - **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 22:02:29 +0000
-- **Link:** https://deadline.com/2026/11/kapil-talwalkar-innovative-artists-1237225741/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/Kapil-Talwalkar-Innovative-Artists-logo.jpg
+- **Published:** Wed, 18 Nov 2026 01:36:45 +0000
+- **Link:** https://deadline.com/2026/11/ida-documentary-awards-2026-nominations-1237227351/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/IDA-noms-v2-split-image-1000.jpg
 
-EXCLUSIVE: Kapil Talwalkar has inked with Innovative Artists Entertainment for representation. Talwalkar stars opposite Keke Palmer and Jack Whitehall in Peacock’s The ‘Burbs, now in production on its second season. Talwalkar broke out as Tobin on NBC’s Zoey’s Extraordinary Playlist and went on to star in the network’s revival of Night Court. He also has […]
+Concrete Land, which has received little attention in the U.S. so far, surprised with a leading six nominations Tuesday as the 42nd IDA Documentary Awards announced its nominees. Sundance winner To Hold a Mountain came in close behind with five. Concrete Land, directed by Asmahan Bkerat, centers on the the Najar family, “one of the […]
 
 ---
 
-## 18. The James Bond Search Shows How Daunting The Process Is In An Age When Everyone On Social Media Is An Expert
+## 20. Darian Lanzetta Out At Mattel Studios
 
 - **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 21:00:00 +0000
-- **Link:** https://deadline.com/2026/11/james-bond-search-robert-pattinson-social-media-1237225227/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/Robert-Pattinson-Daniel-Craig-No-Time-To-Die.jpg
+- **Published:** Wed, 18 Nov 2026 01:16:34 +0000
+- **Link:** https://deadline.com/2026/11/darian-lanzetta-exits-mattel-studios-1237227411/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/DarianLanzettaheadshot-CREDIT-Gabrielle-Makower-copy.jpg
 
-It’s been almost two years since Amazon MGM Studios took creative control of the James Bond movie franchise, and with the news Monday that Robert Pattinson has been selected as the seventh 007, its universe is officially set in stone. While the search for a new Bond has never been easy, this one took on […]
+EXCLUSIVE: Darian Lanzetta is out at Mattel Studios, sources tell Deadline. The circumstances surrounding Lanzetta’s departure weren’t disclosed. No next destination was given. Reps for Mattel Studios declined to comment. Lanzetta joined the company as Senior Executive, Film in June 2025 — when toy maker Mattel merged its film and television divisions under the banner […]
 
 ---
 
-## 19. Higher Ground’s ‘The Eyes Of Ghana’ Sets Global Release On IShowSpeed’s YouTube Channel
+## 21. Denis Villeneuve Says ‘Dune: Part Three’ Is “Something Even Better” Than The First Two Films
 
 - **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 18:11:05 +0000
-- **Link:** https://deadline.com/2026/11/the-eyes-of-ghana-global-release-ishowspeed-youtube-channel-1237225326/
-- **Image:** https://deadline.com/wp-content/uploads/2025/08/MixCollage-04-Aug-2025-02-29-PM-4517.jpg
+- **Published:** Tue, 17 Nov 2026 23:41:16 +0000
+- **Link:** https://deadline.com/2026/11/denis-villeneuve-dune-part-three-something-even-better-1237227247/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/denis-villeneuve-dune-part-three.jpg
 
-Breakwater Studios and the Obamas’ Higher Ground will stream The Eyes of Ghana on YouTube on November 17 in a novel partnership with social media star IShowSpeed, aka Darren Watkins, who is also a producer on the film. The documentary, directed by Ben Proudfoot and executive produced by President Barack Obama and Michelle Obama, will […]
+Denis Villeneuve is teasing Dune: Part Three, saying the third film in the trilogy is his best yet. In an interview with GQ, the filmmaker explained why he thinks the third one is his favorite. “The second one was much better than the first one because I had learned, because the storytelling was better and […]
 
 ---
 
-## 20. Fall Festival Movies Sold: ‘Edward Said: Between Worlds’ About Palestinian-American Author Lands at Kino Lorber
+## 22. ‘Grand Theft Auto VI’ Speeds Away With Eight Game Awards Nominations For 2026
+
+- **Source:** deadline.com
+- **Published:** Tue, 17 Nov 2026 23:28:21 +0000
+- **Link:** https://deadline.com/2026/11/grand-theft-auto-vi-game-awards-nominations-1237227159/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/the-game-awards-2026-007-gta-zelda.jpg
+
+Grand Theft Auto VI already has racked up more than $1B in presales ahead of its release on Thursday, and now the hit title is being showered with awards glory as well. The Rockstar Games release notched eight Game Awards nominations when that list was announced today, including Game of The Year. The other Game […]
+
+---
+
+## 23. Thom Velde Dies: Longtime Head Film Buyer For AMC Theatres Was 83
+
+- **Source:** deadline.com
+- **Published:** Tue, 17 Nov 2026 23:26:32 +0000
+- **Link:** https://deadline.com/2026/11/thom-velde-dead-amc-theatres-head-film-buyer-1237227193/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/Thom-Velde.jpg
+
+Thomas “Thom” Velde, a longtime head film buyer for AMC Theatres who also oversaw its Canadian operations, has died. He was 83. His family said he died October 31 of cancer in Rancho Mirage, near Palm Springs. Velde spent more than a quarter-century at AMC Theatres as head film buyer, negotiating film agreements with domestic […]
+
+---
+
+## 24. Jeff Daniels Set For Ramy Youssef’s ‘Martha & Muhammad’ At A24
+
+- **Source:** deadline.com
+- **Published:** Tue, 17 Nov 2026 23:10:00 +0000
+- **Link:** https://deadline.com/2026/11/jeff-daniels-ramy-youssef-martha-muhammad-1237227139/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/Jeff-Daniels-Ramy-Youssef.jpg
+
+EXCLUSIVE: Two-time Primetime Emmy winner Jeff Daniels is joining Ramy Youssef’s A24 feature comedy Martha & Muhammad alongside previously announced Amanda Seyfried and Sharon Stone. Plot and character details are being kept secret in what is Ramy alum Youssef’s feature directorial debut. Daniels won a Drama Series Lead Actor Emmy for HBO’s The Newsroom in […]
+
+---
+
+## 25. Matt Shakman Launches Foolscap Production Banner, Unveils Exec Team
+
+- **Source:** deadline.com
+- **Published:** Tue, 17 Nov 2026 22:45:00 +0000
+- **Link:** https://deadline.com/2026/11/matt-shakman-launches-foolscap-production-banner-1237227137/
+- **Image:** https://deadline.com/wp-content/uploads/2026/11/MATT-SHAKMAN-Fools-Cap-logo.jpg
+
+EXCLUSIVE: Matt Shakman, the multiple Emmy and DGA Award nominee behind the likes of WandaVision and The Fantastic Four: First Steps, has launched a new production banner, Foolscap. Shakman describes Foolscap as a filmmaker-first company that will work to redefine genre through elevated commercial storytelling. The company will work across film & TV, always with […]
+
+---
+
+## 26. Movie Theaters Are Back, but the Rest of Hollywood Seems to Be Crumbling
 
 - **Source:** indiewire.com
-- **Published:** Mon, 16 Nov 2026 19:53:33 +0000
-- **Link:** https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/
+- **Published:** Tue, 17 Nov 2026 15:00:00 +0000
+- **Link:** https://www.indiewire.com/news/analysis/movie-theaters-comeback-hollywood-crumbling-1235228595/
 
-The documentary from director Maiken Baird will release theatrically in 2027.
-
----
-
-## 21. Scarlett Johansson's New 119-Minute Netflix Sci-Fi Action Movie Will Rewrite the Rules of Netflix
-
-- **Source:** movieweb.com
-- **Published:** Mon, 16 Nov 2026 23:00:18 GMT
-- **Link:** https://movieweb.com/ray-gunn-upcoming-tease/
-- **Image:** https://static0.moviewebimages.com/wordpress/wp-content/uploads/2026/11/a-red-and-blue-netflix-logo.jpg
-
-The ambitious genre mash-up promises to be something audiences have never seen before, especially on the streaming service.
+Ticket sales are up 20 percent, but cord-cutting, streaming struggles, and costly mergers have the entertainment business running scared.
 
 ---
 
-## 22. Broadway Star Ryan McCartan to Star in Crime Drama ‘Only Good Feelings’ (EXCLUSIVE)
-
-- **Source:** variety.com
-- **Published:** Mon, 16 Nov 2026 18:00:00 +0000
-- **Link:** https://variety.com/2026/film/news/ryan-mccartan-only-good-feelings-great-gatsby-broadway-1236947307/
-- **Image:** https://variety.com/wp-content/uploads/2026/11/GettyImages-2194345781.jpg
-
-Ryan McCartan, fresh off his starring role as Jay Gatsby in Broadway’s “The Great Gatsby,” will make his theatrical debut as the lead in the indie crime drama “Only Good Feelings.” SNR Films is giving the title a limited New York run in February 2027. Other cast members include Elias Kacavas (“Pretty Little Liars: Original […]
-
----
-
-## 23. ‘Percy Jackson And The Olympians’ Season 3 Release Schedule: When Do New Episodes Come Out?
-
-- **Source:** deadline.com
-- **Published:** Tue, 17 Nov 2026 00:43:03 +0000
-- **Link:** https://deadline.com/2026/11/percy-jackson-and-the-olympians-season-3-release-schedule-1237226036/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/178533_0519_v1_eb35435d.jpeg
-
-A new tidal wave of Percy Jackson and the Olympians episodes will soon break on Disney+. The third season of the television series adaptation based on Rick Riordan’s book series arrives the same day as The Hunger Games: Sunrise on the Reaping hits theaters. Deriving from the third book in the series, specifically, Season 3 […]
-
----
-
-## 24. Chris Long To Direct First Episode Of Fox Legal Drama ‘Katie Greaves’ Starring Edie Falco
-
-- **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 23:33:44 +0000
-- **Link:** https://deadline.com/2026/11/chris-long-direct-first-episode-katie-greaves-edie-falco-1237225773/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/Chris-Long-Fox.jpg
-
-EXCLUSIVE: Two-time Emmy nominee Chris Long (The Americans) has been tapped to direct and executive produce the initial episode of Fox’s upcoming legal drama Katie Greaves (working title), starring Edie Falco. The series, which will premiere during the 2027-28 season, comes from playwright and TV writer Sharr White (Apple TV’s Presumed Innocent), Scott Free Productions […]
-
----
-
-## 25. ‘Spider-Man: Brand New Day’ Re-Release With New Rosario Dawson Night Nurse Footage Sets Release
-
-- **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 23:00:00 +0000
-- **Link:** https://deadline.com/2026/11/spider-man-brand-new-day-rosario-dawson-re-release-date-1237225762/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/SpiderMan_BrandNewBrandNewDay_152275-e1794867219113.jpg
-
-That re-release of the highest grossing motion picture in the U.S. and third-highest grossing worldwide, Sony’s Spider-Man: Brand New Day, which we first told you about, is hitting theaters on Dec. 4 in time for awards season. The new cut will be titled Spider-Man: [Brand New] Brand New Day. The extended cut will feature new […]
-
----
-
-## 26. Robert Pattinson As James Bond? Baz Bamigboye Has Some Thoughts
-
-- **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 22:00:00 +0000
-- **Link:** https://deadline.com/2026/11/robert-pattinson-james-bond-reaction-baz-bamigboye-1237225666/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/Robert-Pattinson-James-Bond.jpg
-
-A wise movie-world person of my acquaintance who has resided in these British isles long enough to understand the customs of the country shook their head when they heard that Robert Pattinson had been officially cast to play Ian Fleming’s James Bond in the 007 reboot that Denis Villeneuve is in pre-production to direct. They […]
-
----
-
-## 27. OpenAI Slapped By California AG For “Unfair & Unsafe Practices”; Sam Altman-Run Tech Firm Accuses State Of Improperly Singling Out Company
-
-- **Source:** deadline.com
-- **Published:** Mon, 16 Nov 2026 21:02:58 +0000
-- **Link:** https://deadline.com/2026/11/openai-sued-by-california-1237225599/
-- **Image:** https://deadline.com/wp-content/uploads/2026/11/Sam-Altman-openai-california-flag.jpg
-
-Already facing a Hollywood supported lawsuit from the New York Times, plus more legal actions by the state of Texas, a collection of non-profits, and a wrongful death case, OpenAI now will have to go up against the state of California in court. “Government intervention is necessary to stop OpenAI’s unfair and unsafe practices and […]
-
----
-
-## 28. ‘Spider-Man: Brand New Day’ Returning to Theaters with a New Rosario Dawson Cameo — and Box Office Records and Oscar Noms in Mind
-
-- **Source:** indiewire.com
-- **Published:** Mon, 16 Nov 2026 23:37:56 +0000
-- **Link:** https://www.indiewire.com/news/breaking-news/spider-man-brand-new-day-returning-theaters-extended-cut-1235228526/
-
-The extended version of the mega blockbuster opens December 4, and tickets go on sale November 19.
-
----
-
-## 29. Robert Pattinson Is the Next James Bond: Denis Villeneuve Finds Star for His 007 Movie
-
-- **Source:** indiewire.com
-- **Published:** Mon, 16 Nov 2026 15:06:17 +0000
-- **Link:** https://www.indiewire.com/news/breaking-news/robert-pattinson-next-james-bond-denis-villeneuve-007-movie-1235223210/
-
-Villeneuve is directing the Amazon MGM Studios film from a script by Steven Knight, with Amy Pascal and David Heyman producing.
-
----
-
-## 30. 7 Forgotten Netflix Miniseries That Are Perfect From Start to Finish
+## 27. 33 Years Later, One of the Greatest Westerns of All Time Is Officially Taking Over Streaming
 
 - **Source:** collider.com
-- **Published:** Tue, 17 Nov 2026 00:14:12 GMT
-- **Link:** https://collider.com/forgotten-netflix-miniseries-perfect-start-to-finish/
-- **Image:** https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/unbelievable-merritt-wever.jpg
+- **Published:** Wed, 18 Nov 2026 05:14:12 GMT
+- **Link:** https://collider.com/tombstone-western-kurt-russell-streaming-hit-vudu-november-2026/
+- **Image:** https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/04/tombstone-michael-biehn.jpg
 
-From the crime drama Unbelievable to the anime gem Pluto, these Netflix miniseries are truly exceptional despite not being remembered by audiences.
+Kurt Russell fought competing movies, production troubles, and a chaotic schedule to make Tombstone into a Western classic.
+
+---
+
+## 28. 5 Must-See Cheesy Christmas Movies Coming Out in 2026
+
+- **Source:** collider.com
+- **Published:** Wed, 18 Nov 2026 02:12:12 GMT
+- **Link:** https://collider.com/cheesy-christmas-movies-2026/
+- **Image:** https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/11/the-man-with-the-bag-arnold-schwarzenegger-and-alan-ritchson-poster.jpg
+
+Not sure if you should start with the Hallmark Channel or Netflix when it comes to 2026 Christmas movies? These five should be topping your list.
+
+---
+
+## 29. Home Alone Director Recalls Firing ‘Horrible’ Actor From Macaulay Culkin Christmas Movie
+
+- **Source:** feeds.feedburner.com
+- **Published:** Tue, 17 Nov 2026 22:24:26 +0000
+- **Link:** https://www.comingsoon.net/movies/news/2225629-home-alone-director-recalls-firing-horrible-actor
+
+The director of Home Alone recently opened up about a stressful casting decision that resulted in the only firing of his career. In a recent appearance on the Wildmen podcast with Dylan Sprouse and Brendan Columbus, director Chris Columbus revealed that he had to fire an actor during the filming of Home Alone. The director […] The post Home Alone Director Recalls Firing ‘Horrible’ Actor From Macau
+
+---
+
+## 30. Former Bond Villain Rami Malek Says Robert Pattinson Will Be an ‘Extraordinary’ 007: ‘I Could Not Be More Proud’
+
+- **Source:** variety.com
+- **Published:** Wed, 18 Nov 2026 05:18:33 +0000
+- **Link:** https://variety.com/2026/film/news/rami-malek-robert-pattinson-james-bond-1236951518/
+- **Image:** https://variety.com/wp-content/uploads/2026/11/MCDNOTI-MG004-1000.jpg
+
+Rami Malek is giving Robert Pattinson’s James Bond casting his stamp of approval. “I’ve known Rob for quite some time and I could not be more proud,” the “Bohemian Rhapsody” actor recently told People. “I mean, the fact that people are recognizing, maybe they all know, how talented that man is… We’ve worked together and […]
 
 ---
