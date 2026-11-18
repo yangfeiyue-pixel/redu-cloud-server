@@ -1,488 +1,488 @@
 # Fox News Hot 30
 
-> Fetched: 2026-11-17 14:23 UTC · Source: Fox News RSS (English original) · Count: 30
+> Fetched: 2026-11-18 05:11 UTC · Source: Fox News RSS (English original) · Count: 30
 
 ## Index
 
-1. [Republicans should ask whether the 2026 election was a replay of Trump’s 2016 victory](#1-republicans-should-ask-whether-the-2026-election-was-a-repla)
-2. [Little-known IRS program could be unfairly crushing landowners, according to alarming study and whistleblower](#2-little-known-irs-program-could-be-unfairly-crushing-landowne)
-3. [Yellowstone creator Taylor Sheridan has no apologies for spending big money on his hit TV shows](#3-yellowstone-creator-taylor-sheridan-has-no-apologies-for-spe)
-4. [Reddit's birding community goes wild as unique 'Grand Theft Auto 6' feature comes to light](#4-reddit-s-birding-community-goes-wild-as-unique-grand-theft-a)
-5. [SPEAK UP: What message should Trump give to China?](#5-speak-up-what-message-should-trump-give-to-china)
-6. [Mullin took government plane to LSU-Texas football game with Americans stranded in wake of FAA outage: report](#6-mullin-took-government-plane-to-lsu-texas-football-game-with)
-7. [Phil Collins says he relies on full-time nurse after ‘enforced’ time off in hospital](#7-phil-collins-says-he-relies-on-full-time-nurse-after-enforce)
-8. [California bridge toll hikes could hit drivers' wallets and ripple out to consumers](#8-california-bridge-toll-hikes-could-hit-drivers-wallets-and-r)
-9. [Ravens star tees off on team's poor effort in loss to winless Chargers: 'That's the reality of it'](#9-ravens-star-tees-off-on-team-s-poor-effort-in-loss-to-winles)
-10. [Trump warns Iran about reported plot against admin officials: 'We take it very seriously'](#10-trump-warns-iran-about-reported-plot-against-admin-officials)
-11. [The VPN setting that keeps your printer and apps working](#11-the-vpn-setting-that-keeps-your-printer-and-apps-working)
-12. [Bahrain intercepts Iranian drones targeting US radar after 2-month lull in Gulf strikes](#12-bahrain-intercepts-iranian-drones-targeting-us-radar-after-2)
-13. [Seattle Times still hasn't corrected claim that trans women have no athletic advantage despite studies](#13-seattle-times-still-hasn-t-corrected-claim-that-trans-women)
-14. [‘Frightened’ Texas neighbors left to wonder what political domino will fall next](#14-frightened-texas-neighbors-left-to-wonder-what-political-do)
-15. [Twice-deported illegal alien drunkenly sped past 18 cars the wrong way before killing college athlete: docs](#15-twice-deported-illegal-alien-drunkenly-sped-past-18-cars-the)
-16. [Pancreatic cancer mystery deepens as researchers make unexpected discovery](#16-pancreatic-cancer-mystery-deepens-as-researchers-make-unexpe)
-17. [President Trump opens Asia trip with dealmaking on tap and more top headlines](#17-president-trump-opens-asia-trip-with-dealmaking-on-tap-and-m)
-18. [Will the College Football Playoff selection committee embarrass itself again with new rankings? | Ian Miller](#18-will-the-college-football-playoff-selection-committee-embarr)
-19. [Patrick Mahomes worried about sore arm then threw 5 TDs; 49ers' Rocky Mountain high; Jordan Love hates sacks](#19-patrick-mahomes-worried-about-sore-arm-then-threw-5-tds-49er)
-20. [State Department presses Egypt to respect religious freedom as Christian convert faces possible execution](#20-state-department-presses-egypt-to-respect-religious-freedom)
-21. [MICHAEL RUIZ: New York's gutted police unit was more than a protest squad](#21-michael-ruiz-new-york-s-gutted-police-unit-was-more-than-a-p)
-22. [Drinking 6 to 8 cups of tea a day linked to lower risk of serious diseases, massive study finds](#22-drinking-6-to-8-cups-of-tea-a-day-linked-to-lower-risk-of-se)
-23. [Robert Pattinson’s James Bond casting could bring 'darker,' 'moodier' twist as fans crave classic 007: expert](#23-robert-pattinson-s-james-bond-casting-could-bring-darker-moo)
-24. [Jim Gaffigan, New York lawmakers push Gov Hochul to axe 'unnecessary tax' hitting comedy clubs](#24-jim-gaffigan-new-york-lawmakers-push-gov-hochul-to-axe-unnec)
-25. [Bob Dylan's hooded Vatican visit with Pope Leo shows he's still knockin' on heaven's door](#25-bob-dylan-s-hooded-vatican-visit-with-pope-leo-shows-he-s-st)
-26. [Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'](#26-schumer-boasts-early-advantage-in-senate-power-struggle-as-d)
-27. [Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](#27-trump-kicks-off-high-stakes-asia-trip-with-xi-putin-meetings)
-28. [Trump arrives in Philippines ahead of Xi Jinping summit in China after GOP midterm losses](#28-trump-arrives-in-philippines-ahead-of-xi-jinping-summit-in-c)
-29. [Engine failure forces Sen Ashley Moody’s American Airlines flight to divert for emergency landing](#29-engine-failure-forces-sen-ashley-moody-s-american-airlines-f)
-30. [Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'](#30-ro-khanna-pitches-1-700-checks-for-americans-to-offset-iran)
+1. [Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season](#1-patriots-chargers-game-loses-primetime-slot-as-nfl-makes-fir)
+2. [Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar](#2-alaska-dem-peltola-defeats-sullivan-flipping-9th-gop-senate)
+3. [College Football Playoff Rankings: Texas rewarded for thrilling win vs LSU, Georgia remains top dog](#3-college-football-playoff-rankings-texas-rewarded-for-thrilli)
+4. [Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions](#4-mamdani-s-luxury-second-home-tax-hits-500m-milestone-despite)
+5. [Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner](#5-ken-griffin-target-of-zohran-mamdani-has-officially-sold-his)
+6. [Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt](#6-major-drug-kingpin-the-kraken-captured-in-california-after-y)
+7. [Former Yankees slugger Mark Teixeira celebrates as Congress’s version of Mr Irrelevant at office lottery](#7-former-yankees-slugger-mark-teixeira-celebrates-as-congress)
+8. [‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos](#8-landman-star-ali-larter-sizzles-in-low-cut-mini-dress-in-be)
+9. [New lawsuit alleges AI app 'Bron' used LeBron James’ tattoos, voice and jersey to promote sports-betting tool](#9-new-lawsuit-alleges-ai-app-bron-used-lebron-james-tattoos-vo)
+10. [Ring of Honor's Deonna Purrazzo fires back on notion independent wrestling is dead: 'I think they're so wrong'](#10-ring-of-honor-s-deonna-purrazzo-fires-back-on-notion-indepen)
+11. [MLB announces Silver Slugger Awards and two rookies achieve feat not done since Ichiro Suzuki, Albert Pujols](#11-mlb-announces-silver-slugger-awards-and-two-rookies-achieve)
+12. [Patrick & Brittany Mahomes announce fourth baby's gender, and Chiefs fans will love the Super Bowl omen](#12-patrick-brittany-mahomes-announce-fourth-baby-s-gender-and-c)
+13. [Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: 'Major surgery'](#13-pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru)
+14. [Pentagon sued by The Intercept, Freedom of the Press Foundation over alleged 'blacklist' of news outlets](#14-pentagon-sued-by-the-intercept-freedom-of-the-press-foundati)
+15. [Antonio Sabàto Jr and Virginia Madsen’s son bails himself out of jail after fatal hit-and-run in Alaska](#15-antonio-sab-to-jr-and-virginia-madsen-s-son-bails-himself-ou)
+16. [White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote](#16-white-house-pulls-trump-s-fda-pick-heidi-overton-on-eve-of-s)
+17. [Kim Jong Un's daughter hits ski slopes in rare photos as North Korean dictator tours mountain resort](#17-kim-jong-un-s-daughter-hits-ski-slopes-in-rare-photos-as-nor)
+18. ['Mob Wives' star Renee Graziano rejects NYC Mayor Zohran Mamdani as 'not my choice' in public safety clash](#18-mob-wives-star-renee-graziano-rejects-nyc-mayor-zohran-mamd)
+19. [Trump administration permanently pulls funding from LA homeless agency over mounting fraud allegations](#19-trump-administration-permanently-pulls-funding-from-la-homel)
+20. [Variety recommends trans actress Hunter Schafer as next Bond girl alongside Robert Pattinson](#20-variety-recommends-trans-actress-hunter-schafer-as-next-bond)
+21. [Skydiving injury leaves 24-year-old tourist stranded in Australia on medical no-fly list](#21-skydiving-injury-leaves-24-year-old-tourist-stranded-in-aust)
+22. [Pentagon detains senior US Army officer accused of spying for Russians after UK arrest](#22-pentagon-detains-senior-us-army-officer-accused-of-spying-fo)
+23. [Paige Spiranac leaves it all on the field, and little to the imagination, while asking NFL fans tough question](#23-paige-spiranac-leaves-it-all-on-the-field-and-little-to-the)
+24. [Steelers star says international games 'freak me out' after Aidan Hutchinson's injury in Germany](#24-steelers-star-says-international-games-freak-me-out-after-ai)
+25. [Irish boxer Lee Reeves dies at 31 after three months in a coma following Dublin fight](#25-irish-boxer-lee-reeves-dies-at-31-after-three-months-in-a-co)
+26. [White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'](#26-white-house-blasts-trumpcare-for-all-pitch-from-far-left-el)
+27. [POWs, teens among 6 US soldiers from Korean War identified seven decades later](#27-pows-teens-among-6-us-soldiers-from-korean-war-identified-se)
+28. [Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’](#28-senior-us-official-undercuts-cnn-s-alarming-iran-dirty-bomb)
+29. [Judge fires back at Fani Willis' office in courtroom clash over Trump case: 'Due process doesn't apply to you'](#29-judge-fires-back-at-fani-willis-office-in-courtroom-clash-ov)
+30. [Dems campaign promise to freeze energy costs faces glaring reality check](#30-dems-campaign-promise-to-freeze-energy-costs-faces-glaring-r)
 
 ---
 
-<a id="1-republicans-should-ask-whether-the-2026-election-was-a-repla"></a>
-## 1. Republicans should ask whether the 2026 election was a replay of Trump’s 2016 victory
+<a id="1-patriots-chargers-game-loses-primetime-slot-as-nfl-makes-fir"></a>
+## 1. Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season
 
-- **Section:** fox-news/opinion
-- **Published:** Tue, 17 Nov 2026 09:00:10 -0500
-- **Link:** https://www.foxnews.com/opinion/republicans-ask-whether-2026-election-replay-trumps-2016-victory
+- **Section:** fox-news/outkick-sports
+- **Published:** Tue, 17 Nov 2026 22:59:15 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/patriots-chargers-game-loses-primetime-slot-nfl-makes-first-flex-scheduling-move-2026-season
 - **Image:**
 
-![Republicans should ask whether the 2026 election was a replay of Trump’s 2016 victory](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeffries-clark-delbene-dccc-election-watch-party.jpg?ve=1&tl=1)
+![Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Cleveland-Browns-players-celebrates.jpg?ve=1&tl=1)
 
 
-Republicans may be learning the same hard lesson Democrats faced in 2016, as voters demand real results on jobs, affordable homes and groceries.
+The NFL flexed the Las Vegas Raiders-Cleveland Browns game into "Sunday Night Football" for Week 12, bumping New England Patriots-Los Angeles Chargers.
 
 ---
 
-<a id="2-little-known-irs-program-could-be-unfairly-crushing-landowne"></a>
-## 2. Little-known IRS program could be unfairly crushing landowners, according to alarming study and whistleblower
+<a id="2-alaska-dem-peltola-defeats-sullivan-flipping-9th-gop-senate"></a>
+## 2. Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar
 
 - **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 08:57:42 -0500
-- **Link:** https://www.foxnews.com/politics/little-known-irs-program-could-unfairly-crushing-landowners-according-alarming-study-whistleblower
+- **Published:** Tue, 17 Nov 2026 22:27:24 -0500
+- **Link:** https://www.foxnews.com/politics/alaska-dem-peltola-defeats-sullivan-flipping-gop-senate-seat-decoy-dan-uproar
 - **Image:**
 
-![Little-known IRS program could be unfairly crushing landowners, according to alarming study and whistleblower](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Farmland-1.jpg?ve=1&tl=1)
+![Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/alaska-senate-election-results-mary-peltola.jpg?ve=1&tl=1)
 
 
-An Infinity Advisory Services study found the IRS slashed conservation easement values by an average of roughly 97% across 115 cases examined.
+Democrats seized a 56-44 majority in the U.S. Senate after Mary Peltola defeated Alaska Republican Sen. Dan S. Sullivan in a race that featured a same-name ballot challenger.
 
 ---
 
-<a id="3-yellowstone-creator-taylor-sheridan-has-no-apologies-for-spe"></a>
-## 3. Yellowstone creator Taylor Sheridan has no apologies for spending big money on his hit TV shows
+<a id="3-college-football-playoff-rankings-texas-rewarded-for-thrilli"></a>
+## 3. College Football Playoff Rankings: Texas rewarded for thrilling win vs LSU, Georgia remains top dog
 
-- **Section:** fox-news/outkick-culture
-- **Published:** Tue, 17 Nov 2026 08:57:07 -0500
-- **Link:** https://www.foxnews.com/outkick-culture/yellowstone-creator-taylor-sheridan-no-apologies-spending-big-money-hit-tv-shows
+- **Section:** fox-news/outkick-sports
+- **Published:** Tue, 17 Nov 2026 22:24:02 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/college-football-playoff-rankings-texas-rewarded-thrilling-win-vs-lsu-georgia-remains-top-dog
 - **Image:**
 
-![Yellowstone creator Taylor Sheridan has no apologies for spending big money on his hit TV shows](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Taylor_Sheridan_TV_Budgets.jpg?ve=1&tl=1)
+![College Football Playoff Rankings: Texas rewarded for thrilling win vs LSU, Georgia remains top dog](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arch-manning-touchdown-texas-lsu.jpg?ve=1&tl=1)
 
 
-Taylor Sheridan says big budgets make "Landman" and "1923" look like movies, and he has a blunt way of dealing with money executives: don't call back.
+Arch Manning led a game-winning drive past the Tigers as Texas jumped to No. 5 in the College Football Playoff rankings, with Georgia holding at No. 1.
 
 ---
 
-<a id="4-reddit-s-birding-community-goes-wild-as-unique-grand-theft-a"></a>
-## 4. Reddit's birding community goes wild as unique 'Grand Theft Auto 6' feature comes to light
-
-- **Section:** fox-news/outkick-culture
-- **Published:** Tue, 17 Nov 2026 08:52:18 -0500
-- **Link:** https://www.foxnews.com/outkick-culture/reddits-birding-community-goes-wild-unique-grand-theft-auto-6-feature-comes-light
-- **Image:**
-
-![Reddit's birding community goes wild as unique 'Grand Theft Auto 6' feature comes to light](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/GTA-6-birding-111726-1.jpg?ve=1&tl=1)
-
-
-"Grand Theft Auto VI" lets players birdwatch with reportedly 62 bird species to log, and the birding community on Reddit could not be more excited.
-
----
-
-<a id="5-speak-up-what-message-should-trump-give-to-china"></a>
-## 5. SPEAK UP: What message should Trump give to China?
+<a id="4-mamdani-s-luxury-second-home-tax-hits-500m-milestone-despite"></a>
+## 4. Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions
 
 - **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 08:43:45 -0500
-- **Link:** https://www.foxnews.com/politics/speak-up-what-message-should-trump-give-china
+- **Published:** Tue, 17 Nov 2026 22:06:17 -0500
+- **Link:** https://www.foxnews.com/politics/mamdanis-luxury-second-home-tax-hits-500m-milestone-despite-thousands-exemptions
 - **Image:**
 
-![SPEAK UP: What message should Trump give to China?](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1200/675/donald-trump-3.jpg?ve=1&tl=1)
+![Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/zohran-mamdani-nyc-luxury-second-home-tax.jpg?ve=1&tl=1)
 
 
-What do you think President Donald Trump's message to China should be during this week's summit? Give us your thoughts!
+Mayor Zohran Mamdani's pied-à-terre tax has billed wealthy second-home owners more than $500 million, even as tax bills fell far below initial estimates.
 
 ---
 
-<a id="6-mullin-took-government-plane-to-lsu-texas-football-game-with"></a>
-## 6. Mullin took government plane to LSU-Texas football game with Americans stranded in wake of FAA outage: report
+<a id="5-ken-griffin-target-of-zohran-mamdani-has-officially-sold-his"></a>
+## 5. Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner
 
-- **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 08:19:14 -0500
-- **Link:** https://www.foxnews.com/politics/mullin-took-government-plane-lsu-texas-football-game-americans-stranded-wake-faa-outage-report
+- **Section:** fox-news/outkick-sports
+- **Published:** Tue, 17 Nov 2026 21:42:50 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/ken-griffin-target-zohran-mamdani-officially-sold-58-million-apartment-ny-jets-owner
 - **Image:**
 
-![Mullin took government plane to LSU-Texas football game with Americans stranded in wake of FAA outage: report](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Mullin_Duffy.jpg?ve=1&tl=1)
+![Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/mamdani-ken-griffin.png?ve=1&tl=1)
 
 
-Secretary of State Markwayne Mullin reportedly flew a government plane to an LSU football game after the Federal Aviation Authority FAA lifted its ground stop.
+Ken Griffin says NYC Mayor Zohran Mamdani's pied-à-terre tax pushed him to double down on Miami, selling an apartment to Jets owner Woody Johnson.
 
 ---
 
-<a id="7-phil-collins-says-he-relies-on-full-time-nurse-after-enforce"></a>
-## 7. Phil Collins says he relies on full-time nurse after ‘enforced’ time off in hospital
+<a id="6-major-drug-kingpin-the-kraken-captured-in-california-after-y"></a>
+## 6. Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt
+
+- **Section:** fox-news/us
+- **Published:** Tue, 17 Nov 2026 21:41:40 -0500
+- **Link:** https://www.foxnews.com/us/major-drug-kingpin-the-kraken-captured-california-after-yearslong-hunt
+- **Image:**
+
+![Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/axel-montejo-saenz-kraken-arrest-san-diego.png?ve=1&tl=1)
+
+
+Alleged Guatemalan cocaine kingpin Axel Montejo Saenz, known as "Kraken," was arrested in San Diego after agents seized over 5,500 kilograms of cocaine, authorities said.
+
+---
+
+<a id="7-former-yankees-slugger-mark-teixeira-celebrates-as-congress"></a>
+## 7. Former Yankees slugger Mark Teixeira celebrates as Congress’s version of Mr Irrelevant at office lottery
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Tue, 17 Nov 2026 21:35:13 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/former-yankees-slugger-mark-teixeira-celebrates-congress-version-mr-irrelevant-office-lottery
+- **Image:**
+
+![Former Yankees slugger Mark Teixeira celebrates as Congress’s version of Mr Irrelevant at office lottery](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mark-teixeira-office-lottery-draw.jpg?ve=1&tl=1)
+
+
+Mark Teixeira drew chip No. 105 of 105 in the House freshman office lottery, earning Congress's "Mr. Irrelevant" tag and a playful un-victory lap.
+
+---
+
+<a id="8-landman-star-ali-larter-sizzles-in-low-cut-mini-dress-in-be"></a>
+## 8. ‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos
 
 - **Section:** fox-news/entertainment
-- **Published:** Tue, 17 Nov 2026 08:00:28 -0500
-- **Link:** https://www.foxnews.com/entertainment/phil-collins-relies-full-time-nurse-enforced-time-hospital
+- **Published:** Tue, 17 Nov 2026 21:05:09 -0500
+- **Link:** https://www.foxnews.com/entertainment/landman-star-ali-larter-sizzles-low-cut-mini-dress-behind-the-scenes-season-three-photos
 - **Image:**
 
-![Phil Collins says he relies on full-time nurse after ‘enforced’ time off in hospital](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/collins.jpg?ve=1&tl=1)
+![‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/ali-larter-smiles-landman.jpg?ve=1&tl=1)
 
 
-Phil Collins says a full-time nurse helps manage his medication as he adjusts to life off the road, with physio three times a week keeping him moving.
+Ali Larter shares behind-the-scenes photos from "Landman" Season 3 in Texas, including a selfie with Sam Elliott and a TCU football game appearance.
 
 ---
 
-<a id="8-california-bridge-toll-hikes-could-hit-drivers-wallets-and-r"></a>
-## 8. California bridge toll hikes could hit drivers' wallets and ripple out to consumers
+<a id="9-new-lawsuit-alleges-ai-app-bron-used-lebron-james-tattoos-vo"></a>
+## 9. New lawsuit alleges AI app 'Bron' used LeBron James’ tattoos, voice and jersey to promote sports-betting tool
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Tue, 17 Nov 2026 20:58:10 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/lawsuit-alleges-ai-app-bron-used-lebron-james-tattoos-voice-jersey-promote-sports-betting-tool
+- **Image:**
+
+![New lawsuit alleges AI app 'Bron' used LeBron James’ tattoos, voice and jersey to promote sports-betting tool](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lebron-james-hands-on-hips.jpg?ve=1&tl=1)
+
+
+LeBron James alleges an AI sports-betting app called "Bron" faked his endorsement, with its ad viewed about 1 million times before it was taken down.
+
+---
+
+<a id="10-ring-of-honor-s-deonna-purrazzo-fires-back-on-notion-indepen"></a>
+## 10. Ring of Honor's Deonna Purrazzo fires back on notion independent wrestling is dead: 'I think they're so wrong'
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Tue, 17 Nov 2026 20:53:26 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/ring-of-honor-deonna-purrazzo-fires-back-notion-independent-wrestling-dead-think-theyre-so-wrong
+- **Image:**
+
+![Ring of Honor's Deonna Purrazzo fires back on notion independent wrestling is dead: 'I think they're so wrong'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/deonna-purrazzo-aew-collision-ring.jpg?ve=1&tl=1)
+
+
+Ring of Honor star Deonna Purrazzo says independent wrestling is far from dead as her charity shows with Steve Maclin fund veterans and a school district.
+
+---
+
+<a id="11-mlb-announces-silver-slugger-awards-and-two-rookies-achieve"></a>
+## 11. MLB announces Silver Slugger Awards and two rookies achieve feat not done since Ichiro Suzuki, Albert Pujols
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Tue, 17 Nov 2026 20:50:49 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/mlb-announces-silver-slugger-awards-two-rookies-achieve-feat-not-done-since-ichiro-suzuki-albert-pujols
+- **Image:**
+
+![MLB announces Silver Slugger Awards and two rookies achieve feat not done since Ichiro Suzuki, Albert Pujols](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/chase-delauer-guardians-alcs-tropicana-field.jpg?ve=1&tl=1)
+
+
+The 2026 Silver Slugger Awards honor 13 first-time winners, the most in 20 years, as Bobby Witt Jr., Pete Alonso and Kyle Schwarber take home hardware.
+
+---
+
+<a id="12-patrick-brittany-mahomes-announce-fourth-baby-s-gender-and-c"></a>
+## 12. Patrick & Brittany Mahomes announce fourth baby's gender, and Chiefs fans will love the Super Bowl omen
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Tue, 17 Nov 2026 20:50:49 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/patrick-mahomes-announces-fourth-baby-gender-chiefs-fans-love-super-bowl-omen
+- **Image:**
+
+![Patrick & Brittany Mahomes announce fourth baby's gender, and Chiefs fans will love the Super Bowl omen](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/patrick-mahomes.jpg?ve=1&tl=1)
+
+
+Kansas City Chiefs quarterback Patrick Mahomes and wife Brittany Mahomes are expecting a baby boy, he announced in an Instagram gender reveal featuring a blue-frosting cake.
+
+---
+
+<a id="13-pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru"></a>
+## 13. Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: 'Major surgery'
+
+- **Section:** fox-news/world
+- **Published:** Tue, 17 Nov 2026 20:40:55 -0500
+- **Link:** https://www.foxnews.com/world/pope-leo-breaks-silence-rosary-striking-face-peru-reveals-details-cancer-major-surgery
+- **Image:**
+
+![Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: 'Major surgery'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pope-leo-plane-peru-home.jpg?ve=1&tl=1)
+
+
+Pope Leo XIV says his lung cancer was found in a routine check-up with no symptoms, crediting prayer and doctors for his recovery before the Peru trip.
+
+---
+
+<a id="14-pentagon-sued-by-the-intercept-freedom-of-the-press-foundati"></a>
+## 14. Pentagon sued by The Intercept, Freedom of the Press Foundation over alleged 'blacklist' of news outlets
+
+- **Section:** fox-news/media
+- **Published:** Tue, 17 Nov 2026 20:30:40 -0500
+- **Link:** https://www.foxnews.com/media/pentagon-sued-intercept-freedom-press-foundation-alleged-blacklist-news-outlets
+- **Image:**
+
+![Pentagon sued by The Intercept, Freedom of the Press Foundation over alleged 'blacklist' of news outlets](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/524/pentagon-aerial-image.jpg?ve=1&tl=1)
+
+
+The Freedom of the Press Foundation and The Intercept sued the Pentagon over an alleged journalist blacklist, citing a CENTCOM warning to journalist Nick Turse.
+
+---
+
+<a id="15-antonio-sab-to-jr-and-virginia-madsen-s-son-bails-himself-ou"></a>
+## 15. Antonio Sabàto Jr and Virginia Madsen’s son bails himself out of jail after fatal hit-and-run in Alaska
+
+- **Section:** fox-news/entertainment
+- **Published:** Tue, 17 Nov 2026 20:05:49 -0500
+- **Link:** https://www.foxnews.com/entertainment/antonio-sabato-jr-virginia-madsens-son-bails-himself-out-jail-after-fatal-hit-and-run-alaska
+- **Image:**
+
+![Antonio Sabàto Jr and Virginia Madsen’s son bails himself out of jail after fatal hit-and-run in Alaska](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/anthony-sabato_-virgina-madsen_-jack-sabato.jpg?ve=1&tl=1)
+
+
+Jack Sabàto, son of Antonio Sabàto Jr. and Virginia Madsen, posted $5,000 bail after an Anchorage hit-and-run that killed Carl Simmonds, police said.
+
+---
+
+<a id="16-white-house-pulls-trump-s-fda-pick-heidi-overton-on-eve-of-s"></a>
+## 16. White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote
+
+- **Section:** fox-news/politics
+- **Published:** Tue, 17 Nov 2026 20:04:59 -0500
+- **Link:** https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote
+- **Image:**
+
+![White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/heidi-overton.png?ve=1&tl=1)
+
+
+President Donald Trump's FDA pick, Heidi Overton, saw her nomination pulled one day before a Senate committee vote, a White House official confirmed.
+
+---
+
+<a id="17-kim-jong-un-s-daughter-hits-ski-slopes-in-rare-photos-as-nor"></a>
+## 17. Kim Jong Un's daughter hits ski slopes in rare photos as North Korean dictator tours mountain resort
+
+- **Section:** fox-news/world
+- **Published:** Tue, 17 Nov 2026 20:00:29 -0500
+- **Link:** https://www.foxnews.com/world/kim-jong-uns-daughter-hits-ski-slopes-rare-photos-north-korean-dictator-tours-mountain-resort
+- **Image:**
+
+![Kim Jong Un's daughter hits ski slopes in rare photos as North Korean dictator tours mountain resort](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kim-jong-un-samjiyon-tourist-zone-fox-news_.jpg?ve=1&tl=1)
+
+
+Kim Jong Un watched from a throne-like chair, cigarette in hand, as his daughter Kim Ju Ae skied down a snowy North Korean resort during a family outing.
+
+---
+
+<a id="18-mob-wives-star-renee-graziano-rejects-nyc-mayor-zohran-mamd"></a>
+## 18. 'Mob Wives' star Renee Graziano rejects NYC Mayor Zohran Mamdani as 'not my choice' in public safety clash
+
+- **Section:** fox-news/media
+- **Published:** Tue, 17 Nov 2026 19:55:56 -0500
+- **Link:** https://www.foxnews.com/media/mob-wives-star-renee-graziano-rejects-nyc-mayor-zohran-mamdani-not-my-choice-public-safety-clash
+- **Image:**
+
+!['Mob Wives' star Renee Graziano rejects NYC Mayor Zohran Mamdani as 'not my choice' in public safety clash](https://static.foxnews.com/foxnews.com/content/uploads/2026/11/RENEE-GRAZIANO-GIF.gif)
+
+
+Former "Mob Wives" star Renee Graziano criticized NYC Mayor Zohran Mamdani and criminal justice policies on Tomi Lahren's podcast, as Mamdani defended his NYPD overhaul.
+
+---
+
+<a id="19-trump-administration-permanently-pulls-funding-from-la-homel"></a>
+## 19. Trump administration permanently pulls funding from LA homeless agency over mounting fraud allegations
+
+- **Section:** fox-news/politics
+- **Published:** Tue, 17 Nov 2026 19:55:30 -0500
+- **Link:** https://www.foxnews.com/politics/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegations
+- **Image:**
+
+![Trump administration permanently pulls funding from LA homeless agency over mounting fraud allegations](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/skid-row-california-fox-news-1.jpg?ve=1&tl=1)
+
+
+The Los Angeles Homeless Services Authority will give up about $150 million in federal funding under a HUD settlement, with LA County managing the money.
+
+---
+
+<a id="20-variety-recommends-trans-actress-hunter-schafer-as-next-bond"></a>
+## 20. Variety recommends trans actress Hunter Schafer as next Bond girl alongside Robert Pattinson
+
+- **Section:** fox-news/media
+- **Published:** Tue, 17 Nov 2026 19:42:38 -0500
+- **Link:** https://www.foxnews.com/media/variety-recommends-trans-actress-hunter-schafer-next-bond-girl-alongside-robert-pattinson
+- **Image:**
+
+![Variety recommends trans actress Hunter Schafer as next Bond girl alongside Robert Pattinson](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/hunter-schafer-robert-pattinson.jpg?ve=1&tl=1)
+
+
+Variety recommended trans "Euphoria" star Hunter Schafer as the next Bond girl opposite new 007 Robert Pattinson, saying the casting would "make history."
+
+---
+
+<a id="21-skydiving-injury-leaves-24-year-old-tourist-stranded-in-aust"></a>
+## 21. Skydiving injury leaves 24-year-old tourist stranded in Australia on medical no-fly list
 
 - **Section:** fox-news/travel
-- **Published:** Tue, 17 Nov 2026 08:00:16 -0500
-- **Link:** https://www.foxnews.com/travel/california-bridge-toll-hikes-could-hit-drivers-wallets-ripple-out-consumers
+- **Published:** Tue, 17 Nov 2026 19:40:18 -0500
+- **Link:** https://www.foxnews.com/travel/skydiving-injury-leaves-24-year-old-tourist-stranded-australia-medical-no-fly-list
 - **Image:**
 
-![California bridge toll hikes could hit drivers' wallets and ripple out to consumers](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ac-transit-buses-bay-bridge-berkeley.jpg?ve=1&tl=1)
+![Skydiving injury leaves 24-year-old tourist stranded in Australia on medical no-fly list](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/UK-BRIT-TRAPPED-IN-AUSTRALIA-TRAVEL-VACATION-3.jpg?ve=1&tl=1)
 
 
-California's Bay Area bridge tolls will climb to $9 for FasTrak users and $10 for mailed invoices starting Jan. 1, 2027, as seven state-owned bridges face rate hikes.
+Chloe Lowe of the United Kingdom says a 10,000-foot skydiving jump in Australia left her with a damaged eardrum, an infection, vertigo and a not-fit-to-fly certificate.
 
 ---
 
-<a id="9-ravens-star-tees-off-on-team-s-poor-effort-in-loss-to-winles"></a>
-## 9. Ravens star tees off on team's poor effort in loss to winless Chargers: 'That's the reality of it'
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 07:51:29 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/ravens-star-tees-off-teams-poor-effort-loss-winless-chargers-reality
-- **Image:**
-
-![Ravens star tees off on team's poor effort in loss to winless Chargers: 'That's the reality of it'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kyle-hamilton-baltimore-ravens-titans.jpg?ve=1&tl=1)
-
-
-Kyle Hamilton ripped the Baltimore Ravens after a fifth straight loss, saying the team is "disgracing those standards" in a stunning fall to 4-6.
-
----
-
-<a id="10-trump-warns-iran-about-reported-plot-against-admin-officials"></a>
-## 10. Trump warns Iran about reported plot against admin officials: 'We take it very seriously'
-
-- **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 07:50:35 -0500
-- **Link:** https://www.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously
-- **Image:**
-
-![Trump warns Iran about reported plot against admin officials: 'We take it very seriously'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/donald-trump_001.jpg?ve=1&tl=1)
-
-
-Trump warned Iran would face unprecedented retaliation over a reported plot targeting Washington, D.C., as senior officials relocate to military housing.
-
----
-
-<a id="11-the-vpn-setting-that-keeps-your-printer-and-apps-working"></a>
-## 11. The VPN setting that keeps your printer and apps working
-
-- **Section:** fox-news/tech
-- **Published:** Tue, 17 Nov 2026 07:48:55 -0500
-- **Link:** https://www.foxnews.com/tech/vpn-setting-keeps-printer-apps-working
-- **Image:**
-
-![The VPN setting that keeps your printer and apps working](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/wifi-data-privacy-1.jpg?ve=1&tl=1)
-
-
-VPN split tunneling lets your banking app skip the encrypted tunnel while other apps stay protected, and the Allow LAN setting can fix printer issues.
-
----
-
-<a id="12-bahrain-intercepts-iranian-drones-targeting-us-radar-after-2"></a>
-## 12. Bahrain intercepts Iranian drones targeting US radar after 2-month lull in Gulf strikes
-
-- **Section:** fox-news/world
-- **Published:** Tue, 17 Nov 2026 07:42:29 -0500
-- **Link:** https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes
-- **Image:**
-
-![Bahrain intercepts Iranian drones targeting US radar after 2-month lull in Gulf strikes](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/iranian-drone.jpg?ve=1&tl=1)
-
-
-Iran's IRGC claims it struck a U.S. radar system at the Sheikh Isa base in Bahrain, home to the Fifth Fleet, the third attack in five days after a lull.
-
----
-
-<a id="13-seattle-times-still-hasn-t-corrected-claim-that-trans-women"></a>
-## 13. Seattle Times still hasn't corrected claim that trans women have no athletic advantage despite studies
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 07:05:49 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/seattle-times-hasnt-corrected-claim-trans-women-no-athletic-advantage-despite-studies
-- **Image:**
-
-![Seattle Times still hasn't corrected claim that trans women have no athletic advantage despite studies](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/lia-thomas-riley-gaines-ncaa-2022.jpg?ve=1&tl=1)
-
-
-The Seattle Times says no serious evidence favors trans girls in sports, but Jason Rantz and Benjamin Ryan cite studies showing athletic advantages.
-
----
-
-<a id="14-frightened-texas-neighbors-left-to-wonder-what-political-do"></a>
-## 14. ‘Frightened’ Texas neighbors left to wonder what political domino will fall next
-
-- **Section:** fox-news/media
-- **Published:** Tue, 17 Nov 2026 07:00:34 -0500
-- **Link:** https://www.foxnews.com/media/frightened-texas-neighbors-left-wonder-what-political-domino-fall-next
-- **Image:**
-
-![‘Frightened’ Texas neighbors left to wonder what political domino will fall next](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Arkansasvoter.jpg?ve=1&tl=1)
-
-
-Oklahoma, Arkansas and Louisiana residents react to Texas flipping blue in the 2026 midterm election, fearing a chain reaction could reach red states.
-
----
-
-<a id="15-twice-deported-illegal-alien-drunkenly-sped-past-18-cars-the"></a>
-## 15. Twice-deported illegal alien drunkenly sped past 18 cars the wrong way before killing college athlete: docs
+<a id="22-pentagon-detains-senior-us-army-officer-accused-of-spying-fo"></a>
+## 22. Pentagon detains senior US Army officer accused of spying for Russians after UK arrest
 
 - **Section:** fox-news/us
-- **Published:** Tue, 17 Nov 2026 07:00:17 -0500
-- **Link:** https://www.foxnews.com/us/twice-deported-illegal-alien-drunkenly-sped-past-18-cars-wrong-way-killing-college-athlete-docs
+- **Published:** Tue, 17 Nov 2026 19:26:16 -0500
+- **Link:** https://www.foxnews.com/us/pentagon-detains-senior-us-army-officer-accused-spying-russians-after-uk-arrest
 - **Image:**
 
-![Twice-deported illegal alien drunkenly sped past 18 cars the wrong way before killing college athlete: docs](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Ryan-O_Shea-killed-by-illegal-immigrant-driver.jpg?ve=1&tl=1)
+![Pentagon detains senior US Army officer accused of spying for Russians after UK arrest](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/army-uniform.jpg?ve=1&tl=1)
 
 
-Guillermo Carmona-Lopez faces 13 charges, including manslaughter, after a wrong-way crash killed University of New Haven hockey captain Ryan O'Shea.
+Lt. Col. Brandon Tyner was handed to U.S. military authorities after British counterterrorism police arrested him on suspicion of spying for Russia.
 
 ---
 
-<a id="16-pancreatic-cancer-mystery-deepens-as-researchers-make-unexpe"></a>
-## 16. Pancreatic cancer mystery deepens as researchers make unexpected discovery
-
-- **Section:** fox-news/health
-- **Published:** Tue, 17 Nov 2026 07:00:11 -0500
-- **Link:** https://www.foxnews.com/health/pancreatic-cancer-mystery-deepens-researchers-make-unexpected-discovery
-- **Image:**
-
-![Pancreatic cancer mystery deepens as researchers make unexpected discovery](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/man-getting-immunotherapy.jpg?ve=1&tl=1)
-
-
-University of Cincinnati study found Black patients' pancreatic tumors had more B cells and cells tied to drug resistance, pointing to tailored care.
-
----
-
-<a id="17-president-trump-opens-asia-trip-with-dealmaking-on-tap-and-m"></a>
-## 17. President Trump opens Asia trip with dealmaking on tap and more top headlines
-
-- **Section:** fox-news/us
-- **Published:** Tue, 17 Nov 2026 06:52:01 -0500
-- **Link:** https://www.foxnews.com/us/trump-opens-asia-trip-dealmaking-on-top-more-top-headlines
-- **Image:**
-
-![President Trump opens Asia trip with dealmaking on tap and more top headlines](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/trump-asia-trip.jpg?ve=1&tl=1)
-
-
-Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.
-
----
-
-<a id="18-will-the-college-football-playoff-selection-committee-embarr"></a>
-## 18. Will the College Football Playoff selection committee embarrass itself again with new rankings? | Ian Miller
+<a id="23-paige-spiranac-leaves-it-all-on-the-field-and-little-to-the"></a>
+## 23. Paige Spiranac leaves it all on the field, and little to the imagination, while asking NFL fans tough question
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 06:49:00 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/college-football-playoff-selection-committee-embarrass-itself-new-rankings-ian-miller
+- **Published:** Tue, 17 Nov 2026 19:15:49 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/paige-spiranac-leaves-field-little-imagination-asking-nfl-fans-tough-question
 - **Image:**
 
-![Will the College Football Playoff selection committee embarrass itself again with new rankings? | Ian Miller](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/alabama-kalen-deboer-123025-1.jpg?ve=1&tl=1)
+![Paige Spiranac leaves it all on the field, and little to the imagination, while asking NFL fans tough question](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paige-spiranac-nfl-fans-favorite-team.jpg?ve=1&tl=1)
 
 
-Curt Cignetti ripped the College Football Playoff committee as Indiana fell five spots on a bye, while every Alabama Crimson Tide SEC win lost Saturday.
+Paige Spiranac showcases a new NFL collection for Swag Golf while asking fans which team is their favorite, revealing her Steelers and Bills roots.
 
 ---
 
-<a id="19-patrick-mahomes-worried-about-sore-arm-then-threw-5-tds-49er"></a>
-## 19. Patrick Mahomes worried about sore arm then threw 5 TDs; 49ers' Rocky Mountain high; Jordan Love hates sacks
+<a id="24-steelers-star-says-international-games-freak-me-out-after-ai"></a>
+## 24. Steelers star says international games 'freak me out' after Aidan Hutchinson's injury in Germany
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 06:41:41 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/patrick-mahomes-worried-sore-arm-threw-5-tds-49ers-rocky-mountain-high-jordan-love-hates-sacks
+- **Published:** Tue, 17 Nov 2026 19:08:36 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/steelers-star-says-international-games-freak-me-out-after-aidan-hutchinson-injury-germany
 - **Image:**
 
-![Patrick Mahomes worried about sore arm then threw 5 TDs; 49ers' Rocky Mountain high; Jordan Love hates sacks](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/nfl-chiefs-patrick-mahomes-092026-1.jpg?ve=1&tl=1)
+![Steelers star says international games 'freak me out' after Aidan Hutchinson's injury in Germany](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aidan-hutchinson-injury-sack-celebration.jpg?ve=1&tl=1)
 
 
-Patrick Mahomes admits he was nervous about his sore elbow, then silenced the doubts with 348 yards and five touchdown passes for Kansas City.
+Pittsburgh Steelers star Cameron Heyward said international games "freak me out" over field concerns after Aidan Hutchinson's brutal injury in Germany.
 
 ---
 
-<a id="20-state-department-presses-egypt-to-respect-religious-freedom"></a>
-## 20. State Department presses Egypt to respect religious freedom as Christian convert faces possible execution
+<a id="25-irish-boxer-lee-reeves-dies-at-31-after-three-months-in-a-co"></a>
+## 25. Irish boxer Lee Reeves dies at 31 after three months in a coma following Dublin fight
 
-- **Section:** fox-news/world
-- **Published:** Tue, 17 Nov 2026 06:00:46 -0500
-- **Link:** https://www.foxnews.com/world/state-department-presses-egypt-respect-religious-freedom-christian-convert-faces-possible-execution
+- **Section:** fox-news/outkick-sports
+- **Published:** Tue, 17 Nov 2026 18:55:17 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/irish-boxer-lee-reeves-dies-31-three-months-coma-following-dublin-fight
 - **Image:**
 
-![State Department presses Egypt to respect religious freedom as Christian convert faces possible execution](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/cross-man-on-trial-split.jpg?ve=1&tl=1)
+![Irish boxer Lee Reeves dies at 31 after three months in a coma following Dublin fight](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lee-reeves-gary-cully-boxing-dublin.jpg?ve=1&tl=1)
 
 
-The State Department is pressing Egypt to protect religious freedom as a Christian convert faces possible execution or 25 years in prison, raising concerns over his trial.
+Lee Reeves died at 31 after emergency brain surgery and a medically induced coma following his 10th-round knockout loss to Gary Cully at Dublin's 3Arena.
 
 ---
 
-<a id="21-michael-ruiz-new-york-s-gutted-police-unit-was-more-than-a-p"></a>
-## 21. MICHAEL RUIZ: New York's gutted police unit was more than a protest squad
-
-- **Section:** fox-news/us
-- **Published:** Tue, 17 Nov 2026 06:00:31 -0500
-- **Link:** https://www.foxnews.com/us/michael-ruiz-new-yorks-gutted-police-unit-more-than-protest-squad
-- **Image:**
-
-![MICHAEL RUIZ: New York's gutted police unit was more than a protest squad](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/emir-balat-nyc.jpg?ve=1&tl=1)
-
-
-Zohran Mamdani is dissolving the NYPD Strategic Response Group for a civilian-led de-escalation plan critics say will embolden criminals and terrorists.
-
----
-
-<a id="22-drinking-6-to-8-cups-of-tea-a-day-linked-to-lower-risk-of-se"></a>
-## 22. Drinking 6 to 8 cups of tea a day linked to lower risk of serious diseases, massive study finds
-
-- **Section:** fox-news/food-drink
-- **Published:** Tue, 17 Nov 2026 06:00:28 -0500
-- **Link:** https://www.foxnews.com/food-drink/drinking-6-8-cups-tea-day-linked-lower-risk-serious-diseases-massive-study-finds
-- **Image:**
-
-![Drinking 6 to 8 cups of tea a day linked to lower risk of serious diseases, massive study finds](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/benefits-of-drinking-tea.png?ve=1&tl=1)
-
-
-A Journal of Internal Medicine study of nearly 486,000 adults links consistent tea drinking to an 11% lower risk of vascular disease overall.
-
----
-
-<a id="23-robert-pattinson-s-james-bond-casting-could-bring-darker-moo"></a>
-## 23. Robert Pattinson’s James Bond casting could bring 'darker,' 'moodier' twist as fans crave classic 007: expert
-
-- **Section:** fox-news/entertainment
-- **Published:** Tue, 17 Nov 2026 06:00:28 -0500
-- **Link:** https://www.foxnews.com/entertainment/robert-pattinson-james-bond-casting-darker-moodier-twist-fans-crave-classic-007-expert
-- **Image:**
-
-![Robert Pattinson’s James Bond casting could bring 'darker,' 'moodier' twist as fans crave classic 007: expert](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/robert-pattinson-primetime-italy.jpg?ve=1&tl=1)
-
-
-Robert Pattinson calls his James Bond casting "the honor of a lifetime," but critics say his brooding Batman past makes him a risky pick for 007.
-
----
-
-<a id="24-jim-gaffigan-new-york-lawmakers-push-gov-hochul-to-axe-unnec"></a>
-## 24. Jim Gaffigan, New York lawmakers push Gov Hochul to axe 'unnecessary tax' hitting comedy clubs
-
-- **Section:** fox-news/media
-- **Published:** Tue, 17 Nov 2026 06:00:09 -0500
-- **Link:** https://www.foxnews.com/media/jim-gaffigan-new-york-lawmakers-push-gov-hochul-axe-unnecessary-tax-hitting-comedy-clubs
-- **Image:**
-
-![Jim Gaffigan, New York lawmakers push Gov Hochul to axe 'unnecessary tax' hitting comedy clubs](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/JIM-GAFFIGAN-STANDUP-FOX-NEWS.png?ve=1&tl=1)
-
-
-Comedian Jim Gaffigan joined New York lawmakers and club owners at a Manhattan rally, urging Gov. Kathy Hochul to sign a bill ending state sales tax on comedy clubs.
-
----
-
-<a id="25-bob-dylan-s-hooded-vatican-visit-with-pope-leo-shows-he-s-st"></a>
-## 25. Bob Dylan's hooded Vatican visit with Pope Leo shows he's still knockin' on heaven's door
-
-- **Section:** fox-news/opinion
-- **Published:** Tue, 17 Nov 2026 05:50:52 -0500
-- **Link:** https://www.foxnews.com/opinion/bob-dylan-hooded-vatican-visit-pope-leo-still-knockin-heavens-door
-- **Image:**
-
-![Bob Dylan's hooded Vatican visit with Pope Leo shows he's still knockin' on heaven's door](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/bobdylanpopetwo-scaled.jpg?ve=1&tl=1)
-
-
-Bob Dylan met Pope Leo XIV at the Vatican, keeping his hood up as the first Augustinian friar to be elected pope called himself a son of St. Augustine.
-
----
-
-<a id="26-schumer-boasts-early-advantage-in-senate-power-struggle-as-d"></a>
-## 26. Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'
+<a id="26-white-house-blasts-trumpcare-for-all-pitch-from-far-left-el"></a>
+## 26. White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'
 
 - **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 05:30:03 -0500
-- **Link:** https://www.foxnews.com/politics/schumer-boasts-early-advantage-senate-power-struggle-dem-rival-warns-against-coronation
+- **Published:** Tue, 17 Nov 2026 18:10:20 -0500
+- **Link:** https://www.foxnews.com/politics/white-house-blasts-trumpcare-all-pitch-far-left-el-sayed-called-president-unserious-fool
 - **Image:**
 
-![Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/schumer-van-hollen.jpg?ve=1&tl=1)
+![White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/El-Sayed-Trump-Split-Photo-1_001.jpg?ve=1&tl=1)
 
 
-Senate Democrats face their first leadership race in decades as Chris Van Hollen alleges the Dec. 1 secret ballot vote may be rushed to kneecap him.
+White House slammed Abdul El-Sayed's "Trumpcare for All" pitch, warning the Medicare for All plan would threaten Americans' existing health coverage.
 
 ---
 
-<a id="27-trump-kicks-off-high-stakes-asia-trip-with-xi-putin-meetings"></a>
-## 27. Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage
+<a id="27-pows-teens-among-6-us-soldiers-from-korean-war-identified-se"></a>
+## 27. POWs, teens among 6 US soldiers from Korean War identified seven decades later
 
 - **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 05:00:12 -0500
-- **Link:** https://www.foxnews.com/politics/trump-kicks-off-high-stakes-asia-swing-xi-putin-meetings-looming-world-stage
+- **Published:** Tue, 17 Nov 2026 17:16:57 -0500
+- **Link:** https://www.foxnews.com/politics/pows-teens-among-6-us-soldiers-korean-war-identified-seven-decades-later
 - **Image:**
 
-![Trump kicks off high-stakes Asia trip with Xi, Putin meetings looming on world stage](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/trump-xi-shake.jpeg?ve=1&tl=1)
+![POWs, teens among 6 US soldiers from Korean War identified seven decades later](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/6e365cd1-korean-war-us-soldiers.jpg?ve=1&tl=1)
 
 
-President Donald Trump is set to sign a trade deal with Thailand at the ASEAN summit before heading to China for historic talks with Xi Jinping.
+The DPAA identified six U.S. soldiers missing from the Korean War, including two teenagers, decades after they died as prisoners of war or in action.
 
 ---
 
-<a id="28-trump-arrives-in-philippines-ahead-of-xi-jinping-summit-in-c"></a>
-## 28. Trump arrives in Philippines ahead of Xi Jinping summit in China after GOP midterm losses
+<a id="28-senior-us-official-undercuts-cnn-s-alarming-iran-dirty-bomb"></a>
+## 28. Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’
 
 - **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 04:47:25 -0500
-- **Link:** https://www.foxnews.com/politics/trump-philippines-arrival-xi-jinping-china-summit
+- **Published:** Tue, 17 Nov 2026 16:11:31 -0500
+- **Link:** https://www.foxnews.com/politics/senior-us-official-undercuts-cnns-alarming-iran-dirty-bomb-report-its-not-new
 - **Image:**
 
-![Trump arrives in Philippines ahead of Xi Jinping summit in China after GOP midterm losses](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-wave.jpg?ve=1&tl=1)
+![Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/IRGC.jpg?ve=1&tl=1)
 
 
-President Donald Trump arrives in the Philippines ahead of a historic summit with China's Xi Jinping, following bruising GOP losses in the U.S. midterm elections.
+President Donald Trump warned Iran would pay a price "no country has ever paid" if a dirty bomb threat to Washington, D.C., proves real, amid divided assessments.
 
 ---
 
-<a id="29-engine-failure-forces-sen-ashley-moody-s-american-airlines-f"></a>
-## 29. Engine failure forces Sen Ashley Moody’s American Airlines flight to divert for emergency landing
+<a id="29-judge-fires-back-at-fani-willis-office-in-courtroom-clash-ov"></a>
+## 29. Judge fires back at Fani Willis' office in courtroom clash over Trump case: 'Due process doesn't apply to you'
 
 - **Section:** fox-news/politics
-- **Published:** Mon, 16 Nov 2026 23:08:25 -0500
-- **Link:** https://www.foxnews.com/politics/engine-failure-forces-sen-ashley-moodys-american-airlines-flight-divert-emergency-landing
+- **Published:** Tue, 17 Nov 2026 16:00:36 -0500
+- **Link:** https://www.foxnews.com/politics/judge-fires-back-fani-willis-office-courtroom-clash-trump-case-due-process-doesnt-apply
 - **Image:**
 
-![Engine failure forces Sen Ashley Moody’s American Airlines flight to divert for emergency landing](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/524/ashley-moody-june-2026.jpg?ve=1&tl=1)
+![Judge fires back at Fani Willis' office in courtroom clash over Trump case: 'Due process doesn't apply to you'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/trump-fani-wilis.jpg?ve=1&tl=1)
 
 
-Sen. Ashley Moody's, R-Fla., flight was forced to divert and make an emergency landing following an engine failure. The American Airlines flight was diverted to Orlando.
+A Georgia appeals judge grilled Fani Willis' office over its bid to challenge nearly $17 million in legal-fee requests from Trump and other ex-defendants.
 
 ---
 
-<a id="30-ro-khanna-pitches-1-700-checks-for-americans-to-offset-iran"></a>
-## 30. Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'
+<a id="30-dems-campaign-promise-to-freeze-energy-costs-faces-glaring-r"></a>
+## 30. Dems campaign promise to freeze energy costs faces glaring reality check
 
 - **Section:** fox-news/politics
-- **Published:** Mon, 16 Nov 2026 21:55:22 -0500
-- **Link:** https://www.foxnews.com/politics/ro-khanna-pitches-1700-checks-americans-offset-iran-war-costs-chance-deliver
+- **Published:** Tue, 17 Nov 2026 15:31:11 -0500
+- **Link:** https://www.foxnews.com/politics/dems-campaign-promise-freeze-energy-costs-faces-glaring-reality-check
 - **Image:**
 
-![Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/rep-ro-khanna-democrat-schumer.jpg?ve=1&tl=1)
+![Dems campaign promise to freeze energy costs faces glaring reality check](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/abigail-spanberger-va.png?ve=1&tl=1)
 
 
-Rep. Ro Khanna proposed a $1,700 refund check for every American family to cover higher gas, food and electricity bills tied to the war in Iran.
+Sam Romain of Americans for Energy Dominance says Democrats' energy price controls, from Gina Hinojosa's Texas rate freeze to state caps, can't fix supply.
 
 ---
