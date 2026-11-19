@@ -1,488 +1,488 @@
 # Fox News Hot 30
 
-> Fetched: 2026-11-18 05:11 UTC · Source: Fox News RSS (English original) · Count: 30
+> Fetched: 2026-11-19 03:12 UTC · Source: Fox News RSS (English original) · Count: 30
 
 ## Index
 
-1. [Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season](#1-patriots-chargers-game-loses-primetime-slot-as-nfl-makes-fir)
-2. [Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar](#2-alaska-dem-peltola-defeats-sullivan-flipping-9th-gop-senate)
-3. [College Football Playoff Rankings: Texas rewarded for thrilling win vs LSU, Georgia remains top dog](#3-college-football-playoff-rankings-texas-rewarded-for-thrilli)
-4. [Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions](#4-mamdani-s-luxury-second-home-tax-hits-500m-milestone-despite)
-5. [Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner](#5-ken-griffin-target-of-zohran-mamdani-has-officially-sold-his)
-6. [Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt](#6-major-drug-kingpin-the-kraken-captured-in-california-after-y)
-7. [Former Yankees slugger Mark Teixeira celebrates as Congress’s version of Mr Irrelevant at office lottery](#7-former-yankees-slugger-mark-teixeira-celebrates-as-congress)
-8. [‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos](#8-landman-star-ali-larter-sizzles-in-low-cut-mini-dress-in-be)
-9. [New lawsuit alleges AI app 'Bron' used LeBron James’ tattoos, voice and jersey to promote sports-betting tool](#9-new-lawsuit-alleges-ai-app-bron-used-lebron-james-tattoos-vo)
-10. [Ring of Honor's Deonna Purrazzo fires back on notion independent wrestling is dead: 'I think they're so wrong'](#10-ring-of-honor-s-deonna-purrazzo-fires-back-on-notion-indepen)
-11. [MLB announces Silver Slugger Awards and two rookies achieve feat not done since Ichiro Suzuki, Albert Pujols](#11-mlb-announces-silver-slugger-awards-and-two-rookies-achieve)
-12. [Patrick & Brittany Mahomes announce fourth baby's gender, and Chiefs fans will love the Super Bowl omen](#12-patrick-brittany-mahomes-announce-fourth-baby-s-gender-and-c)
-13. [Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: 'Major surgery'](#13-pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru)
-14. [Pentagon sued by The Intercept, Freedom of the Press Foundation over alleged 'blacklist' of news outlets](#14-pentagon-sued-by-the-intercept-freedom-of-the-press-foundati)
-15. [Antonio Sabàto Jr and Virginia Madsen’s son bails himself out of jail after fatal hit-and-run in Alaska](#15-antonio-sab-to-jr-and-virginia-madsen-s-son-bails-himself-ou)
-16. [White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote](#16-white-house-pulls-trump-s-fda-pick-heidi-overton-on-eve-of-s)
-17. [Kim Jong Un's daughter hits ski slopes in rare photos as North Korean dictator tours mountain resort](#17-kim-jong-un-s-daughter-hits-ski-slopes-in-rare-photos-as-nor)
-18. ['Mob Wives' star Renee Graziano rejects NYC Mayor Zohran Mamdani as 'not my choice' in public safety clash](#18-mob-wives-star-renee-graziano-rejects-nyc-mayor-zohran-mamd)
-19. [Trump administration permanently pulls funding from LA homeless agency over mounting fraud allegations](#19-trump-administration-permanently-pulls-funding-from-la-homel)
-20. [Variety recommends trans actress Hunter Schafer as next Bond girl alongside Robert Pattinson](#20-variety-recommends-trans-actress-hunter-schafer-as-next-bond)
-21. [Skydiving injury leaves 24-year-old tourist stranded in Australia on medical no-fly list](#21-skydiving-injury-leaves-24-year-old-tourist-stranded-in-aust)
-22. [Pentagon detains senior US Army officer accused of spying for Russians after UK arrest](#22-pentagon-detains-senior-us-army-officer-accused-of-spying-fo)
-23. [Paige Spiranac leaves it all on the field, and little to the imagination, while asking NFL fans tough question](#23-paige-spiranac-leaves-it-all-on-the-field-and-little-to-the)
-24. [Steelers star says international games 'freak me out' after Aidan Hutchinson's injury in Germany](#24-steelers-star-says-international-games-freak-me-out-after-ai)
-25. [Irish boxer Lee Reeves dies at 31 after three months in a coma following Dublin fight](#25-irish-boxer-lee-reeves-dies-at-31-after-three-months-in-a-co)
-26. [White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'](#26-white-house-blasts-trumpcare-for-all-pitch-from-far-left-el)
-27. [POWs, teens among 6 US soldiers from Korean War identified seven decades later](#27-pows-teens-among-6-us-soldiers-from-korean-war-identified-se)
-28. [Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’](#28-senior-us-official-undercuts-cnn-s-alarming-iran-dirty-bomb)
-29. [Judge fires back at Fani Willis' office in courtroom clash over Trump case: 'Due process doesn't apply to you'](#29-judge-fires-back-at-fani-willis-office-in-courtroom-clash-ov)
-30. [Dems campaign promise to freeze energy costs faces glaring reality check](#30-dems-campaign-promise-to-freeze-energy-costs-faces-glaring-r)
+1. ['The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'](#1-the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-j)
+2. [Fred Warner calls Mexico City NFL game 'super special' as Mexican roots take center stage](#2-fred-warner-calls-mexico-city-nfl-game-super-special-as-mexi)
+3. [President Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’](#3-president-trump-downplays-panic-over-tech-outages-nobody-s-g)
+4. [Taylor Swift returns to the CMA Awards stage for the first time in 13 years as Ella Langley wins big](#4-taylor-swift-returns-to-the-cma-awards-stage-for-the-first-t)
+5. [Alabama QB Keelon Russell's mother sues Marriott over twin's death, hotel counters with 911 audio](#5-alabama-qb-keelon-russell-s-mother-sues-marriott-over-twin-s)
+6. [Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown](#6-bukele-gets-hero-s-welcome-from-afar-as-thousands-rally-in-h)
+7. [Mayor of US city with largest Muslim population calls El-Sayed's election 'an American story'](#7-mayor-of-us-city-with-largest-muslim-population-calls-el-say)
+8. [Mamdani grilled on rhetoric toward Oct 7, combating antisemitism as Jewish New Yorkers fear current climate](#8-mamdani-grilled-on-rhetoric-toward-oct-7-combating-antisemit)
+9. [Cowboys star Quinnen Williams repeats six word answer 12 times in presser after major coaching change](#9-cowboys-star-quinnen-williams-repeats-six-word-answer-12-tim)
+10. [Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond](#10-jeff-bezos-says-he-was-heavily-involved-in-picking-robert-pa)
+11. [Obama-era homeless policy fueled crisis it promised to end, expert says as Trump admin makes striking reversal](#11-obama-era-homeless-policy-fueled-crisis-it-promised-to-end-e)
+12. [No 1 Florida loses to Houston as four of the preseason AP top five fall before Thanksgiving](#12-no-1-florida-loses-to-houston-as-four-of-the-preseason-ap-to)
+13. [Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet](#13-iran-warns-bahrain-monarchy-its-survival-is-at-risk-amid-pus)
+14. [Tyler Herro's three-words sums up status with ex-teammate Bam Adebayo for first game since punching incident](#14-tyler-herro-s-three-words-sums-up-status-with-ex-teammate-ba)
+15. [Patrick McEnroe joins Rep Tim Walberg to back Team USA Act capping foreign college athletes at 20% of rosters](#15-patrick-mcenroe-joins-rep-tim-walberg-to-back-team-usa-act-c)
+16. [Wife and daughter arrested after DNA IDs man whose severed head was found in trash bag](#16-wife-and-daughter-arrested-after-dna-ids-man-whose-severed-h)
+17. [Muslims poised to outnumber Christians globally by 2035 amid demographic shifts](#17-muslims-poised-to-outnumber-christians-globally-by-2035-amid)
+18. [Bucket list vacation destination just got a lot tougher for Americans to reach](#18-bucket-list-vacation-destination-just-got-a-lot-tougher-for)
+19. [Carville dares far-left to 'run somebody' against mainstream Dems in primary and end their 'civil war'](#19-carville-dares-far-left-to-run-somebody-against-mainstream-d)
+20. [CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet](#20-cma-awards-2026-taylor-swift-lainey-wilson-and-ella-langley)
+21. [New statements from Rob Manfred, MLBPA, guarantee baseball is shut down indefinitely in two weeks | Ian Miller](#21-new-statements-from-rob-manfred-mlbpa-guarantee-baseball-is)
+22. [Multiple Bigfoot sightings reported by gamers who have gotten their hands on 'GTA VI'](#22-multiple-bigfoot-sightings-reported-by-gamers-who-have-gotte)
+23. [Irish activist indicted in US over alleged destruction of $60M military plane](#23-irish-activist-indicted-in-us-over-alleged-destruction-of-60)
+24. [Two bad teams, one cheap ticket: Jets-Chargers seats barely cost more than a SoFi cheeseburger](#24-two-bad-teams-one-cheap-ticket-jets-chargers-seats-barely-co)
+25. [Giants' Cam Skattebo putting his backflip on the back burner after seeing Aidan Hutchinson celebration injury](#25-giants-cam-skattebo-putting-his-backflip-on-the-back-burner)
+26. [Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI](#26-dozens-of-army-soldiers-sign-up-for-unique-reenlistment-ince)
+27. [Mullin defends TSA shoes-on policy after congressman calls classified briefing ‘very concerning’](#27-mullin-defends-tsa-shoes-on-policy-after-congressman-calls-c)
+28. [Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska](#28-hundreds-of-subpoenas-fly-in-doj-s-decoy-dan-probe-as-democr)
+29. [Jeffries brushes off opposition from far-left Dems who voted no: 'We’re going to work together'](#29-jeffries-brushes-off-opposition-from-far-left-dems-who-voted)
+30. [DHS denounces TX officials for allegedly planning to end cooperation with ICE](#30-dhs-denounces-tx-officials-for-allegedly-planning-to-end-coo)
 
 ---
 
-<a id="1-patriots-chargers-game-loses-primetime-slot-as-nfl-makes-fir"></a>
-## 1. Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season
+<a id="1-the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-j"></a>
+## 1. 'The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'
+
+- **Section:** fox-news/media
+- **Published:** Wed, 18 Nov 2026 22:00:58 -0500
+- **Link:** https://www.foxnews.com/media/the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-jr-get-his-a-out-there
+- **Image:**
+
+!['The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'](https://static.foxnews.com/foxnews.com/content/uploads/2026/11/whoopi-gif.gif)
+
+
+"The View" co-host Whoopi Goldberg demanded Congress impeach HHS Secretary Robert F. Kennedy Jr. after the U.S. lost its measles elimination status Tuesday.
+
+---
+
+<a id="2-fred-warner-calls-mexico-city-nfl-game-super-special-as-mexi"></a>
+## 2. Fred Warner calls Mexico City NFL game 'super special' as Mexican roots take center stage
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 22:59:15 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/patriots-chargers-game-loses-primetime-slot-nfl-makes-first-flex-scheduling-move-2026-season
+- **Published:** Wed, 18 Nov 2026 21:25:09 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/fred-warner-calls-mexico-city-nfl-game-super-special-mexican-roots-center-stage
 - **Image:**
 
-![Patriots-Chargers game loses primetime slot as NFL makes first flex scheduling move of 2026 season](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Cleveland-Browns-players-celebrates.jpg?ve=1&tl=1)
+![Fred Warner calls Mexico City NFL game 'super special' as Mexican roots take center stage](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Fred-Warner-NFL.jpg?ve=1&tl=1)
 
 
-The NFL flexed the Las Vegas Raiders-Cleveland Browns game into "Sunday Night Football" for Week 12, bumping New England Patriots-Los Angeles Chargers.
+Fred Warner, who leads the 49ers with 88 tackles, calls returning to Mexico City "super special" as San Francisco preps at high elevation for the Vikings.
 
 ---
 
-<a id="2-alaska-dem-peltola-defeats-sullivan-flipping-9th-gop-senate"></a>
-## 2. Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar
+<a id="3-president-trump-downplays-panic-over-tech-outages-nobody-s-g"></a>
+## 3. President Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’
 
-- **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 22:27:24 -0500
-- **Link:** https://www.foxnews.com/politics/alaska-dem-peltola-defeats-sullivan-flipping-gop-senate-seat-decoy-dan-uproar
+- **Section:** fox-news/media
+- **Published:** Wed, 18 Nov 2026 21:22:49 -0500
+- **Link:** https://www.foxnews.com/media/president-trump-downplays-panic-tech-outages-nobody-going-play-games-us
 - **Image:**
 
-![Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/alaska-senate-election-results-mary-peltola.jpg?ve=1&tl=1)
+![President Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ef6e06bf-trump-china.png?ve=1&tl=1)
 
 
-Democrats seized a 56-44 majority in the U.S. Senate after Mary Peltola defeated Alaska Republican Sen. Dan S. Sullivan in a race that featured a same-name ballot challenger.
+President Donald Trump urged Americans to "relax" over FAA and Microsoft outages, warning any country that targeted U.S. systems would be hit hard.
 
 ---
 
-<a id="3-college-football-playoff-rankings-texas-rewarded-for-thrilli"></a>
-## 3. College Football Playoff Rankings: Texas rewarded for thrilling win vs LSU, Georgia remains top dog
+<a id="4-taylor-swift-returns-to-the-cma-awards-stage-for-the-first-t"></a>
+## 4. Taylor Swift returns to the CMA Awards stage for the first time in 13 years as Ella Langley wins big
+
+- **Section:** fox-news/entertainment
+- **Published:** Wed, 18 Nov 2026 21:16:34 -0500
+- **Link:** https://www.foxnews.com/entertainment/taylor-swift-returns-cma-awards-first-time-over-decade-ella-langley-ties-record
+- **Image:**
+
+![Taylor Swift returns to the CMA Awards stage for the first time in 13 years as Ella Langley wins big](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/swift-langley.jpg?ve=1&tl=1)
+
+
+Lainey Wilson returns to host the CMA Awards as Ella Langley's 9 nominations tie the all-time female record at Nashville's Bridgestone Arena.
+
+---
+
+<a id="5-alabama-qb-keelon-russell-s-mother-sues-marriott-over-twin-s"></a>
+## 5. Alabama QB Keelon Russell's mother sues Marriott over twin's death, hotel counters with 911 audio
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 22:24:02 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/college-football-playoff-rankings-texas-rewarded-thrilling-win-vs-lsu-georgia-remains-top-dog
+- **Published:** Wed, 18 Nov 2026 21:16:19 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/alabama-qb-keelon-russell-mother-sues-marriott-twin-death-hotel-counters-911-audio
 - **Image:**
 
-![College Football Playoff Rankings: Texas rewarded for thrilling win vs LSU, Georgia remains top dog](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/arch-manning-touchdown-texas-lsu.jpg?ve=1&tl=1)
+![Alabama QB Keelon Russell's mother sues Marriott over twin's death, hotel counters with 911 audio](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/keelon-russell-alabama-tiger-stadium.jpg?ve=1&tl=1)
 
 
-Arch Manning led a game-winning drive past the Tigers as Texas jumped to No. 5 in the College Football Playoff rankings, with Georgia holding at No. 1.
+April Moore says a hotel worker knocked during CPR and no AED was available as she sues Marriott International over daughter Kierston Russell's death.
 
 ---
 
-<a id="4-mamdani-s-luxury-second-home-tax-hits-500m-milestone-despite"></a>
-## 4. Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions
+<a id="6-bukele-gets-hero-s-welcome-from-afar-as-thousands-rally-in-h"></a>
+## 6. Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown
 
-- **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 22:06:17 -0500
-- **Link:** https://www.foxnews.com/politics/mamdanis-luxury-second-home-tax-hits-500m-milestone-despite-thousands-exemptions
+- **Section:** fox-news/world
+- **Published:** Wed, 18 Nov 2026 21:12:36 -0500
+- **Link:** https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown
 - **Image:**
 
-![Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/zohran-mamdani-nyc-luxury-second-home-tax.jpg?ve=1&tl=1)
+![Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/haiti-march.jpg?ve=1&tl=1)
 
 
-Mayor Zohran Mamdani's pied-à-terre tax has billed wealthy second-home owners more than $500 million, even as tax bills fell far below initial estimates.
+Thousands marched in Haiti to thank Nayib Bukele for sending troops to battle violent gangs, prompting an emotional response from the Salvadoran president.
 
 ---
 
-<a id="5-ken-griffin-target-of-zohran-mamdani-has-officially-sold-his"></a>
-## 5. Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner
+<a id="7-mayor-of-us-city-with-largest-muslim-population-calls-el-say"></a>
+## 7. Mayor of US city with largest Muslim population calls El-Sayed's election 'an American story'
+
+- **Section:** fox-news/media
+- **Published:** Wed, 18 Nov 2026 21:10:24 -0500
+- **Link:** https://www.foxnews.com/media/mayor-us-city-largest-muslim-population-calls-el-sayed-election-an-american-story
+- **Image:**
+
+![Mayor of US city with largest Muslim population calls El-Sayed's election 'an American story'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dearbornmayor.jpg?ve=1&tl=1)
+
+
+Sen. Abdul El-Sayed's historic win drew praise from Dearborn's mayor, who calls the first Muslim American elected to the Senate a truly American story.
+
+---
+
+<a id="8-mamdani-grilled-on-rhetoric-toward-oct-7-combating-antisemit"></a>
+## 8. Mamdani grilled on rhetoric toward Oct 7, combating antisemitism as Jewish New Yorkers fear current climate
+
+- **Section:** fox-news/media
+- **Published:** Wed, 18 Nov 2026 20:49:06 -0500
+- **Link:** https://www.foxnews.com/media/mamdani-grilled-rhetoric-oct-7-combatting-antisemitism-jewish-new-yorkers-fear-current-climate
+- **Image:**
+
+![Mamdani grilled on rhetoric toward Oct 7, combating antisemitism as Jewish New Yorkers fear current climate](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/Zohran-Mamdani-Dealbook-1.jpg?ve=1&tl=1)
+
+
+New York City Mayor Zohran Mamdani defended his Oct. 7 X post at The New York Times' DealBook Summit, telling Andrew Ross Sorkin there must be room to mourn everyone.
+
+---
+
+<a id="9-cowboys-star-quinnen-williams-repeats-six-word-answer-12-tim"></a>
+## 9. Cowboys star Quinnen Williams repeats six word answer 12 times in presser after major coaching change
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 21:42:50 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/ken-griffin-target-zohran-mamdani-officially-sold-58-million-apartment-ny-jets-owner
+- **Published:** Wed, 18 Nov 2026 20:45:33 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/cowboys-star-quinnen-williams-repeats-six-word-answer-12-times-presser-major-coaching-change
 - **Image:**
 
-![Ken Griffin, target of Zohran Mamdani, has officially sold his $58 million apartment to NY Jets owner](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/mamdani-ken-griffin.png?ve=1&tl=1)
+![Cowboys star Quinnen Williams repeats six word answer 12 times in presser after major coaching change](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/quinnen-williams-cowboys-saints-fox-news_.jpg?ve=1&tl=1)
 
 
-Ken Griffin says NYC Mayor Zohran Mamdani's pied-à-terre tax pushed him to double down on Miami, selling an apartment to Jets owner Woody Johnson.
+Quinnen Williams repeated six words 12 times to reporters as the Dallas Cowboys defense, last in the NFL at 393.8 yards per game, faces heavy scrutiny.
 
 ---
 
-<a id="6-major-drug-kingpin-the-kraken-captured-in-california-after-y"></a>
-## 6. Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt
+<a id="10-jeff-bezos-says-he-was-heavily-involved-in-picking-robert-pa"></a>
+## 10. Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond
+
+- **Section:** fox-news/entertainment
+- **Published:** Wed, 18 Nov 2026 20:30:06 -0500
+- **Link:** https://www.foxnews.com/entertainment/jeff-bezos-says-he-heavily-involved-picking-robert-pattinson-james-bond
+- **Image:**
+
+![Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeff-bezos-roebrt-pattinson.jpg?ve=1&tl=1)
+
+
+Jeff Bezos says Robert Pattinson's fame initially worked against him in the James Bond casting until old-fashioned screen tests made it obvious.
+
+---
+
+<a id="11-obama-era-homeless-policy-fueled-crisis-it-promised-to-end-e"></a>
+## 11. Obama-era homeless policy fueled crisis it promised to end, expert says as Trump admin makes striking reversal
 
 - **Section:** fox-news/us
-- **Published:** Tue, 17 Nov 2026 21:41:40 -0500
-- **Link:** https://www.foxnews.com/us/major-drug-kingpin-the-kraken-captured-california-after-yearslong-hunt
+- **Published:** Wed, 18 Nov 2026 20:02:11 -0500
+- **Link:** https://www.foxnews.com/us/obama-era-homeless-policy-fueled-crisis-promised-end-expert-says-trump-admin-makes-striking-reversal
 - **Image:**
 
-![Major drug kingpin ‘The Kraken’ captured in California after yearslong hunt](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/axel-montejo-saenz-kraken-arrest-san-diego.png?ve=1&tl=1)
+![Obama-era homeless policy fueled crisis it promised to end, expert says as Trump admin makes striking reversal](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/barack-obama-los-angeles-homeless.jpg?ve=1&tl=1)
 
 
-Alleged Guatemalan cocaine kingpin Axel Montejo Saenz, known as "Kraken," was arrested in San Diego after agents seized over 5,500 kilograms of cocaine, authorities said.
+Homeless services veteran Michele Steeb says LA’s funding cutoff offers a chance to restore accountability after years of alleged mismanagement.
 
 ---
 
-<a id="7-former-yankees-slugger-mark-teixeira-celebrates-as-congress"></a>
-## 7. Former Yankees slugger Mark Teixeira celebrates as Congress’s version of Mr Irrelevant at office lottery
+<a id="12-no-1-florida-loses-to-houston-as-four-of-the-preseason-ap-to"></a>
+## 12. No 1 Florida loses to Houston as four of the preseason AP top five fall before Thanksgiving
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 21:35:13 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/former-yankees-slugger-mark-teixeira-celebrates-congress-version-mr-irrelevant-office-lottery
+- **Published:** Wed, 18 Nov 2026 19:55:02 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/no-1-florida-loses-houston-four-preseason-ap-top-five-fall-before-thanksgiving
 - **Image:**
 
-![Former Yankees slugger Mark Teixeira celebrates as Congress’s version of Mr Irrelevant at office lottery](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/mark-teixeira-office-lottery-draw.jpg?ve=1&tl=1)
+![No 1 Florida loses to Houston as four of the preseason AP top five fall before Thanksgiving](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/thomas-haugh-florida-gators-houston-cougars.jpg?ve=1&tl=1)
 
 
-Mark Teixeira drew chip No. 105 of 105 in the House freshman office lottery, earning Congress's "Mr. Irrelevant" tag and a playful un-victory lap.
+Dedan Thomas Jr. scored 30 as No. 8 Houston avenged its 2025 national title loss by beating No. 1 Florida 86-76, handing the Gators their first loss.
 
 ---
 
-<a id="8-landman-star-ali-larter-sizzles-in-low-cut-mini-dress-in-be"></a>
-## 8. ‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos
-
-- **Section:** fox-news/entertainment
-- **Published:** Tue, 17 Nov 2026 21:05:09 -0500
-- **Link:** https://www.foxnews.com/entertainment/landman-star-ali-larter-sizzles-low-cut-mini-dress-behind-the-scenes-season-three-photos
-- **Image:**
-
-![‘Landman’ star Ali Larter sizzles in low-cut mini dress in behind-the-scenes Season 3 photos](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/ali-larter-smiles-landman.jpg?ve=1&tl=1)
-
-
-Ali Larter shares behind-the-scenes photos from "Landman" Season 3 in Texas, including a selfie with Sam Elliott and a TCU football game appearance.
-
----
-
-<a id="9-new-lawsuit-alleges-ai-app-bron-used-lebron-james-tattoos-vo"></a>
-## 9. New lawsuit alleges AI app 'Bron' used LeBron James’ tattoos, voice and jersey to promote sports-betting tool
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 20:58:10 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/lawsuit-alleges-ai-app-bron-used-lebron-james-tattoos-voice-jersey-promote-sports-betting-tool
-- **Image:**
-
-![New lawsuit alleges AI app 'Bron' used LeBron James’ tattoos, voice and jersey to promote sports-betting tool](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lebron-james-hands-on-hips.jpg?ve=1&tl=1)
-
-
-LeBron James alleges an AI sports-betting app called "Bron" faked his endorsement, with its ad viewed about 1 million times before it was taken down.
-
----
-
-<a id="10-ring-of-honor-s-deonna-purrazzo-fires-back-on-notion-indepen"></a>
-## 10. Ring of Honor's Deonna Purrazzo fires back on notion independent wrestling is dead: 'I think they're so wrong'
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 20:53:26 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/ring-of-honor-deonna-purrazzo-fires-back-notion-independent-wrestling-dead-think-theyre-so-wrong
-- **Image:**
-
-![Ring of Honor's Deonna Purrazzo fires back on notion independent wrestling is dead: 'I think they're so wrong'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/deonna-purrazzo-aew-collision-ring.jpg?ve=1&tl=1)
-
-
-Ring of Honor star Deonna Purrazzo says independent wrestling is far from dead as her charity shows with Steve Maclin fund veterans and a school district.
-
----
-
-<a id="11-mlb-announces-silver-slugger-awards-and-two-rookies-achieve"></a>
-## 11. MLB announces Silver Slugger Awards and two rookies achieve feat not done since Ichiro Suzuki, Albert Pujols
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 20:50:49 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/mlb-announces-silver-slugger-awards-two-rookies-achieve-feat-not-done-since-ichiro-suzuki-albert-pujols
-- **Image:**
-
-![MLB announces Silver Slugger Awards and two rookies achieve feat not done since Ichiro Suzuki, Albert Pujols](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/chase-delauer-guardians-alcs-tropicana-field.jpg?ve=1&tl=1)
-
-
-The 2026 Silver Slugger Awards honor 13 first-time winners, the most in 20 years, as Bobby Witt Jr., Pete Alonso and Kyle Schwarber take home hardware.
-
----
-
-<a id="12-patrick-brittany-mahomes-announce-fourth-baby-s-gender-and-c"></a>
-## 12. Patrick & Brittany Mahomes announce fourth baby's gender, and Chiefs fans will love the Super Bowl omen
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 20:50:49 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/patrick-mahomes-announces-fourth-baby-gender-chiefs-fans-love-super-bowl-omen
-- **Image:**
-
-![Patrick & Brittany Mahomes announce fourth baby's gender, and Chiefs fans will love the Super Bowl omen](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/patrick-mahomes.jpg?ve=1&tl=1)
-
-
-Kansas City Chiefs quarterback Patrick Mahomes and wife Brittany Mahomes are expecting a baby boy, he announced in an Instagram gender reveal featuring a blue-frosting cake.
-
----
-
-<a id="13-pope-leo-breaks-silence-on-rosary-striking-his-face-in-peru"></a>
-## 13. Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: 'Major surgery'
+<a id="13-iran-warns-bahrain-monarchy-its-survival-is-at-risk-amid-pus"></a>
+## 13. Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet
 
 - **Section:** fox-news/world
-- **Published:** Tue, 17 Nov 2026 20:40:55 -0500
-- **Link:** https://www.foxnews.com/world/pope-leo-breaks-silence-rosary-striking-face-peru-reveals-details-cancer-major-surgery
+- **Published:** Wed, 18 Nov 2026 19:54:57 -0500
+- **Link:** https://www.foxnews.com/world/iran-warns-bahrain-monarchy-survival-risk-amid-push-evict-us-fifth-fleet
 - **Image:**
 
-![Pope Leo breaks silence on rosary striking his face in Peru, reveals details about cancer: 'Major surgery'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pope-leo-plane-peru-home.jpg?ve=1&tl=1)
+![Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/al-khalifa-mohebbi.jpg?ve=1&tl=1)
 
 
-Pope Leo XIV says his lung cancer was found in a routine check-up with no symptoms, crediting prayer and doctors for his recovery before the Peru trip.
+Iran's Islamic Revolutionary Guard Corps warned Bahrain's monarchy its survival is in doubt as drones and missiles hit the U.S. Navy's Fifth Fleet home.
 
 ---
 
-<a id="14-pentagon-sued-by-the-intercept-freedom-of-the-press-foundati"></a>
-## 14. Pentagon sued by The Intercept, Freedom of the Press Foundation over alleged 'blacklist' of news outlets
+<a id="14-tyler-herro-s-three-words-sums-up-status-with-ex-teammate-ba"></a>
+## 14. Tyler Herro's three-words sums up status with ex-teammate Bam Adebayo for first game since punching incident
 
-- **Section:** fox-news/media
-- **Published:** Tue, 17 Nov 2026 20:30:40 -0500
-- **Link:** https://www.foxnews.com/media/pentagon-sued-intercept-freedom-press-foundation-alleged-blacklist-news-outlets
+- **Section:** fox-news/outkick-sports
+- **Published:** Wed, 18 Nov 2026 19:51:54 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/tyler-herro-three-words-sums-status-ex-teammate-bam-adebayo-first-game-since-punching-incident
 - **Image:**
 
-![Pentagon sued by The Intercept, Freedom of the Press Foundation over alleged 'blacklist' of news outlets](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/524/pentagon-aerial-image.jpg?ve=1&tl=1)
+![Tyler Herro's three-words sums up status with ex-teammate Bam Adebayo for first game since punching incident](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Bam-Adebayo-Tyler-Herro-handshake.jpg?ve=1&tl=1)
 
 
-The Freedom of the Press Foundation and The Intercept sued the Pentagon over an alleged journalist blacklist, citing a CENTCOM warning to journalist Nick Turse.
+Tyler Herro says he hasn't talked to Bam Adebayo as the Miami Heat host the Bucks in their first meeting since the reported Summer League altercation.
 
 ---
 
-<a id="15-antonio-sab-to-jr-and-virginia-madsen-s-son-bails-himself-ou"></a>
-## 15. Antonio Sabàto Jr and Virginia Madsen’s son bails himself out of jail after fatal hit-and-run in Alaska
+<a id="15-patrick-mcenroe-joins-rep-tim-walberg-to-back-team-usa-act-c"></a>
+## 15. Patrick McEnroe joins Rep Tim Walberg to back Team USA Act capping foreign college athletes at 20% of rosters
 
-- **Section:** fox-news/entertainment
-- **Published:** Tue, 17 Nov 2026 20:05:49 -0500
-- **Link:** https://www.foxnews.com/entertainment/antonio-sabato-jr-virginia-madsens-son-bails-himself-out-jail-after-fatal-hit-and-run-alaska
+- **Section:** fox-news/outkick-sports
+- **Published:** Wed, 18 Nov 2026 19:45:32 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/patrick-mcenroe-joins-rep-tim-walberg-back-team-usa-act-capping-foreign-college-athletes-20-percent-rosters
 - **Image:**
 
-![Antonio Sabàto Jr and Virginia Madsen’s son bails himself out of jail after fatal hit-and-run in Alaska](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/anthony-sabato_-virgina-madsen_-jack-sabato.jpg?ve=1&tl=1)
+![Patrick McEnroe joins Rep Tim Walberg to back Team USA Act capping foreign college athletes at 20% of rosters](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/patrick-capitol-mcenroe-team-usa-act-tennis-1.jpg?ve=1&tl=1)
 
 
-Jack Sabàto, son of Antonio Sabàto Jr. and Virginia Madsen, posted $5,000 bail after an Anchorage hit-and-run that killed Carl Simmonds, police said.
+Outside the U.S. Capitol, Patrick McEnroe backed the TEAM USA Act, citing nearly 70% foreign Division I tennis rosters as U.S. taxpayers fund Olympians.
 
 ---
 
-<a id="16-white-house-pulls-trump-s-fda-pick-heidi-overton-on-eve-of-s"></a>
-## 16. White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote
+<a id="16-wife-and-daughter-arrested-after-dna-ids-man-whose-severed-h"></a>
+## 16. Wife and daughter arrested after DNA IDs man whose severed head was found in trash bag
 
-- **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 20:04:59 -0500
-- **Link:** https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote
+- **Section:** fox-news/us
+- **Published:** Wed, 18 Nov 2026 19:37:58 -0500
+- **Link:** https://www.foxnews.com/us/wife-daughter-arrested-after-dna-ids-man-whose-severed-head-found-trash-bag
 - **Image:**
 
-![White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/heidi-overton.png?ve=1&tl=1)
+![Wife and daughter arrested after DNA IDs man whose severed head was found in trash bag](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/gwenn-mary-fitzmaurice-mugshots-mosquito-fire-foresthill.png?ve=1&tl=1)
 
 
-President Donald Trump's FDA pick, Heidi Overton, saw her nomination pulled one day before a Senate committee vote, a White House official confirmed.
+Mary Fitzmaurice allegedly kept collecting her father's Social Security and pension benefits after his death, telling relatives he was still alive.
 
 ---
 
-<a id="17-kim-jong-un-s-daughter-hits-ski-slopes-in-rare-photos-as-nor"></a>
-## 17. Kim Jong Un's daughter hits ski slopes in rare photos as North Korean dictator tours mountain resort
+<a id="17-muslims-poised-to-outnumber-christians-globally-by-2035-amid"></a>
+## 17. Muslims poised to outnumber Christians globally by 2035 amid demographic shifts
 
 - **Section:** fox-news/world
-- **Published:** Tue, 17 Nov 2026 20:00:29 -0500
-- **Link:** https://www.foxnews.com/world/kim-jong-uns-daughter-hits-ski-slopes-rare-photos-north-korean-dictator-tours-mountain-resort
+- **Published:** Wed, 18 Nov 2026 19:28:08 -0500
+- **Link:** https://www.foxnews.com/world/muslims-poised-outnumber-christians-globally-2035-amid-demographic-shifts
 - **Image:**
 
-![Kim Jong Un's daughter hits ski slopes in rare photos as North Korean dictator tours mountain resort](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kim-jong-un-samjiyon-tourist-zone-fox-news_.jpg?ve=1&tl=1)
+![Muslims poised to outnumber Christians globally by 2035 amid demographic shifts](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/muslims-christians.jpg?ve=1&tl=1)
 
 
-Kim Jong Un watched from a throne-like chair, cigarette in hand, as his daughter Kim Ju Ae skied down a snowy North Korean resort during a family outing.
+Pew Research Center study projects Muslims will outnumber Christians worldwide by 2035, driven by higher fertility rates and younger populations.
 
 ---
 
-<a id="18-mob-wives-star-renee-graziano-rejects-nyc-mayor-zohran-mamd"></a>
-## 18. 'Mob Wives' star Renee Graziano rejects NYC Mayor Zohran Mamdani as 'not my choice' in public safety clash
-
-- **Section:** fox-news/media
-- **Published:** Tue, 17 Nov 2026 19:55:56 -0500
-- **Link:** https://www.foxnews.com/media/mob-wives-star-renee-graziano-rejects-nyc-mayor-zohran-mamdani-not-my-choice-public-safety-clash
-- **Image:**
-
-!['Mob Wives' star Renee Graziano rejects NYC Mayor Zohran Mamdani as 'not my choice' in public safety clash](https://static.foxnews.com/foxnews.com/content/uploads/2026/11/RENEE-GRAZIANO-GIF.gif)
-
-
-Former "Mob Wives" star Renee Graziano criticized NYC Mayor Zohran Mamdani and criminal justice policies on Tomi Lahren's podcast, as Mamdani defended his NYPD overhaul.
-
----
-
-<a id="19-trump-administration-permanently-pulls-funding-from-la-homel"></a>
-## 19. Trump administration permanently pulls funding from LA homeless agency over mounting fraud allegations
-
-- **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 19:55:30 -0500
-- **Link:** https://www.foxnews.com/politics/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegations
-- **Image:**
-
-![Trump administration permanently pulls funding from LA homeless agency over mounting fraud allegations](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/skid-row-california-fox-news-1.jpg?ve=1&tl=1)
-
-
-The Los Angeles Homeless Services Authority will give up about $150 million in federal funding under a HUD settlement, with LA County managing the money.
-
----
-
-<a id="20-variety-recommends-trans-actress-hunter-schafer-as-next-bond"></a>
-## 20. Variety recommends trans actress Hunter Schafer as next Bond girl alongside Robert Pattinson
-
-- **Section:** fox-news/media
-- **Published:** Tue, 17 Nov 2026 19:42:38 -0500
-- **Link:** https://www.foxnews.com/media/variety-recommends-trans-actress-hunter-schafer-next-bond-girl-alongside-robert-pattinson
-- **Image:**
-
-![Variety recommends trans actress Hunter Schafer as next Bond girl alongside Robert Pattinson](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/hunter-schafer-robert-pattinson.jpg?ve=1&tl=1)
-
-
-Variety recommended trans "Euphoria" star Hunter Schafer as the next Bond girl opposite new 007 Robert Pattinson, saying the casting would "make history."
-
----
-
-<a id="21-skydiving-injury-leaves-24-year-old-tourist-stranded-in-aust"></a>
-## 21. Skydiving injury leaves 24-year-old tourist stranded in Australia on medical no-fly list
+<a id="18-bucket-list-vacation-destination-just-got-a-lot-tougher-for"></a>
+## 18. Bucket list vacation destination just got a lot tougher for Americans to reach
 
 - **Section:** fox-news/travel
-- **Published:** Tue, 17 Nov 2026 19:40:18 -0500
-- **Link:** https://www.foxnews.com/travel/skydiving-injury-leaves-24-year-old-tourist-stranded-australia-medical-no-fly-list
+- **Published:** Wed, 18 Nov 2026 19:07:37 -0500
+- **Link:** https://www.foxnews.com/travel/bucket-list-vacation-destination-got-lot-tougher-americans-reach
 - **Image:**
 
-![Skydiving injury leaves 24-year-old tourist stranded in Australia on medical no-fly list](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/UK-BRIT-TRAPPED-IN-AUSTRALIA-TRAVEL-VACATION-3.jpg?ve=1&tl=1)
+![Bucket list vacation destination just got a lot tougher for Americans to reach](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/guide-tourists-ecotour-cahuita-national-park.jpg?ve=1&tl=1)
 
 
-Chloe Lowe of the United Kingdom says a 10,000-foot skydiving jump in Australia left her with a damaged eardrum, an infection, vertigo and a not-fit-to-fly certificate.
+U.S. airlines are cutting seats to popular vacation destination Costa Rica this winter, with January capacity down 12.5%, and San José hit harder than Liberia as airfares climb.
 
 ---
 
-<a id="22-pentagon-detains-senior-us-army-officer-accused-of-spying-fo"></a>
-## 22. Pentagon detains senior US Army officer accused of spying for Russians after UK arrest
+<a id="19-carville-dares-far-left-to-run-somebody-against-mainstream-d"></a>
+## 19. Carville dares far-left to 'run somebody' against mainstream Dems in primary and end their 'civil war'
 
-- **Section:** fox-news/us
-- **Published:** Tue, 17 Nov 2026 19:26:16 -0500
-- **Link:** https://www.foxnews.com/us/pentagon-detains-senior-us-army-officer-accused-spying-russians-after-uk-arrest
+- **Section:** fox-news/media
+- **Published:** Wed, 18 Nov 2026 19:06:11 -0500
+- **Link:** https://www.foxnews.com/media/carville-dares-far-left-run-somebody-against-mainstream-dems-primary-end-civil-war
 - **Image:**
 
-![Pentagon detains senior US Army officer accused of spying for Russians after UK arrest](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/army-uniform.jpg?ve=1&tl=1)
+![Carville dares far-left to 'run somebody' against mainstream Dems in primary and end their 'civil war'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/CARVILLE-SOCIALISTS-FLAG.jpg?ve=1&tl=1)
 
 
-Lt. Col. Brandon Tyner was handed to U.S. military authorities after British counterterrorism police arrested him on suspicion of spying for Russia.
+James Carville challenged the far-left wing of the Democratic Party to test its popularity and run a dream candidate against mainstream rivals in the 2028 presidential primary.
 
 ---
 
-<a id="23-paige-spiranac-leaves-it-all-on-the-field-and-little-to-the"></a>
-## 23. Paige Spiranac leaves it all on the field, and little to the imagination, while asking NFL fans tough question
+<a id="20-cma-awards-2026-taylor-swift-lainey-wilson-and-ella-langley"></a>
+## 20. CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet
+
+- **Section:** fox-news/entertainment
+- **Published:** Wed, 18 Nov 2026 19:03:41 -0500
+- **Link:** https://www.foxnews.com/entertainment/cma-awards-2026-taylor-swift-lainey-wilson-ella-langley-dazzle-stars-hit-red-carpet
+- **Image:**
+
+![CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/taylor-lainey-ella.jpg?ve=1&tl=1)
+
+
+Taylor Swift and more hit the CMA Awards red carpet in standout styles. See all the looks and vote for your favorite fashion moment.
+
+---
+
+<a id="21-new-statements-from-rob-manfred-mlbpa-guarantee-baseball-is"></a>
+## 21. New statements from Rob Manfred, MLBPA, guarantee baseball is shut down indefinitely in two weeks | Ian Miller
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 19:15:49 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/paige-spiranac-leaves-field-little-imagination-asking-nfl-fans-tough-question
+- **Published:** Wed, 18 Nov 2026 19:01:58 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/new-statements-rob-manfred-mlbpa-guarantee-baseball-shut-down-indefinitely-two-weeks-ian-miller
 - **Image:**
 
-![Paige Spiranac leaves it all on the field, and little to the imagination, while asking NFL fans tough question](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/paige-spiranac-nfl-fans-favorite-team.jpg?ve=1&tl=1)
+![New statements from Rob Manfred, MLBPA, guarantee baseball is shut down indefinitely in two weeks | Ian Miller](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/manfred-2026-mlb-draft.jpg?ve=1&tl=1)
 
 
-Paige Spiranac showcases a new NFL collection for Swag Golf while asking fans which team is their favorite, revealing her Steelers and Bills roots.
+MLB commissioner Rob Manfred says owners will not compromise on a salary cap and floor as CBA negotiations with the MLBPA near a Dec. 2 lockout.
 
 ---
 
-<a id="24-steelers-star-says-international-games-freak-me-out-after-ai"></a>
-## 24. Steelers star says international games 'freak me out' after Aidan Hutchinson's injury in Germany
+<a id="22-multiple-bigfoot-sightings-reported-by-gamers-who-have-gotte"></a>
+## 22. Multiple Bigfoot sightings reported by gamers who have gotten their hands on 'GTA VI'
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 19:08:36 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/steelers-star-says-international-games-freak-me-out-after-aidan-hutchinson-injury-germany
+- **Published:** Wed, 18 Nov 2026 19:00:33 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/multiple-bigfoot-sightings-reported-gamers-hands-gta-vi
 - **Image:**
 
-![Steelers star says international games 'freak me out' after Aidan Hutchinson's injury in Germany](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aidan-hutchinson-injury-sack-celebration.jpg?ve=1&tl=1)
+![Multiple Bigfoot sightings reported by gamers who have gotten their hands on 'GTA VI'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/sasquatch-bigfoot-costume.jpg?ve=1&tl=1)
 
 
-Pittsburgh Steelers star Cameron Heyward said international games "freak me out" over field concerns after Aidan Hutchinson's brutal injury in Germany.
+Players report "GTA VI" Bigfoot sightings in the woods of Leonida, with video showing gamers knocked out by noxious fumes before enormous feet approach.
 
 ---
 
-<a id="25-irish-boxer-lee-reeves-dies-at-31-after-three-months-in-a-co"></a>
-## 25. Irish boxer Lee Reeves dies at 31 after three months in a coma following Dublin fight
+<a id="23-irish-activist-indicted-in-us-over-alleged-destruction-of-60"></a>
+## 23. Irish activist indicted in US over alleged destruction of $60M military plane
+
+- **Section:** fox-news/world
+- **Published:** Wed, 18 Nov 2026 18:29:34 -0500
+- **Link:** https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane
+- **Image:**
+
+![Irish activist indicted in US over alleged destruction of $60M military plane](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/C-130-Hercules-aircraft-damage-at-Shannon-Airport.jpg?ve=1&tl=1)
+
+
+United States prosecutors say Daithi O'Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair
+
+---
+
+<a id="24-two-bad-teams-one-cheap-ticket-jets-chargers-seats-barely-co"></a>
+## 24. Two bad teams, one cheap ticket: Jets-Chargers seats barely cost more than a SoFi cheeseburger
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Tue, 17 Nov 2026 18:55:17 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/irish-boxer-lee-reeves-dies-31-three-months-coma-following-dublin-fight
+- **Published:** Wed, 18 Nov 2026 18:08:26 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/two-bad-teams-one-cheap-ticket-jets-chargers-seats-barely-cost-more-than-sofi-cheeseburger
 - **Image:**
 
-![Irish boxer Lee Reeves dies at 31 after three months in a coma following Dublin fight](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/lee-reeves-gary-cully-boxing-dublin.jpg?ve=1&tl=1)
+![Two bad teams, one cheap ticket: Jets-Chargers seats barely cost more than a SoFi cheeseburger](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Justin-Herbert-Geno-Smith.jpg?ve=1&tl=1)
 
 
-Lee Reeves died at 31 after emergency brain surgery and a medically induced coma following his 10th-round knockout loss to Gary Cully at Dublin's 3Arena.
+Aaron Glenn's New York Jets have lost five straight, and the matchup with the 1-8 Los Angeles Chargers has fans paying just $26 as both teams eye the NFL Draft instead.
 
 ---
 
-<a id="26-white-house-blasts-trumpcare-for-all-pitch-from-far-left-el"></a>
-## 26. White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'
+<a id="25-giants-cam-skattebo-putting-his-backflip-on-the-back-burner"></a>
+## 25. Giants' Cam Skattebo putting his backflip on the back burner after seeing Aidan Hutchinson celebration injury
 
-- **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 18:10:20 -0500
-- **Link:** https://www.foxnews.com/politics/white-house-blasts-trumpcare-all-pitch-far-left-el-sayed-called-president-unserious-fool
+- **Section:** fox-news/outkick-sports
+- **Published:** Wed, 18 Nov 2026 18:01:49 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/giants-cam-skattebo-putting-backflip-back-burner-after-seeing-aidan-hutchinson-celebration-injury
 - **Image:**
 
-![White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/El-Sayed-Trump-Split-Photo-1_001.jpg?ve=1&tl=1)
+![Giants' Cam Skattebo putting his backflip on the back burner after seeing Aidan Hutchinson celebration injury](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/nfl-giants-cam-skattebo-092125-3.jpg?ve=1&tl=1)
 
 
-White House slammed Abdul El-Sayed's "Trumpcare for All" pitch, warning the Medicare for All plan would threaten Americans' existing health coverage.
+Cam Skattebo says his New York Giants backflip celebration is done after Aidan Hutchinson's knee injury, though a playoff moment could bring it back.
 
 ---
 
-<a id="27-pows-teens-among-6-us-soldiers-from-korean-war-identified-se"></a>
-## 27. POWs, teens among 6 US soldiers from Korean War identified seven decades later
+<a id="26-dozens-of-army-soldiers-sign-up-for-unique-reenlistment-ince"></a>
+## 26. Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI
 
 - **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 17:16:57 -0500
-- **Link:** https://www.foxnews.com/politics/pows-teens-among-6-us-soldiers-korean-war-identified-seven-decades-later
+- **Published:** Wed, 18 Nov 2026 17:40:20 -0500
+- **Link:** https://www.foxnews.com/politics/dozens-army-soldiers-sign-up-unique-reenlistment-incentive-play-grand-theft-auto-vi
 - **Image:**
 
-![POWs, teens among 6 US soldiers from Korean War identified seven decades later](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/6e365cd1-korean-war-us-soldiers.jpg?ve=1&tl=1)
+![Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/gtavi-controller.png?ve=1&tl=1)
 
 
-The DPAA identified six U.S. soldiers missing from the Korean War, including two teenagers, decades after they died as prisoners of war or in action.
+The U.S. Army offered Fort Stewart soldiers four-day passes to play "Grand Theft Auto VI" as a reenlistment perk, and 43 of 130 eligible troops took it.
 
 ---
 
-<a id="28-senior-us-official-undercuts-cnn-s-alarming-iran-dirty-bomb"></a>
-## 28. Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’
+<a id="27-mullin-defends-tsa-shoes-on-policy-after-congressman-calls-c"></a>
+## 27. Mullin defends TSA shoes-on policy after congressman calls classified briefing ‘very concerning’
 
 - **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 16:11:31 -0500
-- **Link:** https://www.foxnews.com/politics/senior-us-official-undercuts-cnns-alarming-iran-dirty-bomb-report-its-not-new
+- **Published:** Wed, 18 Nov 2026 15:55:51 -0500
+- **Link:** https://www.foxnews.com/politics/mullin-defends-tsa-shoes-on-policy-after-congressman-calls-classified-briefing-very-concerning
 - **Image:**
 
-![Senior US official undercuts CNN’s alarming Iran ‘dirty bomb’ report: ‘It’s not new’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/IRGC.jpg?ve=1&tl=1)
+![Mullin defends TSA shoes-on policy after congressman calls classified briefing ‘very concerning’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/homeland-security-secretary-markwayne-mullin.jpg?ve=1&tl=1)
 
 
-President Donald Trump warned Iran would pay a price "no country has ever paid" if a dirty bomb threat to Washington, D.C., proves real, amid divided assessments.
+Markwayne Mullin defended the TSA shoe removal policy at a House Homeland Security hearing, telling Rep. Eli Crane the change never put anyone at risk.
 
 ---
 
-<a id="29-judge-fires-back-at-fani-willis-office-in-courtroom-clash-ov"></a>
-## 29. Judge fires back at Fani Willis' office in courtroom clash over Trump case: 'Due process doesn't apply to you'
+<a id="28-hundreds-of-subpoenas-fly-in-doj-s-decoy-dan-probe-as-democr"></a>
+## 28. Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska
 
 - **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 16:00:36 -0500
-- **Link:** https://www.foxnews.com/politics/judge-fires-back-fani-willis-office-courtroom-clash-trump-case-due-process-doesnt-apply
+- **Published:** Wed, 18 Nov 2026 14:54:54 -0500
+- **Link:** https://www.foxnews.com/politics/hundreds-subpoenas-fly-doj-decoy-dan-probe-democrat-peltola-declared-winner-alaska
 - **Image:**
 
-![Judge fires back at Fani Willis' office in courtroom clash over Trump case: 'Due process doesn't apply to you'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/trump-fani-wilis.jpg?ve=1&tl=1)
+![Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mary-peltola-alaska-senate-race.jpg?ve=1&tl=1)
 
 
-A Georgia appeals judge grilled Fani Willis' office over its bid to challenge nearly $17 million in legal-fee requests from Trump and other ex-defendants.
+The DOJ has issued 200 subpoenas in a multi-state criminal probe tied to "Decoy" Dan J. Sullivan's Alaska Senate run, per a law enforcement source.
 
 ---
 
-<a id="30-dems-campaign-promise-to-freeze-energy-costs-faces-glaring-r"></a>
-## 30. Dems campaign promise to freeze energy costs faces glaring reality check
+<a id="29-jeffries-brushes-off-opposition-from-far-left-dems-who-voted"></a>
+## 29. Jeffries brushes off opposition from far-left Dems who voted no: 'We’re going to work together'
 
 - **Section:** fox-news/politics
-- **Published:** Tue, 17 Nov 2026 15:31:11 -0500
-- **Link:** https://www.foxnews.com/politics/dems-campaign-promise-freeze-energy-costs-faces-glaring-reality-check
+- **Published:** Wed, 18 Nov 2026 14:35:32 -0500
+- **Link:** https://www.foxnews.com/politics/jeffries-brushes-off-opposition-far-left-dems-voted-no-work-together
 - **Image:**
 
-![Dems campaign promise to freeze energy costs faces glaring reality check](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/abigail-spanberger-va.png?ve=1&tl=1)
+![Jeffries brushes off opposition from far-left Dems who voted no: 'We’re going to work together'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/gettyimages-2212464486.jpg?ve=1&tl=1)
 
 
-Sam Romain of Americans for Energy Dominance says Democrats' energy price controls, from Gina Hinojosa's Texas rate freeze to state caps, can't fix supply.
+House Minority Leader Hakeem Jeffries won his caucus's speaker nomination despite 11 dissenting Democrats citing Medicar-for-all, ICE and Gaza.
+
+---
+
+<a id="30-dhs-denounces-tx-officials-for-allegedly-planning-to-end-coo"></a>
+## 30. DHS denounces TX officials for allegedly planning to end cooperation with ICE
+
+- **Section:** fox-news/politics
+- **Published:** Wed, 18 Nov 2026 14:23:45 -0500
+- **Link:** https://www.foxnews.com/politics/dhs-denounces-tx-officials-allegedly-planning-end-cooperation-ice
+- **Image:**
+
+![DHS denounces TX officials for allegedly planning to end cooperation with ICE](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/markwayne-mullin-dhs-sec.png?ve=1&tl=1)
+
+
+Homeland Security Secretary Markwayne Mullin says Texas mayors' ICE cooperation bans would be a dereliction of duty, citing murderers and terrorists.
 
 ---
