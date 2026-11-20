@@ -1,488 +1,488 @@
 # Fox News Hot 30
 
-> Fetched: 2026-11-19 03:12 UTC · Source: Fox News RSS (English original) · Count: 30
+> Fetched: 2026-11-20 02:06 UTC · Source: Fox News RSS (English original) · Count: 30
 
 ## Index
 
-1. ['The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'](#1-the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-j)
-2. [Fred Warner calls Mexico City NFL game 'super special' as Mexican roots take center stage](#2-fred-warner-calls-mexico-city-nfl-game-super-special-as-mexi)
-3. [President Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’](#3-president-trump-downplays-panic-over-tech-outages-nobody-s-g)
-4. [Taylor Swift returns to the CMA Awards stage for the first time in 13 years as Ella Langley wins big](#4-taylor-swift-returns-to-the-cma-awards-stage-for-the-first-t)
-5. [Alabama QB Keelon Russell's mother sues Marriott over twin's death, hotel counters with 911 audio](#5-alabama-qb-keelon-russell-s-mother-sues-marriott-over-twin-s)
-6. [Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown](#6-bukele-gets-hero-s-welcome-from-afar-as-thousands-rally-in-h)
-7. [Mayor of US city with largest Muslim population calls El-Sayed's election 'an American story'](#7-mayor-of-us-city-with-largest-muslim-population-calls-el-say)
-8. [Mamdani grilled on rhetoric toward Oct 7, combating antisemitism as Jewish New Yorkers fear current climate](#8-mamdani-grilled-on-rhetoric-toward-oct-7-combating-antisemit)
-9. [Cowboys star Quinnen Williams repeats six word answer 12 times in presser after major coaching change](#9-cowboys-star-quinnen-williams-repeats-six-word-answer-12-tim)
-10. [Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond](#10-jeff-bezos-says-he-was-heavily-involved-in-picking-robert-pa)
-11. [Obama-era homeless policy fueled crisis it promised to end, expert says as Trump admin makes striking reversal](#11-obama-era-homeless-policy-fueled-crisis-it-promised-to-end-e)
-12. [No 1 Florida loses to Houston as four of the preseason AP top five fall before Thanksgiving](#12-no-1-florida-loses-to-houston-as-four-of-the-preseason-ap-to)
-13. [Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet](#13-iran-warns-bahrain-monarchy-its-survival-is-at-risk-amid-pus)
-14. [Tyler Herro's three-words sums up status with ex-teammate Bam Adebayo for first game since punching incident](#14-tyler-herro-s-three-words-sums-up-status-with-ex-teammate-ba)
-15. [Patrick McEnroe joins Rep Tim Walberg to back Team USA Act capping foreign college athletes at 20% of rosters](#15-patrick-mcenroe-joins-rep-tim-walberg-to-back-team-usa-act-c)
-16. [Wife and daughter arrested after DNA IDs man whose severed head was found in trash bag](#16-wife-and-daughter-arrested-after-dna-ids-man-whose-severed-h)
-17. [Muslims poised to outnumber Christians globally by 2035 amid demographic shifts](#17-muslims-poised-to-outnumber-christians-globally-by-2035-amid)
-18. [Bucket list vacation destination just got a lot tougher for Americans to reach](#18-bucket-list-vacation-destination-just-got-a-lot-tougher-for)
-19. [Carville dares far-left to 'run somebody' against mainstream Dems in primary and end their 'civil war'](#19-carville-dares-far-left-to-run-somebody-against-mainstream-d)
-20. [CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet](#20-cma-awards-2026-taylor-swift-lainey-wilson-and-ella-langley)
-21. [New statements from Rob Manfred, MLBPA, guarantee baseball is shut down indefinitely in two weeks | Ian Miller](#21-new-statements-from-rob-manfred-mlbpa-guarantee-baseball-is)
-22. [Multiple Bigfoot sightings reported by gamers who have gotten their hands on 'GTA VI'](#22-multiple-bigfoot-sightings-reported-by-gamers-who-have-gotte)
-23. [Irish activist indicted in US over alleged destruction of $60M military plane](#23-irish-activist-indicted-in-us-over-alleged-destruction-of-60)
-24. [Two bad teams, one cheap ticket: Jets-Chargers seats barely cost more than a SoFi cheeseburger](#24-two-bad-teams-one-cheap-ticket-jets-chargers-seats-barely-co)
-25. [Giants' Cam Skattebo putting his backflip on the back burner after seeing Aidan Hutchinson celebration injury](#25-giants-cam-skattebo-putting-his-backflip-on-the-back-burner)
-26. [Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI](#26-dozens-of-army-soldiers-sign-up-for-unique-reenlistment-ince)
-27. [Mullin defends TSA shoes-on policy after congressman calls classified briefing ‘very concerning’](#27-mullin-defends-tsa-shoes-on-policy-after-congressman-calls-c)
-28. [Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska](#28-hundreds-of-subpoenas-fly-in-doj-s-decoy-dan-probe-as-democr)
-29. [Jeffries brushes off opposition from far-left Dems who voted no: 'We’re going to work together'](#29-jeffries-brushes-off-opposition-from-far-left-dems-who-voted)
-30. [DHS denounces TX officials for allegedly planning to end cooperation with ICE](#30-dhs-denounces-tx-officials-for-allegedly-planning-to-end-coo)
+1. [EXCLUSIVE: Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade](#1-exclusive-retired-police-sergeant-issues-warning-over-mamdan)
+2. [Masked protesters chant 'Charlie Kirk deserved to die' outside TPUSA event at University of Washington](#2-masked-protesters-chant-charlie-kirk-deserved-to-die-outside)
+3. [Democrat lawmaker hit with federal indictment over alleged $240K COVID fraud scheme](#3-democrat-lawmaker-hit-with-federal-indictment-over-alleged-2)
+4. [Aidan Hutchinson breaks silence after season-ending injury and announces decision about continuing celebration](#4-aidan-hutchinson-breaks-silence-after-season-ending-injury-a)
+5. [Cowboys coach says he considered walking away from team after crushing demotion](#5-cowboys-coach-says-he-considered-walking-away-from-team-afte)
+6. [Valerie Bertinelli shows off her stomach in new video, and fans say she’s ‘aging backwards’](#6-valerie-bertinelli-shows-off-her-stomach-in-new-video-and-fa)
+7. [Al Gore says climate change supporters 'keep quiet' about their beliefs for fear of retaliation](#7-al-gore-says-climate-change-supporters-keep-quiet-about-thei)
+8. [Legendary Las Vegas buffet to close for renovations after rumors swirled of its demise](#8-legendary-las-vegas-buffet-to-close-for-renovations-after-ru)
+9. [Cowboys great Michael Irvin outlines franchise's timeline to retain 'America’s Team' status](#9-cowboys-great-michael-irvin-outlines-franchise-s-timeline-to)
+10. [Hasan Piker complains the far left has less leverage with Democratic Party because the Dems won too many seats](#10-hasan-piker-complains-the-far-left-has-less-leverage-with-de)
+11. [Baltimore DC Anthony Weaver addresses Marlon Humphrey 1-game banishment over city crime remarks](#11-baltimore-dc-anthony-weaver-addresses-marlon-humphrey-1-game)
+12. [Trump clears hurdle in $15 billion lawsuit against New York Times](#12-trump-clears-hurdle-in-15-billion-lawsuit-against-new-york-t)
+13. [Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more](#13-meta-ai-glasses-are-up-to-25-off-shop-ray-ban-oakley-and-mor)
+14. [House China panel calls for cutting defense contracts over aerospace ties to Beijing's military](#14-house-china-panel-calls-for-cutting-defense-contracts-over-a)
+15. [Teen accused of fatally shooting identical twin brother after fight about touching his belongings](#15-teen-accused-of-fatally-shooting-identical-twin-brother-afte)
+16. [49ers' Kyle Juszczyk reveals hardest part of playing in Mexico City as San Fran returns to face Vikings](#16-49ers-kyle-juszczyk-reveals-hardest-part-of-playing-in-mexic)
+17. [Human vs. ChatGPT NFL Week 11 betting picks: A struggling human backs ugly underdogs to stop the slide](#17-human-vs-chatgpt-nfl-week-11-betting-picks-a-struggling-huma)
+18. [Locals of Michigan city with largest Muslim population believe America should look more like Dearborn](#18-locals-of-michigan-city-with-largest-muslim-population-belie)
+19. [Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough](#19-zelenskyy-presses-us-for-expanded-russia-talks-as-kushner-an)
+20. [Hakeem Jeffries wins overwhelming Speaker-designate vote as progressives' revolt falls flat](#20-hakeem-jeffries-wins-overwhelming-speaker-designate-vote-as)
+21. [Sarah Huckabee Sanders recalls ‘jarring’ encounter with angry mom who spat on her car](#21-sarah-huckabee-sanders-recalls-jarring-encounter-with-angry)
+22. [NWSL boss says all fans are 'welcome' ahead of final after multiple ejections of women's sports advocates](#22-nwsl-boss-says-all-fans-are-welcome-ahead-of-final-after-mul)
+23. [ASRA Q. NOMANI: Inside the coordinated activist blitz that crashed Anthropic’s historic Nasdaq debut](#23-asra-q-nomani-inside-the-coordinated-activist-blitz-that-cra)
+24. [Washington voters protected women’s sports. ACLU wants to overturn democracy](#24-washington-voters-protected-women-s-sports-aclu-wants-to-ove)
+25. [Michigan WR Andrew Marsh charged with indecent exposure after alleged incident with delivery driver](#25-michigan-wr-andrew-marsh-charged-with-indecent-exposure-afte)
+26. [Trump scores key win over House progressive accused of assaulting ICE agent](#26-trump-scores-key-win-over-house-progressive-accused-of-assau)
+27. [$1M-a-day China tech crackdown proposed amid cascade of US cyber disruptions](#27-1m-a-day-china-tech-crackdown-proposed-amid-cascade-of-us-c)
+28. [Trump ally Bill Essayli tapped to lead investigation of Biden officials over Mar-a-Lago raid](#28-trump-ally-bill-essayli-tapped-to-lead-investigation-of-bide)
+29. [Americans could face $100 hike in internet bills under plan eyed by lawmakers](#29-americans-could-face-100-hike-in-internet-bills-under-plan-e)
+30. [Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms](#30-dems-gop-rebels-fail-to-rein-in-trump-s-iran-war-in-senate-b)
 
 ---
 
-<a id="1-the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-j"></a>
-## 1. 'The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'
+<a id="1-exclusive-retired-police-sergeant-issues-warning-over-mamdan"></a>
+## 1. EXCLUSIVE: Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade
+
+- **Section:** fox-news/politics
+- **Published:** Thu, 19 Nov 2026 20:57:47 -0500
+- **Link:** https://www.foxnews.com/politics/exclusive-retired-police-sergeant-issues-warning-over-mamdanis-nypd-shake-up-ahead-thanksgiving-parade
+- **Image:**
+
+![EXCLUSIVE: Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Mamdani-disbands-SRG-at-NYPD.jpg?ve=1&tl=1)
+
+
+New York City's Macy's Thanksgiving Day Parade could face security gaps after the NYPD's Strategic Response Group disbandment, a retired sergeant warns.
+
+---
+
+<a id="2-masked-protesters-chant-charlie-kirk-deserved-to-die-outside"></a>
+## 2. Masked protesters chant 'Charlie Kirk deserved to die' outside TPUSA event at University of Washington
 
 - **Section:** fox-news/media
-- **Published:** Wed, 18 Nov 2026 22:00:58 -0500
-- **Link:** https://www.foxnews.com/media/the-view-co-host-whoopi-goldberg-demands-dems-impeach-rfk-jr-get-his-a-out-there
+- **Published:** Thu, 19 Nov 2026 20:38:01 -0500
+- **Link:** https://www.foxnews.com/media/masked-protesters-chant-charlie-kirk-deserved-die-outside-tpusa-event-university-washington
 - **Image:**
 
-!['The View' co-host Whoopi Goldberg demands Dems impeach RFK Jr, 'get his a-- out of there'](https://static.foxnews.com/foxnews.com/content/uploads/2026/11/whoopi-gif.gif)
+![Masked protesters chant 'Charlie Kirk deserved to die' outside TPUSA event at University of Washington](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/uw-tpusa-protest.png?ve=1&tl=1)
 
 
-"The View" co-host Whoopi Goldberg demanded Congress impeach HHS Secretary Robert F. Kennedy Jr. after the U.S. lost its measles elimination status Tuesday.
+Videos show masked protesters chanting outside Chloe Cole's TPUSA event at the University of Washington, including some cheering Charlie Kirk's assassination.
 
 ---
 
-<a id="2-fred-warner-calls-mexico-city-nfl-game-super-special-as-mexi"></a>
-## 2. Fred Warner calls Mexico City NFL game 'super special' as Mexican roots take center stage
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 21:25:09 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/fred-warner-calls-mexico-city-nfl-game-super-special-mexican-roots-center-stage
-- **Image:**
-
-![Fred Warner calls Mexico City NFL game 'super special' as Mexican roots take center stage](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Fred-Warner-NFL.jpg?ve=1&tl=1)
-
-
-Fred Warner, who leads the 49ers with 88 tackles, calls returning to Mexico City "super special" as San Francisco preps at high elevation for the Vikings.
-
----
-
-<a id="3-president-trump-downplays-panic-over-tech-outages-nobody-s-g"></a>
-## 3. President Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’
-
-- **Section:** fox-news/media
-- **Published:** Wed, 18 Nov 2026 21:22:49 -0500
-- **Link:** https://www.foxnews.com/media/president-trump-downplays-panic-tech-outages-nobody-going-play-games-us
-- **Image:**
-
-![President Trump downplays panic over tech outages: ‘Nobody’s going to play games with us’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ef6e06bf-trump-china.png?ve=1&tl=1)
-
-
-President Donald Trump urged Americans to "relax" over FAA and Microsoft outages, warning any country that targeted U.S. systems would be hit hard.
-
----
-
-<a id="4-taylor-swift-returns-to-the-cma-awards-stage-for-the-first-t"></a>
-## 4. Taylor Swift returns to the CMA Awards stage for the first time in 13 years as Ella Langley wins big
-
-- **Section:** fox-news/entertainment
-- **Published:** Wed, 18 Nov 2026 21:16:34 -0500
-- **Link:** https://www.foxnews.com/entertainment/taylor-swift-returns-cma-awards-first-time-over-decade-ella-langley-ties-record
-- **Image:**
-
-![Taylor Swift returns to the CMA Awards stage for the first time in 13 years as Ella Langley wins big](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/swift-langley.jpg?ve=1&tl=1)
-
-
-Lainey Wilson returns to host the CMA Awards as Ella Langley's 9 nominations tie the all-time female record at Nashville's Bridgestone Arena.
-
----
-
-<a id="5-alabama-qb-keelon-russell-s-mother-sues-marriott-over-twin-s"></a>
-## 5. Alabama QB Keelon Russell's mother sues Marriott over twin's death, hotel counters with 911 audio
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 21:16:19 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/alabama-qb-keelon-russell-mother-sues-marriott-twin-death-hotel-counters-911-audio
-- **Image:**
-
-![Alabama QB Keelon Russell's mother sues Marriott over twin's death, hotel counters with 911 audio](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/keelon-russell-alabama-tiger-stadium.jpg?ve=1&tl=1)
-
-
-April Moore says a hotel worker knocked during CPR and no AED was available as she sues Marriott International over daughter Kierston Russell's death.
-
----
-
-<a id="6-bukele-gets-hero-s-welcome-from-afar-as-thousands-rally-in-h"></a>
-## 6. Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown
-
-- **Section:** fox-news/world
-- **Published:** Wed, 18 Nov 2026 21:12:36 -0500
-- **Link:** https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown
-- **Image:**
-
-![Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/haiti-march.jpg?ve=1&tl=1)
-
-
-Thousands marched in Haiti to thank Nayib Bukele for sending troops to battle violent gangs, prompting an emotional response from the Salvadoran president.
-
----
-
-<a id="7-mayor-of-us-city-with-largest-muslim-population-calls-el-say"></a>
-## 7. Mayor of US city with largest Muslim population calls El-Sayed's election 'an American story'
-
-- **Section:** fox-news/media
-- **Published:** Wed, 18 Nov 2026 21:10:24 -0500
-- **Link:** https://www.foxnews.com/media/mayor-us-city-largest-muslim-population-calls-el-sayed-election-an-american-story
-- **Image:**
-
-![Mayor of US city with largest Muslim population calls El-Sayed's election 'an American story'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dearbornmayor.jpg?ve=1&tl=1)
-
-
-Sen. Abdul El-Sayed's historic win drew praise from Dearborn's mayor, who calls the first Muslim American elected to the Senate a truly American story.
-
----
-
-<a id="8-mamdani-grilled-on-rhetoric-toward-oct-7-combating-antisemit"></a>
-## 8. Mamdani grilled on rhetoric toward Oct 7, combating antisemitism as Jewish New Yorkers fear current climate
-
-- **Section:** fox-news/media
-- **Published:** Wed, 18 Nov 2026 20:49:06 -0500
-- **Link:** https://www.foxnews.com/media/mamdani-grilled-rhetoric-oct-7-combatting-antisemitism-jewish-new-yorkers-fear-current-climate
-- **Image:**
-
-![Mamdani grilled on rhetoric toward Oct 7, combating antisemitism as Jewish New Yorkers fear current climate](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/Zohran-Mamdani-Dealbook-1.jpg?ve=1&tl=1)
-
-
-New York City Mayor Zohran Mamdani defended his Oct. 7 X post at The New York Times' DealBook Summit, telling Andrew Ross Sorkin there must be room to mourn everyone.
-
----
-
-<a id="9-cowboys-star-quinnen-williams-repeats-six-word-answer-12-tim"></a>
-## 9. Cowboys star Quinnen Williams repeats six word answer 12 times in presser after major coaching change
-
-- **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 20:45:33 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/cowboys-star-quinnen-williams-repeats-six-word-answer-12-times-presser-major-coaching-change
-- **Image:**
-
-![Cowboys star Quinnen Williams repeats six word answer 12 times in presser after major coaching change](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/quinnen-williams-cowboys-saints-fox-news_.jpg?ve=1&tl=1)
-
-
-Quinnen Williams repeated six words 12 times to reporters as the Dallas Cowboys defense, last in the NFL at 393.8 yards per game, faces heavy scrutiny.
-
----
-
-<a id="10-jeff-bezos-says-he-was-heavily-involved-in-picking-robert-pa"></a>
-## 10. Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond
-
-- **Section:** fox-news/entertainment
-- **Published:** Wed, 18 Nov 2026 20:30:06 -0500
-- **Link:** https://www.foxnews.com/entertainment/jeff-bezos-says-he-heavily-involved-picking-robert-pattinson-james-bond
-- **Image:**
-
-![Jeff Bezos says he was 'heavily involved' in picking Robert Pattinson as James Bond](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeff-bezos-roebrt-pattinson.jpg?ve=1&tl=1)
-
-
-Jeff Bezos says Robert Pattinson's fame initially worked against him in the James Bond casting until old-fashioned screen tests made it obvious.
-
----
-
-<a id="11-obama-era-homeless-policy-fueled-crisis-it-promised-to-end-e"></a>
-## 11. Obama-era homeless policy fueled crisis it promised to end, expert says as Trump admin makes striking reversal
+<a id="3-democrat-lawmaker-hit-with-federal-indictment-over-alleged-2"></a>
+## 3. Democrat lawmaker hit with federal indictment over alleged $240K COVID fraud scheme
 
 - **Section:** fox-news/us
-- **Published:** Wed, 18 Nov 2026 20:02:11 -0500
-- **Link:** https://www.foxnews.com/us/obama-era-homeless-policy-fueled-crisis-promised-end-expert-says-trump-admin-makes-striking-reversal
+- **Published:** Thu, 19 Nov 2026 20:29:45 -0500
+- **Link:** https://www.foxnews.com/us/democrat-lawmaker-hit-federal-indictment-alleged-240k-covid-fraud-scheme
 - **Image:**
 
-![Obama-era homeless policy fueled crisis it promised to end, expert says as Trump admin makes striking reversal](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/barack-obama-los-angeles-homeless.jpg?ve=1&tl=1)
+![Democrat lawmaker hit with federal indictment over alleged $240K COVID fraud scheme](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/sellers-indicted.jpg?ve=1&tl=1)
 
 
-Homeless services veteran Michele Steeb says LA’s funding cutoff offers a chance to restore accountability after years of alleged mismanagement.
+Alabama Rep. Patrick Sellers allegedly obtained more than $240,000 through fraudulent applications and used the money for personal expenses.
 
 ---
 
-<a id="12-no-1-florida-loses-to-houston-as-four-of-the-preseason-ap-to"></a>
-## 12. No 1 Florida loses to Houston as four of the preseason AP top five fall before Thanksgiving
+<a id="4-aidan-hutchinson-breaks-silence-after-season-ending-injury-a"></a>
+## 4. Aidan Hutchinson breaks silence after season-ending injury and announces decision about continuing celebration
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 19:55:02 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/no-1-florida-loses-houston-four-preseason-ap-top-five-fall-before-thanksgiving
+- **Published:** Thu, 19 Nov 2026 20:11:46 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/aidan-hutchinson-breaks-silence-season-ending-injury-announces-decision-continuing-celebration
 - **Image:**
 
-![No 1 Florida loses to Houston as four of the preseason AP top five fall before Thanksgiving](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/thomas-haugh-florida-gators-houston-cougars.jpg?ve=1&tl=1)
+![Aidan Hutchinson breaks silence after season-ending injury and announces decision about continuing celebration](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/aidan-hutchinson-sack-celebration-detroit-lions-vikings.jpg?ve=1&tl=1)
 
 
-Dedan Thomas Jr. scored 30 as No. 8 Houston avenged its 2025 national title loss by beating No. 1 Florida 86-76, handing the Gators their first loss.
+Aidan Hutchinson broke his silence on Instagram after his torn ACL, promising to return stronger and vowing that jump celebrations are now behind him.
 
 ---
 
-<a id="13-iran-warns-bahrain-monarchy-its-survival-is-at-risk-amid-pus"></a>
-## 13. Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet
-
-- **Section:** fox-news/world
-- **Published:** Wed, 18 Nov 2026 19:54:57 -0500
-- **Link:** https://www.foxnews.com/world/iran-warns-bahrain-monarchy-survival-risk-amid-push-evict-us-fifth-fleet
-- **Image:**
-
-![Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/al-khalifa-mohebbi.jpg?ve=1&tl=1)
-
-
-Iran's Islamic Revolutionary Guard Corps warned Bahrain's monarchy its survival is in doubt as drones and missiles hit the U.S. Navy's Fifth Fleet home.
-
----
-
-<a id="14-tyler-herro-s-three-words-sums-up-status-with-ex-teammate-ba"></a>
-## 14. Tyler Herro's three-words sums up status with ex-teammate Bam Adebayo for first game since punching incident
+<a id="5-cowboys-coach-says-he-considered-walking-away-from-team-afte"></a>
+## 5. Cowboys coach says he considered walking away from team after crushing demotion
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 19:51:54 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/tyler-herro-three-words-sums-status-ex-teammate-bam-adebayo-first-game-since-punching-incident
+- **Published:** Thu, 19 Nov 2026 19:59:00 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/cowboys-coach-considered-walking-away-team-crushing-demotion
 - **Image:**
 
-![Tyler Herro's three-words sums up status with ex-teammate Bam Adebayo for first game since punching incident](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Bam-Adebayo-Tyler-Herro-handshake.jpg?ve=1&tl=1)
+![Cowboys coach says he considered walking away from team after crushing demotion](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/christian-parker-cowboys-defensive-coordinator-fox-news_.jpg?ve=1&tl=1)
 
 
-Tyler Herro says he hasn't talked to Bam Adebayo as the Miami Heat host the Bucks in their first meeting since the reported Summer League altercation.
+Christian Parker considered walking away from the Dallas Cowboys after losing play-calling duties to Mike Pettine, but said he chose to stay.
 
 ---
 
-<a id="15-patrick-mcenroe-joins-rep-tim-walberg-to-back-team-usa-act-c"></a>
-## 15. Patrick McEnroe joins Rep Tim Walberg to back Team USA Act capping foreign college athletes at 20% of rosters
+<a id="6-valerie-bertinelli-shows-off-her-stomach-in-new-video-and-fa"></a>
+## 6. Valerie Bertinelli shows off her stomach in new video, and fans say she’s ‘aging backwards’
 
-- **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 19:45:32 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/patrick-mcenroe-joins-rep-tim-walberg-back-team-usa-act-capping-foreign-college-athletes-20-percent-rosters
+- **Section:** fox-news/entertainment
+- **Published:** Thu, 19 Nov 2026 19:56:41 -0500
+- **Link:** https://www.foxnews.com/entertainment/valerie-bertinelli-shows-off-her-stomach-new-video-fans-say-shes-aging-backwards
 - **Image:**
 
-![Patrick McEnroe joins Rep Tim Walberg to back Team USA Act capping foreign college athletes at 20% of rosters](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/patrick-capitol-mcenroe-team-usa-act-tennis-1.jpg?ve=1&tl=1)
+![Valerie Bertinelli shows off her stomach in new video, and fans say she’s ‘aging backwards’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/valerie-bertinelli-lifetime-.jpg?ve=1&tl=1)
 
 
-Outside the U.S. Capitol, Patrick McEnroe backed the TEAM USA Act, citing nearly 70% foreign Division I tennis rosters as U.S. taxpayers fund Olympians.
+Valerie Bertinelli lifted her sweater in a new Instagram video to show off her figure, and fans say she's "aging backwards" in the comments.
 
 ---
 
-<a id="16-wife-and-daughter-arrested-after-dna-ids-man-whose-severed-h"></a>
-## 16. Wife and daughter arrested after DNA IDs man whose severed head was found in trash bag
+<a id="7-al-gore-says-climate-change-supporters-keep-quiet-about-thei"></a>
+## 7. Al Gore says climate change supporters 'keep quiet' about their beliefs for fear of retaliation
 
-- **Section:** fox-news/us
-- **Published:** Wed, 18 Nov 2026 19:37:58 -0500
-- **Link:** https://www.foxnews.com/us/wife-daughter-arrested-after-dna-ids-man-whose-severed-head-found-trash-bag
+- **Section:** fox-news/media
+- **Published:** Thu, 19 Nov 2026 19:50:51 -0500
+- **Link:** https://www.foxnews.com/media/al-gore-climate-change-supporters-keep-quiet-beliefs-fear-retaliation
 - **Image:**
 
-![Wife and daughter arrested after DNA IDs man whose severed head was found in trash bag](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/gwenn-mary-fitzmaurice-mugshots-mosquito-fire-foresthill.png?ve=1&tl=1)
+![Al Gore says climate change supporters 'keep quiet' about their beliefs for fear of retaliation](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/al-gore-2017.jpg?ve=1&tl=1)
 
 
-Mary Fitzmaurice allegedly kept collecting her father's Social Security and pension benefits after his death, telling relatives he was still alive.
+Former Vice President Al Gore said supporters of climate action "keep quiet" about their support for fear of backlash amid dwindling polling on the issue.
 
 ---
 
-<a id="17-muslims-poised-to-outnumber-christians-globally-by-2035-amid"></a>
-## 17. Muslims poised to outnumber Christians globally by 2035 amid demographic shifts
-
-- **Section:** fox-news/world
-- **Published:** Wed, 18 Nov 2026 19:28:08 -0500
-- **Link:** https://www.foxnews.com/world/muslims-poised-outnumber-christians-globally-2035-amid-demographic-shifts
-- **Image:**
-
-![Muslims poised to outnumber Christians globally by 2035 amid demographic shifts](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/muslims-christians.jpg?ve=1&tl=1)
-
-
-Pew Research Center study projects Muslims will outnumber Christians worldwide by 2035, driven by higher fertility rates and younger populations.
-
----
-
-<a id="18-bucket-list-vacation-destination-just-got-a-lot-tougher-for"></a>
-## 18. Bucket list vacation destination just got a lot tougher for Americans to reach
+<a id="8-legendary-las-vegas-buffet-to-close-for-renovations-after-ru"></a>
+## 8. Legendary Las Vegas buffet to close for renovations after rumors swirled of its demise
 
 - **Section:** fox-news/travel
-- **Published:** Wed, 18 Nov 2026 19:07:37 -0500
-- **Link:** https://www.foxnews.com/travel/bucket-list-vacation-destination-got-lot-tougher-americans-reach
+- **Published:** Thu, 19 Nov 2026 19:37:03 -0500
+- **Link:** https://www.foxnews.com/travel/legendary-las-vegas-buffet-close-renovations-after-rumors-swirled-its-demise
 - **Image:**
 
-![Bucket list vacation destination just got a lot tougher for Americans to reach](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/guide-tourists-ecotour-cahuita-national-park.jpg?ve=1&tl=1)
+![Legendary Las Vegas buffet to close for renovations after rumors swirled of its demise](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/caesars-palace.jpg?ve=1&tl=1)
 
 
-U.S. airlines are cutting seats to popular vacation destination Costa Rica this winter, with January capacity down 12.5%, and San José hit harder than Liberia as airfares climb.
+Caesars Palace's Bacchanal Buffet in Las Vegas is closing Jan. 4, 2027, for a major renovation of its dessert area and five specialty kitchens. It's expected to reopen in the summer.
 
 ---
 
-<a id="19-carville-dares-far-left-to-run-somebody-against-mainstream-d"></a>
-## 19. Carville dares far-left to 'run somebody' against mainstream Dems in primary and end their 'civil war'
+<a id="9-cowboys-great-michael-irvin-outlines-franchise-s-timeline-to"></a>
+## 9. Cowboys great Michael Irvin outlines franchise's timeline to retain 'America’s Team' status
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Thu, 19 Nov 2026 19:34:28 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/cowboys-great-michael-irvin-outlines-franchises-timeline-retain-americas-team-status
+- **Image:**
+
+![Cowboys great Michael Irvin outlines franchise's timeline to retain 'America’s Team' status](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Michael-Irvin-Dallas-Cowboys-game.jpg?ve=1&tl=1)
+
+
+Michael Irvin says Jerry Jones' Dallas Cowboys have about 10 years to win a Super Bowl before losing the "America's Team" title to another NFC team.
+
+---
+
+<a id="10-hasan-piker-complains-the-far-left-has-less-leverage-with-de"></a>
+## 10. Hasan Piker complains the far left has less leverage with Democratic Party because the Dems won too many seats
 
 - **Section:** fox-news/media
-- **Published:** Wed, 18 Nov 2026 19:06:11 -0500
-- **Link:** https://www.foxnews.com/media/carville-dares-far-left-run-somebody-against-mainstream-dems-primary-end-civil-war
+- **Published:** Thu, 19 Nov 2026 19:30:36 -0500
+- **Link:** https://www.foxnews.com/media/hasan-piker-complains-far-left-less-leverage-democratic-party-dems-won-many-seats
 - **Image:**
 
-![Carville dares far-left to 'run somebody' against mainstream Dems in primary and end their 'civil war'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/CARVILLE-SOCIALISTS-FLAG.jpg?ve=1&tl=1)
+![Hasan Piker complains the far left has less leverage with Democratic Party because the Dems won too many seats](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/hasan-piker-feb-3-2026.jpg?ve=1&tl=1)
 
 
-James Carville challenged the far-left wing of the Democratic Party to test its popularity and run a dream candidate against mainstream rivals in the 2028 presidential primary.
+Hasan Piker lamented Democrats' vast midterm margin weakened the far left's leverage, saying a smaller win could have allowed socialists to pressure the party.
 
 ---
 
-<a id="20-cma-awards-2026-taylor-swift-lainey-wilson-and-ella-langley"></a>
-## 20. CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet
-
-- **Section:** fox-news/entertainment
-- **Published:** Wed, 18 Nov 2026 19:03:41 -0500
-- **Link:** https://www.foxnews.com/entertainment/cma-awards-2026-taylor-swift-lainey-wilson-ella-langley-dazzle-stars-hit-red-carpet
-- **Image:**
-
-![CMA Awards 2026: Taylor Swift, Lainey Wilson and Ella Langley dazzle as stars hit the red carpet](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/taylor-lainey-ella.jpg?ve=1&tl=1)
-
-
-Taylor Swift and more hit the CMA Awards red carpet in standout styles. See all the looks and vote for your favorite fashion moment.
-
----
-
-<a id="21-new-statements-from-rob-manfred-mlbpa-guarantee-baseball-is"></a>
-## 21. New statements from Rob Manfred, MLBPA, guarantee baseball is shut down indefinitely in two weeks | Ian Miller
+<a id="11-baltimore-dc-anthony-weaver-addresses-marlon-humphrey-1-game"></a>
+## 11. Baltimore DC Anthony Weaver addresses Marlon Humphrey 1-game banishment over city crime remarks
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 19:01:58 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/new-statements-rob-manfred-mlbpa-guarantee-baseball-shut-down-indefinitely-two-weeks-ian-miller
+- **Published:** Thu, 19 Nov 2026 19:15:22 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/baltimore-dc-anthony-weaver-addresses-marlon-humphrey-1-game-banishment-city-crime-remarks
 - **Image:**
 
-![New statements from Rob Manfred, MLBPA, guarantee baseball is shut down indefinitely in two weeks | Ian Miller](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/manfred-2026-mlb-draft.jpg?ve=1&tl=1)
+![Baltimore DC Anthony Weaver addresses Marlon Humphrey 1-game banishment over city crime remarks](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/anthony-weaver-baltimore-ravens-falcons_001.jpg?ve=1&tl=1)
 
 
-MLB commissioner Rob Manfred says owners will not compromise on a salary cap and floor as CBA negotiations with the MLBPA near a Dec. 2 lockout.
+Anthony Weaver backed Marlon Humphrey's benching, saying freedom of speech doesn't mean freedom of consequence after the Ravens star's podcast remarks.
 
 ---
 
-<a id="22-multiple-bigfoot-sightings-reported-by-gamers-who-have-gotte"></a>
-## 22. Multiple Bigfoot sightings reported by gamers who have gotten their hands on 'GTA VI'
+<a id="12-trump-clears-hurdle-in-15-billion-lawsuit-against-new-york-t"></a>
+## 12. Trump clears hurdle in $15 billion lawsuit against New York Times
+
+- **Section:** fox-news/media
+- **Published:** Thu, 19 Nov 2026 19:02:15 -0500
+- **Link:** https://www.foxnews.com/media/trump-clears-hurdle-15-billion-lawsuit-against-new-york-times
+- **Image:**
+
+![Trump clears hurdle in $15 billion lawsuit against New York Times](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/931/524/Trump-New-York-Times.jpg?ve=1&tl=1)
+
+
+President Donald Trump’s legal team celebrated Thursday after a judge denied The New York Times’ motion to dismiss a $15 billion defamation lawsuit against the paper.
+
+---
+
+<a id="13-meta-ai-glasses-are-up-to-25-off-shop-ray-ban-oakley-and-mor"></a>
+## 13. Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more
+
+- **Section:** fox-news/deals
+- **Published:** Thu, 19 Nov 2026 18:47:05 -0500
+- **Link:** https://www.foxnews.com/deals/meta-deals
+- **Image:**
+
+![Meta AI glasses are up to 25% off — shop Ray-Ban, Oakley and more](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/524/Meta-AI-glasses.jpeg?ve=1&tl=1)
+
+
+Shop Meta AI glasses starting $249, with savings up to 25% on select Ray-Ban and Oakley styles for the tech lover on your list.
+
+---
+
+<a id="14-house-china-panel-calls-for-cutting-defense-contracts-over-a"></a>
+## 14. House China panel calls for cutting defense contracts over aerospace ties to Beijing's military
+
+- **Section:** fox-news/politics
+- **Published:** Thu, 19 Nov 2026 18:44:37 -0500
+- **Link:** https://www.foxnews.com/politics/house-china-panel-calls-cutting-defense-contracts-over-aerospace-ties-beijings-military
+- **Image:**
+
+![House China panel calls for cutting defense contracts over aerospace ties to Beijing's military](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/china-comac-c919-passenger-jet-singapore-airshow-2026.jpg?ve=1&tl=1)
+
+
+A new House report says Airbus and U.S. defense contractors like GE Aerospace and Honeywell should lose taxpayer funds over China aerospace joint ventures.
+
+---
+
+<a id="15-teen-accused-of-fatally-shooting-identical-twin-brother-afte"></a>
+## 15. Teen accused of fatally shooting identical twin brother after fight about touching his belongings
+
+- **Section:** fox-news/us
+- **Published:** Thu, 19 Nov 2026 18:32:45 -0500
+- **Link:** https://www.foxnews.com/us/teen-accused-fatally-shooting-identical-twin-brother-after-fight-about-touching-his-belongings
+- **Image:**
+
+![Teen accused of fatally shooting identical twin brother after fight about touching his belongings](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jamari-jabrell-young.jpg?ve=1&tl=1)
+
+
+Jamari Young, 16, was arrested in the Washington, D.C., shooting death of his identical twin brother, Jabrell Young. U.S. Marshals took Jamari into custody.
+
+---
+
+<a id="16-49ers-kyle-juszczyk-reveals-hardest-part-of-playing-in-mexic"></a>
+## 16. 49ers' Kyle Juszczyk reveals hardest part of playing in Mexico City as San Fran returns to face Vikings
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 19:00:33 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/multiple-bigfoot-sightings-reported-gamers-hands-gta-vi
+- **Published:** Thu, 19 Nov 2026 18:30:17 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/49ers-kyle-juszczyk-reveals-hardest-part-playing-mexico-city-san-fran-returns-face-vikings
 - **Image:**
 
-![Multiple Bigfoot sightings reported by gamers who have gotten their hands on 'GTA VI'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/sasquatch-bigfoot-costume.jpg?ve=1&tl=1)
+![49ers' Kyle Juszczyk reveals hardest part of playing in Mexico City as San Fran returns to face Vikings](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kyle-juszczyk-49ers-sidelines-national-anthem.jpg?ve=1&tl=1)
 
 
-Players report "GTA VI" Bigfoot sightings in the woods of Leonida, with video showing gamers knocked out by noxious fumes before enormous feet approach.
+The San Francisco 49ers trained at the Air Force Academy to adapt to Mexico City's thin air before facing the Minnesota Vikings on "Sunday Night Football."
 
 ---
 
-<a id="23-irish-activist-indicted-in-us-over-alleged-destruction-of-60"></a>
-## 23. Irish activist indicted in US over alleged destruction of $60M military plane
+<a id="17-human-vs-chatgpt-nfl-week-11-betting-picks-a-struggling-huma"></a>
+## 17. Human vs. ChatGPT NFL Week 11 betting picks: A struggling human backs ugly underdogs to stop the slide
+
+- **Section:** fox-news/outkick-sports
+- **Published:** Thu, 19 Nov 2026 18:30:00 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-11-betting-picks-struggling-human-backs-ugly-underdogs-stop-slide
+- **Image:**
+
+![Human vs. ChatGPT NFL Week 11 betting picks: A struggling human backs ugly underdogs to stop the slide](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/kirk-cousins-vikings-press-conference.jpg?ve=1&tl=1)
+
+
+A 4-11 skid leaves the human searching for answers, while ChatGPT enters NFL Week 11 with two straight winning cards and a chance to erase a shrinking deficit.
+
+---
+
+<a id="18-locals-of-michigan-city-with-largest-muslim-population-belie"></a>
+## 18. Locals of Michigan city with largest Muslim population believe America should look more like Dearborn
+
+- **Section:** fox-news/media
+- **Published:** Thu, 19 Nov 2026 18:21:02 -0500
+- **Link:** https://www.foxnews.com/media/locals-michigan-city-largest-muslim-population-believe-america-should-look-more-like-dearborn
+- **Image:**
+
+![Locals of Michigan city with largest Muslim population believe America should look more like Dearborn](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/dearborn-locals-believe-america-should-embrace-diversity.jpg?ve=1&tl=1)
+
+
+Dearborn locals celebrate their city's diversity as Warren, Michigan residents worry about being pushed out as Muslim immigrants reshape their hometown.
+
+---
+
+<a id="19-zelenskyy-presses-us-for-expanded-russia-talks-as-kushner-an"></a>
+## 19. Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough
 
 - **Section:** fox-news/world
-- **Published:** Wed, 18 Nov 2026 18:29:34 -0500
-- **Link:** https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane
+- **Published:** Thu, 19 Nov 2026 18:20:13 -0500
+- **Link:** https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough
 - **Image:**
 
-![Irish activist indicted in US over alleged destruction of $60M military plane](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/C-130-Hercules-aircraft-damage-at-Shannon-Airport.jpg?ve=1&tl=1)
+![Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/zelenskyy.jpg?ve=1&tl=1)
 
 
-United States prosecutors say Daithi O'Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair
+Jared Kushner said Russia agreed to multilateral Ukraine war talks involving Europe after Zelenskyy urged the Trump administration to move quickly.
 
 ---
 
-<a id="24-two-bad-teams-one-cheap-ticket-jets-chargers-seats-barely-co"></a>
-## 24. Two bad teams, one cheap ticket: Jets-Chargers seats barely cost more than a SoFi cheeseburger
+<a id="20-hakeem-jeffries-wins-overwhelming-speaker-designate-vote-as"></a>
+## 20. Hakeem Jeffries wins overwhelming Speaker-designate vote as progressives' revolt falls flat
+
+- **Section:** fox-news/politics
+- **Published:** Thu, 19 Nov 2026 18:14:40 -0500
+- **Link:** https://www.foxnews.com/politics/hakeem-jeffries-wins-overwhelming-speaker-designate-vote-progressives-revolt-falls-flat
+- **Image:**
+
+![Hakeem Jeffries wins overwhelming Speaker-designate vote as progressives' revolt falls flat](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/jeffries-clark-delbene-dccc-election-watch-party.jpg?ve=1&tl=1)
+
+
+House Democrats unified behind Hakeem Jeffries with 251 of 262 secret ballots as 11 progressive holdouts demanded votes on ICE, Gaza and Citizens United.
+
+---
+
+<a id="21-sarah-huckabee-sanders-recalls-jarring-encounter-with-angry"></a>
+## 21. Sarah Huckabee Sanders recalls ‘jarring’ encounter with angry mom who spat on her car
+
+- **Section:** fox-news/media
+- **Published:** Thu, 19 Nov 2026 18:09:05 -0500
+- **Link:** https://www.foxnews.com/media/sarah-huckabee-sanders-recalls-jarring-encounter-angry-mom-spat-car
+- **Image:**
+
+![Sarah Huckabee Sanders recalls ‘jarring’ encounter with angry mom who spat on her car](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/sarah-huckabee-sanders-trump.png?ve=1&tl=1)
+
+
+Arkansas Gov. Sarah Huckabee Sanders recalled a mom yelling in her face and spitting on her car at pre-K drop-off, a moment she says left her in shock.
+
+---
+
+<a id="22-nwsl-boss-says-all-fans-are-welcome-ahead-of-final-after-mul"></a>
+## 22. NWSL boss says all fans are 'welcome' ahead of final after multiple ejections of women's sports advocates
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 18:08:26 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/two-bad-teams-one-cheap-ticket-jets-chargers-seats-barely-cost-more-than-sofi-cheeseburger
+- **Published:** Thu, 19 Nov 2026 18:00:03 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/nwsl-boss-says-all-fans-welcome-ahead-final-after-multiple-ejections-womens-sports-advocates
 - **Image:**
 
-![Two bad teams, one cheap ticket: Jets-Chargers seats barely cost more than a SoFi cheeseburger](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Justin-Herbert-Geno-Smith.jpg?ve=1&tl=1)
+![NWSL boss says all fans are 'welcome' ahead of final after multiple ejections of women's sports advocates](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/portland-save-womens-sports-001.jpg?ve=1&tl=1)
 
 
-Aaron Glenn's New York Jets have lost five straight, and the matchup with the 1-8 Los Angeles Chargers has fans paying just $26 as both teams eye the NFL Draft instead.
+NWSL Commissioner Jessica Berman says fans of all viewpoints are "100% welcome" as Jennifer Sey will attend the final wearing XX-XY Athletics apparel.
 
 ---
 
-<a id="25-giants-cam-skattebo-putting-his-backflip-on-the-back-burner"></a>
-## 25. Giants' Cam Skattebo putting his backflip on the back burner after seeing Aidan Hutchinson celebration injury
+<a id="23-asra-q-nomani-inside-the-coordinated-activist-blitz-that-cra"></a>
+## 23. ASRA Q. NOMANI: Inside the coordinated activist blitz that crashed Anthropic’s historic Nasdaq debut
+
+- **Section:** fox-news/politics
+- **Published:** Thu, 19 Nov 2026 17:57:07 -0500
+- **Link:** https://www.foxnews.com/politics/asra-q-nomani-inside-coordinated-activist-blitz-crashed-anthropic-historic-nasdaq-debut
+- **Image:**
+
+![ASRA Q. NOMANI: Inside the coordinated activist blitz that crashed Anthropic’s historic Nasdaq debut](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/police-arrest-protester-nasdaq-times-square-fox-news_-scaled.jpg?ve=1&tl=1)
+
+
+As Anthropic rang the Nasdaq opening bell in Times Square, NYPD zip-tied four protesters who blocked the doors with linked arms and pre-printed banners.
+
+---
+
+<a id="24-washington-voters-protected-women-s-sports-aclu-wants-to-ove"></a>
+## 24. Washington voters protected women’s sports. ACLU wants to overturn democracy
+
+- **Section:** fox-news/opinion
+- **Published:** Thu, 19 Nov 2026 17:53:02 -0500
+- **Link:** https://www.foxnews.com/opinion/washington-voters-protected-womens-sports-aclu-wants-overturn-democracy
+- **Image:**
+
+![Washington voters protected women’s sports. ACLU wants to overturn democracy](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/yale-track-runner.jpg?ve=1&tl=1)
+
+
+Washington state voters passed Initiative 638 to protect women's sports, but the ACLU's lawsuit now threatens to overturn their more than 10-point margin.
+
+---
+
+<a id="25-michigan-wr-andrew-marsh-charged-with-indecent-exposure-afte"></a>
+## 25. Michigan WR Andrew Marsh charged with indecent exposure after alleged incident with delivery driver
 
 - **Section:** fox-news/outkick-sports
-- **Published:** Wed, 18 Nov 2026 18:01:49 -0500
-- **Link:** https://www.foxnews.com/outkick-sports/giants-cam-skattebo-putting-backflip-back-burner-after-seeing-aidan-hutchinson-celebration-injury
+- **Published:** Thu, 19 Nov 2026 17:40:54 -0500
+- **Link:** https://www.foxnews.com/outkick-sports/michigan-wr-andrew-marsh-charged-indecent-exposure-alleged-incident-delivery-driver
 - **Image:**
 
-![Giants' Cam Skattebo putting his backflip on the back burner after seeing Aidan Hutchinson celebration injury](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/09/931/523/nfl-giants-cam-skattebo-092125-3.jpg?ve=1&tl=1)
+![Michigan WR Andrew Marsh charged with indecent exposure after alleged incident with delivery driver](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/andrew-marsh-michigan-catch-rutgers.jpg?ve=1&tl=1)
 
 
-Cam Skattebo says his New York Giants backflip celebration is done after Aidan Hutchinson's knee injury, though a playoff moment could bring it back.
+Police say a delivery driver reported Michigan Wolverines wideout Andrew Marsh exposed himself during a food drop-off and messaged asking her to return.
 
 ---
 
-<a id="26-dozens-of-army-soldiers-sign-up-for-unique-reenlistment-ince"></a>
-## 26. Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI
+<a id="26-trump-scores-key-win-over-house-progressive-accused-of-assau"></a>
+## 26. Trump scores key win over House progressive accused of assaulting ICE agent
 
 - **Section:** fox-news/politics
-- **Published:** Wed, 18 Nov 2026 17:40:20 -0500
-- **Link:** https://www.foxnews.com/politics/dozens-army-soldiers-sign-up-unique-reenlistment-incentive-play-grand-theft-auto-vi
+- **Published:** Thu, 19 Nov 2026 15:45:06 -0500
+- **Link:** https://www.foxnews.com/politics/trump-scores-key-win-over-house-progressive-accused-assaulting-ice-agent
 - **Image:**
 
-![Dozens of Army soldiers sign up for unique reenlistment incentive to play Grand Theft Auto VI](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/gtavi-controller.png?ve=1&tl=1)
+![Trump scores key win over House progressive accused of assaulting ICE agent](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/donald-trump-smile-oval-office.jpg?ve=1&tl=1)
 
 
-The U.S. Army offered Fort Stewart soldiers four-day passes to play "Grand Theft Auto VI" as a reenlistment perk, and 43 of 130 eligible troops took it.
+New Jersey Rep. LaMonica McIver says she faces 17 years in prison after the 3rd Circuit refused to reconsider her ICE charges at Delaney Hall.
 
 ---
 
-<a id="27-mullin-defends-tsa-shoes-on-policy-after-congressman-calls-c"></a>
-## 27. Mullin defends TSA shoes-on policy after congressman calls classified briefing ‘very concerning’
+<a id="27-1m-a-day-china-tech-crackdown-proposed-amid-cascade-of-us-c"></a>
+## 27. $1M-a-day China tech crackdown proposed amid cascade of US cyber disruptions
 
 - **Section:** fox-news/politics
-- **Published:** Wed, 18 Nov 2026 15:55:51 -0500
-- **Link:** https://www.foxnews.com/politics/mullin-defends-tsa-shoes-on-policy-after-congressman-calls-classified-briefing-very-concerning
+- **Published:** Thu, 19 Nov 2026 15:37:29 -0500
+- **Link:** https://www.foxnews.com/politics/1m-day-china-tech-crackdown-proposed-amid-cascade-us-cyber-disruptions
 - **Image:**
 
-![Mullin defends TSA shoes-on policy after congressman calls classified briefing ‘very concerning’](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/homeland-security-secretary-markwayne-mullin.jpg?ve=1&tl=1)
+![$1M-a-day China tech crackdown proposed amid cascade of US cyber disruptions](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pat-harrigan-and-canceled-flights.jpg?ve=1&tl=1)
 
 
-Markwayne Mullin defended the TSA shoe removal policy at a House Homeland Security hearing, telling Rep. Eli Crane the change never put anyone at risk.
+Rep. Pat Harrigan says his Digital Infrastructure Act of 2026 would bar high-risk carriers from U.S. data centers and cloud services, with $1M daily fines.
 
 ---
 
-<a id="28-hundreds-of-subpoenas-fly-in-doj-s-decoy-dan-probe-as-democr"></a>
-## 28. Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska
+<a id="28-trump-ally-bill-essayli-tapped-to-lead-investigation-of-bide"></a>
+## 28. Trump ally Bill Essayli tapped to lead investigation of Biden officials over Mar-a-Lago raid
 
 - **Section:** fox-news/politics
-- **Published:** Wed, 18 Nov 2026 14:54:54 -0500
-- **Link:** https://www.foxnews.com/politics/hundreds-subpoenas-fly-doj-decoy-dan-probe-democrat-peltola-declared-winner-alaska
+- **Published:** Thu, 19 Nov 2026 15:21:11 -0500
+- **Link:** https://www.foxnews.com/politics/trump-ally-bill-essayli-tapped-lead-investigation-biden-officials-mar-a-lago-raid
 - **Image:**
 
-![Hundreds of subpoenas fly in DOJ’s ‘Decoy Dan’ probe as Democrat Peltola declared winner in Alaska](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mary-peltola-alaska-senate-race.jpg?ve=1&tl=1)
+![Trump ally Bill Essayli tapped to lead investigation of Biden officials over Mar-a-Lago raid](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Bill-Essayli_002-scaled.jpg?ve=1&tl=1)
 
 
-The DOJ has issued 200 subpoenas in a multi-state criminal probe tied to "Decoy" Dan J. Sullivan's Alaska Senate run, per a law enforcement source.
+Bill Essayli will probe whether Biden officials broke the law in the FBI's 2022 raid on Donald Trump's Mar-a-Lago estate, which sparked Jack Smith's case.
 
 ---
 
-<a id="29-jeffries-brushes-off-opposition-from-far-left-dems-who-voted"></a>
-## 29. Jeffries brushes off opposition from far-left Dems who voted no: 'We’re going to work together'
+<a id="29-americans-could-face-100-hike-in-internet-bills-under-plan-e"></a>
+## 29. Americans could face $100 hike in internet bills under plan eyed by lawmakers
 
 - **Section:** fox-news/politics
-- **Published:** Wed, 18 Nov 2026 14:35:32 -0500
-- **Link:** https://www.foxnews.com/politics/jeffries-brushes-off-opposition-far-left-dems-voted-no-work-together
+- **Published:** Thu, 19 Nov 2026 15:12:15 -0500
+- **Link:** https://www.foxnews.com/politics/americans-could-face-100-hike-internet-bills-under-plan-eyed-lawmakers
 - **Image:**
 
-![Jeffries brushes off opposition from far-left Dems who voted no: 'We’re going to work together'](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/04/931/523/gettyimages-2212464486.jpg?ve=1&tl=1)
+![Americans could face $100 hike in internet bills under plan eyed by lawmakers](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/student-laptop-photo-2.jpg?ve=1&tl=1)
 
 
-House Minority Leader Hakeem Jeffries won his caucus's speaker nomination despite 11 dissenting Democrats citing Medicar-for-all, ICE and Gaza.
+Sens. Deb Fischer and Ben Ray Luján drafted a bill that would add up to $100 to people's internet bills to fund the Universal Service Fund.
 
 ---
 
-<a id="30-dhs-denounces-tx-officials-for-allegedly-planning-to-end-coo"></a>
-## 30. DHS denounces TX officials for allegedly planning to end cooperation with ICE
+<a id="30-dems-gop-rebels-fail-to-rein-in-trump-s-iran-war-in-senate-b"></a>
+## 30. Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms
 
 - **Section:** fox-news/politics
-- **Published:** Wed, 18 Nov 2026 14:23:45 -0500
-- **Link:** https://www.foxnews.com/politics/dhs-denounces-tx-officials-allegedly-planning-end-cooperation-ice
+- **Published:** Thu, 19 Nov 2026 14:51:40 -0500
+- **Link:** https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms
 - **Image:**
 
-![DHS denounces TX officials for allegedly planning to end cooperation with ICE](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/markwayne-mullin-dhs-sec.png?ve=1&tl=1)
+![Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms](https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/trump-looking-down.jpg?ve=1&tl=1)
 
 
-Homeland Security Secretary Markwayne Mullin says Texas mayors' ICE cooperation bans would be a dereliction of duty, citing murderers and terrorists.
+Senate Democrats and rebel Republicans fail to pass a war powers resolution over Trump's Iran war, as Tim Kaine denies Republican shutdown threats.
 
 ---
